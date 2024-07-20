@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Création et configuration [!UICONTROL People-based Destinations]
+# Créer et configurer [!UICONTROL People-based Destinations]
 
-Cette vidéo vous donne d’abord des informations sur les conditions préalables à la création de votre destination basée sur les personnes, puis montre également comment configurer un compte intégré (lien vers le partenaire, par exemple [!DNL Facebook]). Il vous guide tout au long de la configuration intégrée au produit de la destination elle-même.
+Cette vidéo vous donne d’abord des informations sur les conditions préalables à la création de votre destination basée sur les personnes, puis elle vous montre également comment configurer un compte intégré (lien vers le partenaire, par exemple [!DNL Facebook]). Il vous guide tout au long de la configuration intégrée au produit de la destination elle-même.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28955/?quality=12)

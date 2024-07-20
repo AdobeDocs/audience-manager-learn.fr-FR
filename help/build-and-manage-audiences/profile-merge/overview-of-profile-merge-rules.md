@@ -1,7 +1,7 @@
 ---
 title: Présentation des stratégies de fusion de profils
 description: Comprendre les règles de fusion de profils, leur fonctionnement et leur valeur pour le marketeur.
-feature: Fusion des profils
+feature: Profile Merge
 topics: null
 activity: understand
 doc-type: feature video
@@ -13,7 +13,7 @@ level: Intermediate
 exl-id: edabbd66-1ee0-4337-bf27-7f240e8156a8
 source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '36'
+source-wordcount: '34'
 ht-degree: 0%
 
 ---

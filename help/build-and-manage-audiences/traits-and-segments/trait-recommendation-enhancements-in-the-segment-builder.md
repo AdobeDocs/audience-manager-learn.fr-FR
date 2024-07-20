@@ -12,14 +12,14 @@ level: Beginner
 exl-id: 4c792492-48f4-4a3d-8e83-f4eccd270629
 source-git-commit: 124f03208f2b4e3b109b3f02a2d3d59210da5cc7
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
 
 # [!DNL Trait Recommendation] améliorations de la segmentation
 
-Dans cette vidéo, vous apprendrez à utiliser les recommandations de caractéristiques mises à jour dans [!UICONTROL Segments], qui [!UICONTROL Audience Marketplace] recommandations. Vous obtiendrez ainsi des informations supplémentaires sur les données tierces qui peuvent étendre la portée de vos segments.
+Dans cette vidéo, vous apprenez à utiliser les recommandations de caractéristiques mises à jour dans [!UICONTROL Segments], qui sont des recommandations [!UICONTROL Audience Marketplace]. Vous obtiendrez ainsi des informations supplémentaires sur les données tierces qui peuvent étendre la portée de vos segments.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29363/?quality=12)
 

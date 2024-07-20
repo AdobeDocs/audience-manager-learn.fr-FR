@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Création d’un [!UICONTROL Data Source] pour les destinations basées sur les personnes
 
-Cette vidéo vous guide tout au long de la création d’une [!UICONTROL Data Source] dans l’Audience Manager à utiliser pour les destinations basées sur les personnes.
+Cette vidéo vous guide tout au long de la création d’un [!UICONTROL Data Source] en Audience Manager à utiliser pour les destinations basées sur les personnes.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29006/?quality=12)

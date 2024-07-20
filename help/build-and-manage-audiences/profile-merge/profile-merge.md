@@ -12,12 +12,12 @@ level: Intermediate
 exl-id: c3742871-a52c-4de9-9648-bc3afbf19bf5
 source-git-commit: 124f03208f2b4e3b109b3f02a2d3d59210da5cc7
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
 
-# [!UICONTROL Profile Merge] - vidéos et tutoriels
+# [!UICONTROL Profile Merge] - Vidéos et tutoriels
 
 Visionnez les vidéos et les tutoriels pour les fonctionnalités de fusion de profils, y compris les stratégies de fusion de profils. Contrôlez les jeux de données utilisés pour la segmentation et ciblez précisément une personne sur plusieurs périphériques.
 
@@ -32,4 +32,4 @@ Visionnez les vidéos et les tutoriels pour les fonctionnalités de fusion de pr
 * [Interprétation des rapports d’identité d’audience](interpret-audience-identity-reporting.md)
 * [Présentation des mesures sur plusieurs appareils en Audience Manager](understanding-cross-device-metrics-in-audience-manager.md)
 
-Ces vidéos peuvent être utilisées conjointement avec la variable [Documentation sur les stratégies de fusion de profils](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html)
+Ces vidéos peuvent être utilisées avec la [documentation sur les stratégies de fusion de profils](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html)

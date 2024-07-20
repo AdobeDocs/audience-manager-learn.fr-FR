@@ -26,6 +26,6 @@ Certaines de vos caractéristiques sont basées sur des conversions sur votre si
 
 Qu’est-ce que vous essayez d’amener les gens à FAIRE sur votre site ? Quel est votre événement de conversion ? Bien sûr, il existe de nombreuses réponses à cette question, selon le type/la verticale de votre site et vos objectifs organisationnels. Dans tous les cas, il est courant dans AAM de créer des caractéristiques pour les visiteurs qui répondent à ces critères.
 
-Dans AAM, il existe un champ dans lequel vous pouvez marquer votre caractéristique en tant que caractéristique de conversion, en particulier pour l’utiliser dans [!UICONTROL Audience Lab].
+Dans AAM, il existe un champ où vous pouvez marquer votre caractéristique comme caractéristique de conversion, en particulier pour l’utiliser dans [!UICONTROL Audience Lab].
 
 En outre, lors de l’utilisation d’événements pour créer des caractéristiques, vous devez garder à l’esprit un piège majeur afin de ne pas collecter plus d’utilisateurs que vous ne devriez dans la caractéristique. Regardez cette vidéo pour la grande révélation.

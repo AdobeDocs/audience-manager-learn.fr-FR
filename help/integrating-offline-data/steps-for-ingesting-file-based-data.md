@@ -13,7 +13,7 @@ level: Beginner
 exl-id: 31f882ea-8547-46ad-acf5-3b872dcd9bd2
 source-git-commit: b7c57e42f81762c634f534602d242092b6af414b
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '81'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,6 @@ Dans cette vidéo, vous découvrirez les étapes à suivre lorsque vous intégre
 
 >[!VIDEO](https://video.tv.adobe.com/v/331008/?quality=12&learn=on)
 
-Pour une vidéo concernant le formatage des données pour les fichiers entrants, cliquez sur [ICI](formatting-and-ingesting-file-based-data.md).
+Pour une vidéo concernant le formatage des données pour les fichiers entrants, cliquez sur [HERE](formatting-and-ingesting-file-based-data.md).
 
-Pour plus d’informations, voir [documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-s3-filenames.html).
+Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-s3-filenames.html).

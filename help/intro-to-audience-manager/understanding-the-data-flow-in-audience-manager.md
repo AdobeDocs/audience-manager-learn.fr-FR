@@ -1,5 +1,5 @@
 ---
-title: Comprendre le flux de données dans l’Audience Manager
+title: Comprendre le flux de données en Audience Manager
 description: Cette vidéo vous aide à comprendre Adobe Audience Manager en décrivant le flux de données dans, via et hors de l’application.
 feature: Overview
 topics: null

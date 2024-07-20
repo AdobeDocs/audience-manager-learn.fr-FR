@@ -13,19 +13,19 @@ level: Beginner
 exl-id: 82507055-0072-48fe-8031-225fb55351be
 source-git-commit: 2094d3bcf658913171afa848e4228653c71c41de
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
 
-# Utilisation [!UICONTROL Data Explorer] pour utiliser les signaux provenant d’Adobe Analytics {#using-data-explorer-to-work-with-signals-coming-from-adobe-analytics}
+# Utiliser [!UICONTROL Data Explorer] pour travailler avec les signaux provenant d&#39;Adobe Analytics {#using-data-explorer-to-work-with-signals-coming-from-adobe-analytics}
 
-Cette vidéo montre comment travailler dans [!UICONTROL Data Explorer] pour découvrir et utiliser vos données Adobe Analytics, y compris la recherche des données utilisées et inutilisées ; [!UICONTROL signals], création [!DNL Analytics] caractéristiques et compréhension des données.
+Cette vidéo montre comment travailler dans [!UICONTROL Data Explorer] pour découvrir et utiliser vos données Adobe Analytics, y compris la recherche de [!UICONTROL signals] utilisés et non utilisés, la création de caractéristiques [!DNL Analytics] et la compréhension des données.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25150/?quality=12)
 
 Il est probable que l&#39;une de vos principales sources de données entrant en Audience Manager est une solution d&#39;analyse, et bien sûr nous espérons que c&#39;est Adobe Analytics.
 
-[!UICONTROL Data Explorer] est prêt à vous aider à voir ce qui arrive de diverses suites de rapports et à mesure que vous découvrez [!DNL Analytics] les signaux qui ne sont pas encore utilisés dans les caractéristiques, vous pouvez cliquer directement sur pour afficher la variable [!DNL Trait Builder] et créer les caractéristiques afin d’utiliser ces puissantes données comportementales dans votre segmentation.
+[!UICONTROL Data Explorer] est prêt à vous aider à voir ce qui arrive de diverses suites de rapports. En découvrant des signaux [!DNL Analytics] qui ne sont pas encore utilisés dans les caractéristiques, vous pouvez cliquer directement sur [!DNL Trait Builder] et créer les caractéristiques afin d’utiliser ces puissantes données comportementales dans votre segmentation.
 
-Pour plus d’informations sur [!DNL Data Explorer], visite [Data Explorer - Aperçu, avantages et cas d’utilisation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=en).
+Pour plus d’informations sur [!DNL Data Explorer], consultez la page [Data Explorer - Aperçu, avantages et cas d’utilisation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=en).

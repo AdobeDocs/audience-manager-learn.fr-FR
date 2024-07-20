@@ -1,6 +1,6 @@
 ---
 title: Mappage de segments à une destination basée sur un appareil
-description: Découvrez comment mapper des segments à une destination basée sur un appareil, également appelée destination _serveur à serveur_. Pour envoyer un segment d’audience à un DSP ou à un autre partenaire, vous devez mapper le segment à une destination dans l’Audience Manager.
+description: Découvrez comment mapper des segments à une destination basée sur un appareil, également appelée destination _serveur à serveur_. Pour envoyer un segment d’audience à un DSP ou à un autre partenaire, vous devez mapper le segment à une destination dans Audience Manager.
 feature: Segments
 topics: null
 activity: use
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Mappage de segments à une destination basée sur un appareil
 
-Pour envoyer un segment d’audience à un DSP ou à un autre partenaire, vous devez mapper le segment à une destination dans l’Audience Manager. Cette vidéo décrit le mappage de segments à une destination basée sur un appareil, également appelée _serveur à serveur_ destination.
+Pour envoyer un segment d’audience à un DSP ou à un autre partenaire, vous devez mapper le segment à une destination dans l’Audience Manager. Cette vidéo décrit le mappage de segments à une destination basée sur un appareil, également appelée destination _serveur à serveur_.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36495/?quality=12&learn=on)

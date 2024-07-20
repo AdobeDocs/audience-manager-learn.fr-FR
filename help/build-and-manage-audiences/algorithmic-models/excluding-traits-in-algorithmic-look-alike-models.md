@@ -1,6 +1,6 @@
 ---
 title: Exclure des caractéristiques dans les modèles algorithmiques (analogue)
-description: 'Découvrez comment et pourquoi exclure des caractéristiques (ou groupes de) spécifiques d’un modèle algorithmique (analogue). '
+description: Découvrez comment et pourquoi exclure des caractéristiques (ou groupes de) spécifiques d’un modèle algorithmique (analogue).
 feature: Algorithmic Models
 topics: null
 activity: use

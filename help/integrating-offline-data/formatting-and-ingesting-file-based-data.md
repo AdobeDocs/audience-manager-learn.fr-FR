@@ -1,6 +1,6 @@
 ---
 title: Mise en forme et ingestion de données basées sur des fichiers
-description: Découvrez certaines des principales options pour obtenir plus d’informations lors de l’introduction de votre propriétaire dans l’Audience Manager afin de mieux comprendre et cibler votre client. Découvrez certaines exigences de formatage des données.
+description: Découvrez certaines des principales options pour obtenir plus d’informations lors de l’introduction de votre propriétaire dans l’Audience Manager afin de mieux comprendre et cibler votre client. Découvrez certaines exigences de mise en forme pour les données.
 feature: Onboarding Offline Data
 topics: null
 activity: use
@@ -13,7 +13,7 @@ level: Beginner
 exl-id: a9515255-8e3e-4fb8-b467-be68a56c412b
 source-git-commit: d4874d9f6d7a36bb81ac183eb8b853d893822ae0
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '101'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,6 @@ Lors de l’introduction de votre propriétaire dans l’Audience Manager afin d
 
 >[!VIDEO](https://video.tv.adobe.com/v/331007/?quality=12&learn=on)
 
-Pour visionner une vidéo sur l’attribution d’un nom à un fichier et son importation, cliquez sur [ICI](steps-for-ingesting-file-based-data.md).
+Pour visionner une vidéo sur l&#39;attribution de noms et l&#39;importation de fichiers, cliquez sur [HERE](steps-for-ingesting-file-based-data.md).
 
-Pour plus d’informations, voir [documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-file-contents.html?).
+Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-file-contents.html?).

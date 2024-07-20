@@ -1,35 +1,35 @@
 ---
 user-guide-title: Tutoriels sur Adobe Audience Manager
 user-guide-description: Ensemble de vidéos et de tutoriels pour Adobe Analytics.
-breadcrumb-title: Tutoriels d’Audience Manager
+breadcrumb-title: Tutoriels sur Audience Manager
 solution: Audience Manager
 type: Tutorial
 source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
 workflow-type: tm+mt
-source-wordcount: '966'
-ht-degree: 3%
+source-wordcount: '895'
+ht-degree: 2%
 
 ---
 
 
-# Tutoriels d’Audience Manager {#tutorials}
+# Tutoriels sur Audience Manager {#tutorials}
 
 + [Tutoriels sur l’Audience Manager](overview.md)
-+ Présentation de l’Audience Manager {#intro-to-audience-manager}
++ Introduction à l&#39;Audience Manager {#intro-to-audience-manager}
    + [Comment une plateforme de gestion des données peut changer votre activité](intro-to-audience-manager/how-a-dmp-can-change-your-business.md)
    + [Audience Manager - Présentation d’un DMP](intro-to-audience-manager/audience-manager-overview-of-a-dmp.md)
    + [Cas pratiques d’Audience Manager](intro-to-audience-manager/audience-manager-use-cases.md)
    + [Présentation des termes et concepts de base](intro-to-audience-manager/understanding-basic-terms-and-concepts-in-audience-manager.md)
    + [Présentation du flux de données en Audience Manager](intro-to-audience-manager/understanding-the-data-flow-in-audience-manager.md)
-   + [Présentation de l’identité dans l’Audience Manager](intro-to-audience-manager/introduction-to-identity-in-audience-manager.md)
+   + [Présentation de l’identité en Audience Manager](intro-to-audience-manager/introduction-to-identity-in-audience-manager.md)
    + Réalisation de valeur {#value-realization}
       + [Mesurer le ROI dans un cas pratique de suppression de clients](intro-to-audience-manager/value-realization/measuring-roi-in-a-customer-suppression-use-case.md)
-+ Nouvelles et tendances du secteur {#industry}
++ Actualités et tendances du secteur {#industry}
    + [L&#39;avenir de la gestion des données et l&#39;environnement en mutation](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/the-future-of-data-management-and-the-changing-environment.html)
-   + [10 points à prendre en compte pour une gestion responsable des données client](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html)
-   + [Un tableau de deux perceptions : les marques et les consommateurs](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/brands-vs-consumers.html)
-   + [Évolution de votre Centre d’excellence d’audience](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/evolving-your-audience-center-of-excellence.html)
-   + [Amélioration des expériences avec les profils client](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/building-better-experiences-with-customer-profiles.html)
+   + [10 considérations pour la gestion responsable des données client](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html)
+   + [Une histoire de deux perceptions - Marques et consommateurs](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/brands-vs-consumers.html)
+   + [Évolution de votre centre d’excellence d’audience](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/evolving-your-audience-center-of-excellence.html)
+   + [Créer de meilleures expériences avec des profils client](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/building-better-experiences-with-customer-profiles.html)
 + Configuration et administration {#setup-and-admin}
    + Sources de données {#data-sources}
       + [Création d’une source de données pour les données Analytics](setup-and-admin/data-sources/create-a-data-source-for-analytics-data.md)
@@ -46,7 +46,7 @@ ht-degree: 3%
    + DIL (Data Integration Library) {#dil}
       + [Mise à jour vers DIL version 8.0 (ou ultérieure)](web-implementation/dil/updating-to-dil-version-8-0-or-greater.md)
    + SSF (transfert côté serveur) {#ssf}
-      + [Utilisation de balises Experience Platform à implémenter dans les sites web](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=en)
+      + [ Utiliser des balises Experience Platform à mettre en oeuvre dans les sites web](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=en)
       + [Migration de l’implémentation AAM de votre site du DIL côté client vers le transfert côté serveur](web-implementation/ssf/migrating-your-site-implementation-from-client-side-dil-to-server-side-forwarding.md)
       + [Migration du serveur de suivi vers le transfert côté serveur au niveau de la suite de rapports](web-implementation/ssf/migrating-from-tracking-server-to-report-suite-level-server-side-forwarding.md)
    + [Utilisation des gestionnaires de balises pour implémenter l’Audience Manager](web-implementation/using-tag-managers-to-implement-audience-manager.md)
@@ -56,15 +56,15 @@ ht-degree: 3%
    + [Mise en forme et ingestion de données basées sur des fichiers](integrating-offline-data/formatting-and-ingesting-file-based-data.md)
    + [Procédure d’ingestion de données basées sur un fichier](integrating-offline-data/steps-for-ingesting-file-based-data.md)
 + Implémentation mobile {#mobile-implementation}
-   + [Mise en oeuvre dans les applications iOS Swift](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=en)
-   + [Mise en oeuvre dans les applications iOS Objective-C](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=en)
-   + [Mise en oeuvre dans les applications Android](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=en)
+   + [Implémentation dans les applications iOS Swift](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=en)
+   + [Implémentation dans les applications iOS Objective-C](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=en)
+   + [Implémentation dans les applications Android](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=en)
 + Audience Marketplace {#audience-marketplace}
    + Acheter des données {#buying-data}
       + [Création de rapports sur l’utilisation des données de deuxième et de troisième niveau dans l’Audience Marketplace au niveau du segment](audience-marketplace/buying-data/reporting-2nd-and-3rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level.md)
       + [Utilisation des données de chargement en masse dans Audience Marketplace](audience-marketplace/buying-data/bulk-uploading-data-usage-into-the-audience-marketplace.md)
       + [Utilisation de filtres et de recommandations pour choisir des données tierces dans Audience Marketplace](audience-marketplace/buying-data/using-filters-and-recommendations-to-choose-3rd-party-data-in-audience-marketplace.md)
-   + Vente de données {#selling-data}
+   + Vendre des données {#selling-data}
       + [Commercialisation des audiences détenues sur Marketplace](audience-marketplace/selling-data/commercialize-owned-audiences-on-marketplace.md)
 + Créer et gérer des audiences {#build-and-manage-audiences}
    + Explorateur de données {#data-explorer}
@@ -96,14 +96,14 @@ ht-degree: 3%
       + [Utilisation de l’affichage du code lors de la création de segments](build-and-manage-audiences/traits-and-segments/using-code-view-when-building-segments.md)
       + [Importation de segments d’Adobe Analytics dans Audience Manager](build-and-manage-audiences/traits-and-segments/import-aa-segments-into-aam.md)
       + [Créer un segment pour supprimer les publicités destinées aux clients](build-and-manage-audiences/traits-and-segments/building-a-segment-to-suppress-ads-to-customers.md)
-      + [Mappage des segments d’Audience Manager aux destinations](build-and-manage-audiences/traits-and-segments/mapping-audience-manager-segments-to-destinations.md)
+      + [Mise en correspondance des segments d’Audience Manager avec les destinations](build-and-manage-audiences/traits-and-segments/mapping-audience-manager-segments-to-destinations.md)
       + [Mappage de segments à une destination basée sur un appareil](build-and-manage-audiences/traits-and-segments/mapping-segments-to-a-device-based-destination.md)
       + [Comprendre les nombres dans le graphique des caractéristiques](build-and-manage-audiences/traits-and-segments/understanding-numbers-in-the-trait-graph.md)
       + [Comprendre les chiffres dans le graphique de segments](build-and-manage-audiences/traits-and-segments/understanding-numbers-in-the-segment-graph.md)
       + [Conseils aux clients - Bonnes pratiques relatives aux caractéristiques et aux segments](build-and-manage-audiences/traits-and-segments/customer-tips-traits-and-segments-best-practices.md)
    + Modèles algorithmiques {#algorithmic-models}
       + [Présentation des audiences prédictives](build-and-manage-audiences/algorithmic-models/understanding-predictive-audiences.md)
-      + [Configuration et création de rapports sur [!UICONTROL Predictive Audiences]](build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.md)
+      + [Configurer et créer des rapports sur [!UICONTROL Predictive Audiences]](build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.md)
       + [Création d’un modèle analogue propriétaire](build-and-manage-audiences/algorithmic-models/creating-a-first-party-look-alike-model.md)
       + [Exclure des caractéristiques dans les modèles algorithmiques (look-alike](build-and-manage-audiences/algorithmic-models/excluding-traits-in-algorithmic-look-alike-models.md)
       + [Augmenter le retour sur investissement en utilisant des modèles algorithmiques (semblables)](build-and-manage-audiences/algorithmic-models/increase-roas-by-using-algorithmic-look-alike-models.md)
@@ -130,14 +130,14 @@ ht-degree: 3%
       + [Utilisation des libellés d’exportation de données pour contrôler le flux de données](data-activation/destinations-basics/using-data-export-labels-to-control-data-flow.md)
    + Audience Lab {#audience-lab}
       + [Utilisez Audience Lab pour choisir un DSP](data-activation/audience-lab/using-audience-lab-to-choose-a-dsp.md)
-      + [Création de caractéristiques de conversion](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-conversion-traits.html)
+      + [Créer des caractéristiques de conversion](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-conversion-traits.html)
    + Destinations basées sur les personnes {#people-based-destinations}
       + [Vidéos et tutoriels sur les destinations basées sur les personnes](data-activation/people-based-destinations/pbd.md)
       + [Flux de données Destinations basées sur les personnes](data-activation/people-based-destinations/people-based-destinations-data-flow.md)
       + [Création d’une source de données pour les destinations basées sur les personnes](data-activation/people-based-destinations/creating-a-data-source-for-people-based-destinations.md)
       + [Présentation de l’ingestion de données PII hachées pour les destinations basées sur les personnes](data-activation/people-based-destinations/understanding-hashed-pii-data-ingestion-for-people-based-destinations.md)
       + [Ingestion de PII hachées pour les destinations basées sur les personnes](data-activation/people-based-destinations/ingesting-hashed-pii-for-people-based-destinations.md)
-      + [Utilisez setCustomerIDs() pour ingérer et hacher les PII en tant qu’ID déclaré.](data-activation/people-based-destinations/using-setcustomerids-to-ingest-and-hash-pii-as-a-declared-id.md)
+      + [Utilisez setCustomerIDs() pour ingérer et hacher les PII en tant qu’ID déclaré](data-activation/people-based-destinations/using-setcustomerids-to-ingest-and-hash-pii-as-a-declared-id.md)
       + [Configuration des règles de fusion de profils pour les destinations basées sur les personnes](data-activation/people-based-destinations/configuring-profile-merge-rules-for-people-based-destinations.md)
       + [Création de segments pour les destinations basées sur les personnes](data-activation/people-based-destinations/creating-segments-for-people-based-destinations.md)
       + [Création et configuration de destinations basées sur les personnes](data-activation/people-based-destinations/create-and-configure-people-based-destinations.md)
@@ -162,5 +162,5 @@ ht-degree: 3%
       + [Présentation de la gouvernance des données dans la plateforme des données clients en temps réel](other-integrations/integrating-with-rtcdp/rtcdp-data-gov-for-aam-users.md)
    + Intégration à Ad Cloud {#integrating-with-ad-cloud}
       + [Intégration de Adobe Advertising Cloud et Adobe Audience Manager](other-integrations/integrating-with-ad-cloud/advertising-cloud-and-audience-manager-integration.md)
-+ Visiteur{#api}
++ API {#api}
    + [Récupération des informations d’identification d’API dans Adobe Developer](api/retrieve-api-credentials-in-adobe-io.md)

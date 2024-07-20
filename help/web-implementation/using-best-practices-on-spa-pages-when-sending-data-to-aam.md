@@ -13,14 +13,14 @@ level: Experienced
 exl-id: 99ec723a-dd56-4355-a29f-bd6d2356b402
 source-git-commit: d4874d9f6d7a36bb81ac183eb8b853d893822ae0
 workflow-type: tm+mt
-source-wordcount: '569'
+source-wordcount: '547'
 ht-degree: 0%
 
 ---
 
 # Utilisation des bonnes pratiques sur SPA pages lors de l’envoi de données à AAM {#using-best-practices-on-spa-pages-when-sending-data-to-aam}
 
-Ce document décrit plusieurs bonnes pratiques pour envoyer des données depuis des applications d’une seule page (SPA) vers Adobe Audience Manager (AAM). Cet article se concentre sur l’utilisation de [!UICONTROL Experience Platform tags], méthode de mise en oeuvre recommandée.
+Ce document décrit plusieurs bonnes pratiques pour envoyer des données depuis des applications d’une seule page (SPA) vers Adobe Audience Manager (AAM). Cet article se concentre sur l’utilisation de [!UICONTROL Experience Platform tags], la méthode de mise en oeuvre recommandée.
 
 ## Notes initiales
 
@@ -38,29 +38,29 @@ Ce document décrit plusieurs bonnes pratiques pour envoyer des données depuis 
 
 Deux des méthodes les plus courantes pour déclencher une règle dans les balises Platform (et donc envoyer des données en Audience Manager) sont les suivantes :
 
-* Définition d’événements personnalisés JavaScript (voir exemple [ICI](https://helpx.adobe.com/analytics/kt/using/spa-analytics-best-practices-feature-video-use.html) avec Adobe Analytics)
-* Utilisation d’une [!UICONTROL Direct Call Rule]
+* Définition d’événements personnalisés JavaScript (voir l’exemple [HERE](https://helpx.adobe.com/analytics/kt/using/spa-analytics-best-practices-feature-video-use.html) avec Adobe Analytics)
+* Utilisation d’un [!UICONTROL Direct Call Rule]
 
-Dans cet exemple d’Audience Manager, vous utilisez une [!UICONTROL Direct Call rule] dans les balises Platform pour déclencher l’accès en cours d’Audience Manager. Comme vous le verrez dans les sections suivantes, cela s’avère utile en définissant la variable [!UICONTROL Data Layer] à une nouvelle valeur afin qu’elle puisse être récupérée par la variable [!UICONTROL Data Element] dans les balises Platform.
+Dans cet exemple d’Audience Manager, vous utilisez un [!UICONTROL Direct Call rule] dans les balises Platform pour déclencher l’accès en Audience Manager. Comme vous le verrez dans les sections suivantes, cela devient utile en définissant [!UICONTROL Data Layer] sur une nouvelle valeur, de sorte qu’il puisse être relevé par le [!UICONTROL Data Element] dans les balises Platform.
 
 ## Page de démonstration {#demo-page}
 
-Voici une petite page qui montre comment modifier une valeur dans la couche de données et l’envoyer en Audience Manager, comme vous pouvez le faire sur une page SPA. Cette fonctionnalité peut être modélisée pour des modifications plus élaborées nécessaires. Vous trouverez cette page de démonstration [ICI](https://aam.enablementadobe.com/SPA-Launch.html).
+Voici une petite page qui montre comment modifier une valeur dans la couche de données et l’envoyer en Audience Manager, comme vous pouvez le faire sur une page SPA. Cette fonctionnalité peut être modélisée pour des modifications plus élaborées nécessaires. Vous trouverez cette page de démonstration [HERE](https://aam.enablementadobe.com/SPA-Launch.html).
 
 ## Définition de la couche de données {#setting-the-data-layer}
 
-Comme mentionné, lorsque du nouveau contenu est chargé sur la page ou lorsqu’une personne effectue une action sur le site, la couche de données doit être définie dynamiquement dans l’en-tête de la page AVANT que les balises Platform ne soient appelées et n’exécutent le [!UICONTROL rules], afin que les balises Platform puissent sélectionner les nouvelles valeurs de la couche de données et les envoyer en Audience Manager.
+Comme mentionné, lorsque du nouveau contenu est chargé sur la page ou lorsqu’une personne effectue une action sur le site, la couche de données doit être définie dynamiquement dans l’en-tête de la page AVANT l’appel des balises Platform et l’exécution de la balise [!UICONTROL rules], de sorte que les balises Platform puissent récupérer les nouvelles valeurs de la couche de données et les envoyer en Audience Manager.
 
 Si vous accédez au site de démonstration répertorié ci-dessus et que vous consultez la source de la page, vous verrez :
 
 * La couche de données se trouve dans l’en-tête de la page, avant l’appel aux balises Platform.
-* Le code JavaScript du lien SPA simulé modifie la variable [!UICONTROL Data Layer], puis appelle les balises Platform (la variable `_satellite.track()` ). Si vous utilisiez des événements personnalisés JavaScript au lieu de [!UICONTROL Direct Call Rule], la leçon est la même. Modifiez d’abord la variable [!DNL data layer], puis appelez des balises Platform.
+* Le JavaScript dans le lien de SPA simulé modifie le [!UICONTROL Data Layer], puis appelle les balises Platform (l’appel `_satellite.track()`). Si vous utilisiez des événements personnalisés JavaScript au lieu de cet [!UICONTROL Direct Call Rule], la leçon est la même. Modifiez d’abord [!DNL data layer], puis appelez les balises Platform.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23322/?quality=12)
 
 ## Ressources supplémentaires {#additional-resources}
 
 * [SPA discussion sur les forums de l&#39;Adobe](https://forums.adobe.com/thread/2451022)
-* [Sites de l’architecture de référence pour montrer comment mettre en oeuvre SPA dans les balises Platform](https://helpx.adobe.com/experience-manager/kt/integration/using/launch-reference-architecture-SPA-tutorial-implement.html)
+* [Sites d’architecture de référence pour montrer comment mettre en oeuvre SPA dans les balises Platform](https://helpx.adobe.com/experience-manager/kt/integration/using/launch-reference-architecture-SPA-tutorial-implement.html)
 * [Utilisation des bonnes pratiques lors du suivi des SPA dans Adobe Analytics](https://helpx.adobe.com/analytics/kt/using/spa-analytics-best-practices-feature-video-use.html)
 * [Site de démonstration utilisé pour cet article](https://aam.enablementadobe.com/SPA-Launch.html)

@@ -1,7 +1,7 @@
 ---
 title: Présentation des audiences connexes avec les rapports de chevauchement
 description: Les rapports de chevauchement vous permettent de voir comment les audiences de caractéristiques et de segments se chevauchent (le même visiteur dans plusieurs caractéristiques ou segments), afin que vous sachiez où vous pouvez agir avec vos données pour augmenter la conversion ou vous concentrer sur une portée plus large.
-feature: Rapports de chevauchement
+feature: Overlap Reports
 topics: null
 activity: use
 doc-type: feature video
@@ -13,7 +13,7 @@ level: Intermediate
 exl-id: e6d90964-9315-4aa5-8d68-d5ffa4d9e09c
 source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---

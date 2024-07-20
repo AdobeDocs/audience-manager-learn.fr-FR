@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Création d’une source de données multi-appareils et authentification
 
-Lorsque vous souhaitez importer vos données CRM propriétaires dans l’Audience Manager afin de mieux cibler vos clients, vous devez d’abord créer une source de données multi-appareils pour stocker les identifiants et données CRM. Cela vous montre comment procéder et configurer le `setCustomerIDs()` dans les balises Experience Platform pour les connexions.
+Lorsque vous souhaitez importer vos données CRM propriétaires dans l’Audience Manager afin de mieux cibler vos clients, vous devez d’abord créer une source de données multi-appareils pour stocker les identifiants et données CRM. Cela vous explique comment procéder et comment configurer la méthode `setCustomerIDs()` dans les balises Experience Platform pour les connexions.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331006/?quality=12&learn=on)

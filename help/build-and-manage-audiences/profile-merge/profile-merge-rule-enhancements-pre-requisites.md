@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# [!UICONTROL Profile Merge Rule] améliorations - conditions préalables
+# [!UICONTROL Profile Merge Rule] améliorations - Conditions préalables
 
-Présentation de la meilleure préparation à la publication de [!UICONTROL Profile Merge Rule] améliorations.
+Présentation de la meilleure préparation pour la publication des améliorations [!UICONTROL Profile Merge Rule].
 
 >[!VIDEO](https://video.tv.adobe.com/v/28971/?quality=12)

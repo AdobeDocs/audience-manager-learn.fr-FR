@@ -1,5 +1,5 @@
 ---
-title: Mappage des segments d’Audience Manager aux destinations
+title: Mise en correspondance des segments d’Audience Manager avec les destinations
 description: Découvrez les différents types de destinations en Audience Manager et les détails du mappage de segments à chaque type de destination.
 feature: Segments
 topics: null
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ---
 
-# Mappage des segments d’Audience Manager aux destinations
+# Mise en correspondance des segments d’Audience Manager avec les destinations
 
 Découvrez les différents types de destinations en Audience Manager et les détails du mappage de segments à chaque type de destination.
 

@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Utilisation [!UICONTROL Profile Merge Rules] pour l’extension d’appareil et une portée accrue
+# Utiliser [!UICONTROL Profile Merge Rules] pour l’extension de l’appareil et une portée accrue
 
-Utilisation [!UICONTROL Profile Merge Rules] pour étendre la portée à tous les appareils d’un utilisateur, de sorte que vous puissiez proposer aux personnes plutôt qu’aux appareils.
+Utilisez [!UICONTROL Profile Merge Rules] pour étendre la portée à tous les appareils d’un utilisateur, de sorte que vous puissiez commercialiser les personnes au lieu des appareils.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35939/?quality=12&learn=on)

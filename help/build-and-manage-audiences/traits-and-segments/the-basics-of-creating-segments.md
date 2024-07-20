@@ -13,7 +13,7 @@ level: Beginner
 exl-id: 594b1caf-2752-4710-8272-2df669eb8dbe
 source-git-commit: d87f5c6468600cc35ff059bcff98cc81552f4a10
 workflow-type: tm+mt
-source-wordcount: '55'
+source-wordcount: '48'
 ht-degree: 0%
 
 ---
@@ -24,4 +24,4 @@ Parcourez les champs de l’interface utilisateur pour créer un segment dans Au
 
 >[!VIDEO](https://video.tv.adobe.com/v/37056/?quality=12&learn=on)
 
-Pour plus d’informations sur les segments, reportez-vous à la section [documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segments-purpose.html).
+Pour plus d’informations sur les segments, consultez la [documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segments-purpose.html).
