@@ -4,7 +4,7 @@ user-guide-description: Ensemble de vidéos et de tutoriels pour Adobe Analytics
 breadcrumb-title: Tutoriels sur Audience Manager
 solution: Audience Manager
 type: Tutorial
-source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
+source-git-commit: f9708e705d95b43084ff11e342dc54ff11d6326c
 workflow-type: tm+mt
 source-wordcount: '895'
 ht-degree: 2%
@@ -16,7 +16,7 @@ ht-degree: 2%
 
 + [Tutoriels sur l’Audience Manager](overview.md)
 + Introduction à l&#39;Audience Manager {#intro-to-audience-manager}
-   + [Comment une plateforme de gestion des données peut changer votre activité](intro-to-audience-manager/how-a-dmp-can-change-your-business.md)
+   + [Comment DMP peut-il changer votre entreprise](intro-to-audience-manager/how-a-dmp-can-change-your-business.md)
    + [Audience Manager - Présentation d’un DMP](intro-to-audience-manager/audience-manager-overview-of-a-dmp.md)
    + [Cas pratiques d’Audience Manager](intro-to-audience-manager/audience-manager-use-cases.md)
    + [Présentation des termes et concepts de base](intro-to-audience-manager/understanding-basic-terms-and-concepts-in-audience-manager.md)
@@ -38,7 +38,7 @@ ht-degree: 2%
       + [Définition d’autorisations avec contrôle d’accès en fonction du rôle](setup-and-admin/user-management/setting-permissions-with-role-based-access-control.md)
    + Gouvernance et confidentialité des données {#data-governance-and-privacy}
       + [Validation de l’identifiant de périphérique global](setup-and-admin/data-governance-and-privacy/global-device-id-validation.md)
-      + [Prise en charge du TCF 2.0 de l’IAB](setup-and-admin/data-governance-and-privacy/iab-tcf-support.md)
+      + [Prise en charge du TCF 2.2 de l’IAB](setup-and-admin/data-governance-and-privacy/iab-tcf-support.md)
       + [Obscurcissement des adresses IP par pays](setup-and-admin/data-governance-and-privacy/ip-obfuscation-by-country.md)
    + Utilisation et facturation {#usage-and-billing}
       + [Surveiller et générer des rapports sur l’utilisation des activités](setup-and-admin/usage-and-billing/monitoring-and-reporting-on-activity-usage.md)
