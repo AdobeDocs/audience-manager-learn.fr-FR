@@ -24,4 +24,4 @@ Dans cette vidéo, vous découvrez pourquoi et comment utiliser la méthode Serv
 
 >[!VIDEO](https://video.tv.adobe.com/v/29136/?quality=12)
 
-Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/docs/id-service/using/reference/hashing-support.html).
+Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/docs/id-service/using/reference/hashing-support.html?lang=fr).

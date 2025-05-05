@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Tutoriels sur l’Audience Manager
 
-Bienvenue sur le site des tutoriels d’Audience Manager. L’utilisation de ces tutoriels avec la [documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html) vous permettra de mieux comprendre comment utiliser Adobe Audience Manager pour créer et activer des audiences sur n’importe quel canal ou périphérique à l’aide du meilleur de la classe [!DNL data management platform] d’Adobe.
+Bienvenue sur le site des tutoriels d’Audience Manager. L’utilisation de ces tutoriels avec la [documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=fr) vous permettra de mieux comprendre comment utiliser Adobe Audience Manager pour créer et activer des audiences sur n’importe quel canal ou périphérique à l’aide du meilleur de la classe [!DNL data management platform] d’Adobe.
 
 * **Sélections de personnel** présente certains de nos contenus préférés
 * Explorez le contenu par rubrique et sous-rubrique dans la **navigation de gauche**
@@ -38,11 +38,11 @@ Bienvenue sur le site des tutoriels d’Audience Manager. L’utilisation de ces
 <table>
 <tr>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html">
+    <a href="https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html?lang=fr">
       <img alt="image miniature pour le tutoriel &quot;Mise en oeuvre de Adobe Experience Cloud avec le SDK web&quot;" src="assets/implement-web-sdk.jpg" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html">
+      <a href="https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html?lang=fr">
     <strong>Tutoriel de mise en oeuvre de Adobe Experience Cloud avec le SDK Web</strong>
     </a>
     </div>
@@ -51,11 +51,11 @@ Bienvenue sur le site des tutoriels d’Audience Manager. L’utilisation de ces
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html">
+    <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html?lang=fr">
       <img alt="Image miniature du tutoriel &quot;Présentation des segments dans la plateforme de données clients en temps réel&quot;" src="assets/331901.jpg" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html">
+      <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html?lang=fr">
     <strong>Présentation des segments dans la plateforme de données clients en temps réel pour les utilisateurs d’Audience Manager</strong>
     </a>
     </div>
@@ -64,11 +64,11 @@ Bienvenue sur le site des tutoriels d’Audience Manager. L’utilisation de ces
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html">
+    <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html?lang=fr">
       <img alt="image miniature du tutoriel &quot;Configurer et créer un rapport sur les audiences prédictives en Audience Manager&quot;" src="assets/33630.jpg" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html">
+      <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html?lang=fr">
     <strong> Configuration et création de rapports sur les audiences prédictives dans l’Audience Manager </strong>
     </a>
     </div>

@@ -26,4 +26,4 @@ Avec [!UICONTROL Trait Recommendations], lorsque vous créez ou modifiez un segm
 
 [!UICONTROL Trait Recommendations] fonctionne sur les données propriétaires et tierces, de sorte que vous puissiez inclure des [!UICONTROL Traits] supplémentaires recommandés et augmenter votre audience cible.
 
-Pour plus d’informations sur cette fonctionnalité, consultez la [documentation](https://experiencecloud.adobe.com/resources/help/en_US/aam/trait-recommendations.html).
+Pour plus d’informations sur cette fonctionnalité, consultez la [documentation](https://experiencecloud.adobe.com/resources/help/fr_FR/aam/trait-recommendations.html).

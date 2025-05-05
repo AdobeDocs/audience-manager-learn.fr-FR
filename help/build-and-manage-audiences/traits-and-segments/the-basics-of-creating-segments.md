@@ -24,4 +24,4 @@ Parcourez les champs de l’interface utilisateur pour créer un segment dans Au
 
 >[!VIDEO](https://video.tv.adobe.com/v/37056/?quality=12&learn=on)
 
-Pour plus d’informations sur les segments, consultez la [documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segments-purpose.html).
+Pour plus d’informations sur les segments, consultez la [documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segments-purpose.html?lang=fr).

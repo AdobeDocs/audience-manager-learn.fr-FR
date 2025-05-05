@@ -32,4 +32,4 @@ Visionnez les vidéos et les tutoriels pour les fonctionnalités de fusion de pr
 * [Interprétation des rapports d’identité d’audience](interpret-audience-identity-reporting.md)
 * [Présentation des mesures sur plusieurs appareils en Audience Manager](understanding-cross-device-metrics-in-audience-manager.md)
 
-Ces vidéos peuvent être utilisées avec la [documentation sur les stratégies de fusion de profils](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html)
+Ces vidéos peuvent être utilisées avec la [documentation sur les stratégies de fusion de profils](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html?lang=fr)

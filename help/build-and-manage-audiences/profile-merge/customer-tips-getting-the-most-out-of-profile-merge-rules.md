@@ -28,4 +28,4 @@ Varun Kalra est consultant multi-solutions et travaille pour un partenaire en so
 * Détail des cas pratiques de ciblage
 * Cas d’utilisation de divers paramètres de gestion des performances (PMR)
 
-[Lisez les conseils de Varun dans la communauté Experience League.](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager-blogs/getting-the-most-out-of-profile-merge-rules-tips-tricks-and/ba-p/372248)
+[Lisez les conseils de Varun dans la communauté Experience League.](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager-blogs/getting-the-most-out-of-profile-merge-rules-tips-tricks-and/ba-p/372248?profile.language=fr)

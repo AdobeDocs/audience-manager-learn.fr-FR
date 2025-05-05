@@ -74,7 +74,7 @@ Les étapes suivantes décrivent la mise en oeuvre.
 
 La principale condition préalable au passage au transfert côté serveur consiste à mettre en oeuvre le service d’ID Experience Cloud. Cela est plus facile si vous utilisez Experience Platform Launch, auquel cas vous installez simplement l’extension ECID et cela fera le reste.
 
-Si vous utilisez un TMS non Adobe, ou aucun TMS du tout, implémentez ECID pour exécuter **avant** toute autre solution d’Adobe. Pour plus d’informations, consultez la [documentation ECID](https://experienceleague.adobe.com/docs/id-service/using/home.html) . La seule autre condition préalable concerne les versions de code. Par conséquent, comme vous appliquez simplement les versions les plus récentes du code dans les étapes suivantes, tout ira bien.
+Si vous utilisez un TMS non Adobe, ou aucun TMS du tout, implémentez ECID pour exécuter **avant** toute autre solution d’Adobe. Pour plus d’informations, consultez la [documentation ECID](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=fr) . La seule autre condition préalable concerne les versions de code. Par conséquent, comme vous appliquez simplement les versions les plus récentes du code dans les étapes suivantes, tout ira bien.
 
 >[!NOTE]
 >
@@ -202,4 +202,4 @@ Si vous n’effectuez pas de transfert côté serveur des données de [!DNL Anal
 
 ![false success](assets/falsesuccess.png)
 
-Pour plus d’informations sur le transfert côté serveur, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/server-side-forwarding/ssf.html).
+Pour plus d’informations sur le transfert côté serveur, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/server-side-forwarding/ssf.html?lang=fr).

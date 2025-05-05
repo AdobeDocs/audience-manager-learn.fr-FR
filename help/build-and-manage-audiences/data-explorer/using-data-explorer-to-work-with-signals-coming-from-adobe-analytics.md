@@ -28,4 +28,4 @@ Il est probable que l&#39;une de vos principales sources de données entrant en 
 
 [!UICONTROL Data Explorer] est prêt à vous aider à voir ce qui arrive de diverses suites de rapports. En découvrant des signaux [!DNL Analytics] qui ne sont pas encore utilisés dans les caractéristiques, vous pouvez cliquer directement sur [!DNL Trait Builder] et créer les caractéristiques afin d’utiliser ces puissantes données comportementales dans votre segmentation.
 
-Pour plus d’informations sur [!DNL Data Explorer], consultez la page [Data Explorer - Aperçu, avantages et cas d’utilisation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=en).
+Pour plus d’informations sur [!DNL Data Explorer], consultez la page [Data Explorer - Aperçu, avantages et cas d’utilisation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=fr).

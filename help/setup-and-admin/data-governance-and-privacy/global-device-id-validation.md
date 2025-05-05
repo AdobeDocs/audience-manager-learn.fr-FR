@@ -89,13 +89,13 @@ Lorsqu’un identifiant de périphérique global incorrect (IDFA, GAID, etc.) es
 
 ![image d’erreur](assets/image_4_.png)
 
-Consultez la [documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/api-and-sdk-code/dcs/dcs-api-reference/dcs-error-codes.html?lang=en#api-and-sdk-code) pour obtenir la liste des codes d’erreur.
+Consultez la [documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/api-and-sdk-code/dcs/dcs-api-reference/dcs-error-codes.html?lang=fr#api-and-sdk-code) pour obtenir la liste des codes d’erreur.
 
 ## Intégration des identifiants de périphérique globaux {#onboarding-global-device-ids}
 
-Outre l’envoi en temps réel des identifiants d’appareil global, vous pouvez également &quot;[!DNL onboard]&quot; (charger) des données par rapport aux identifiants. Ce processus est le même que lorsque vous intégrez des données par rapport à vos ID de client (généralement via des paires clé/valeur), mais vous utiliserez simplement les ID Source de données appropriés, de sorte que les données soient affectées à l’ID d’appareil global. Vous trouverez de la documentation sur le processus d’intégration dans la [documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/batch-data-transfer-overview.html?lang=en#implementation-integration-guides). N’oubliez pas d’utiliser l’ID de source de données globale, en fonction de la plateforme que vous utilisez.
+Outre l’envoi en temps réel des identifiants d’appareil global, vous pouvez également &quot;[!DNL onboard]&quot; (charger) des données par rapport aux identifiants. Ce processus est le même que lorsque vous intégrez des données par rapport à vos ID de client (généralement via des paires clé/valeur), mais vous utiliserez simplement les ID Source de données appropriés, de sorte que les données soient affectées à l’ID d’appareil global. Vous trouverez de la documentation sur le processus d’intégration dans la [documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/batch-data-transfer-overview.html?lang=fr#implementation-integration-guides). N’oubliez pas d’utiliser l’ID de source de données globale, en fonction de la plateforme que vous utilisez.
 
-Si des identifiants d’appareil global incorrects sont envoyés par le biais du processus d’intégration, les erreurs s’affichent dans le [[!DNL Onboarding Status Report]](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/onboarding-status-report.html?lang=en#reporting).
+Si des identifiants d’appareil global incorrects sont envoyés par le biais du processus d’intégration, les erreurs s’affichent dans le [[!DNL Onboarding Status Report]](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/onboarding-status-report.html?lang=fr#reporting).
 
 Voici un exemple d’erreur qui résulterait de ce rapport :
 

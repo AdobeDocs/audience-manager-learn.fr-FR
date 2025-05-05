@@ -24,4 +24,4 @@ Dans cette vidéo, découvrez l&#39;Audience Manager [!UICONTROL Predictive Audi
 
 >[!VIDEO](https://video.tv.adobe.com/v/33629/?quality=12)
 
-Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/algorithmic-models/predictive-audiences/predictive-audiences.html).
+Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/algorithmic-models/predictive-audiences/predictive-audiences.html?lang=fr).

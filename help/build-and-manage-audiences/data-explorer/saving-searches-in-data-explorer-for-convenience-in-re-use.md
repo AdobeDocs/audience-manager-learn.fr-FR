@@ -25,4 +25,4 @@ Dans cette vidéo, apprenez à configurer une recherche dans [!DNL Data Explorer
 
 >[!VIDEO](https://video.tv.adobe.com/v/25147/?quality=12)
 
-Pour plus d’informations sur [!UICONTROL Data Explorer], consultez la page [Data Explorer - Aperçu, avantages et cas d’utilisation](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html).
+Pour plus d’informations sur [!UICONTROL Data Explorer], consultez la page [Data Explorer - Aperçu, avantages et cas d’utilisation](https://experiencecloud.adobe.com/resources/help/fr_FR/aam/data-explorer.html).

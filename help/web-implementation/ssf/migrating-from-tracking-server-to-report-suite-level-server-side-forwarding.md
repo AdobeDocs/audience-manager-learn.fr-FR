@@ -40,7 +40,7 @@ Si vous ne savez pas si [!DNL tracking server forwarding] est activé pour vous,
 
 ## Transfert côté serveur au niveau de [!UICONTROL Report-suite] {#report-suite-level-server-side-forwarding}
 
-L’un des plus grands avantages du transfert de [!UICONTROL report suite] depuis le transfert [!UICONTROL tracking server] est que vous pourrez désormais utiliser &quot;Audience Analytics&quot;, qui est la capacité de transférer l’Audience Manager [!UICONTROL segments] vers Adobe Analytics pour une analyse détaillée des segments. Cette fonctionnalité exceptionnelle n’est PAS prise en charge si vous utilisez toujours le transfert [!UICONTROL tracking server] et non le transfert [!UICONTROL report suite]. Pour plus d&#39;informations sur l&#39;Audience Analytics, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html).
+L’un des plus grands avantages du transfert de [!UICONTROL report suite] depuis le transfert [!UICONTROL tracking server] est que vous pourrez désormais utiliser &quot;Audience Analytics&quot;, qui est la capacité de transférer l’Audience Manager [!UICONTROL segments] vers Adobe Analytics pour une analyse détaillée des segments. Cette fonctionnalité exceptionnelle n’est PAS prise en charge si vous utilisez toujours le transfert [!UICONTROL tracking server] et non le transfert [!UICONTROL report suite]. Pour plus d&#39;informations sur l&#39;Audience Analytics, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=fr).
 
 >[!VIDEO](https://video.tv.adobe.com/v/23701/?quality=12)
 
