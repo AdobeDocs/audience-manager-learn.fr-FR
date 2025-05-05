@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Conseils aux clients - Tirer le meilleur parti des stratégies de fusion de profils
 
-**Varun Kalra**, consultant multi-solutions à l’adresse ****, donne des conseils sur le choix et l’utilisation des règles de fusion de profils (PMR).
+**Varun Kalra**, consultant multi-solutions à l’adresse **&#x200B;**, donne des conseils sur le choix et l’utilisation des règles de fusion de profils (PMR).
 
 Varun Kalra est consultant multi-solutions et travaille pour un partenaire en solutions Adobes basé à Sydney. Varun travaille principalement sur des projets Audience Manager, Adobe Analytics et AEP qui impliquent la découverte, la mise en oeuvre, le support et l’activation de données. Les conseils incluent des sujets tels que :
 

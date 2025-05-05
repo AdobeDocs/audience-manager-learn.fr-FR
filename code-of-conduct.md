@@ -49,4 +49,4 @@ Les responsables du projet qui ne respectent pas ou n&#39;appliquent pas le Code
 
 ## Attribution
 
-Ce code de conduite est adapté du Pacte [](https://contributor-covenant.org)des contributeurs, version 1.4, disponible à l&#39;adresse [https://contributor-covenant.org/version/1/4](https://contributor-covenant.org/version/1/4/)
+Ce code de conduite est adapté du Pacte [&#128279;](https://contributor-covenant.org)des contributeurs, version 1.4, disponible à l&#39;adresse [https://contributor-covenant.org/version/1/4](https://contributor-covenant.org/version/1/4/)
