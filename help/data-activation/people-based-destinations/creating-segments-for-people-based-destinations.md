@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Cette vidéo vous guide tout au long de la création d’un segment dans l’Audience Manager à utiliser pour les destinations basées sur les personnes.
 
->[!VIDEO](https://video.tv.adobe.com/v/29236/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/31633/?quality=12&captions=fre_fr)

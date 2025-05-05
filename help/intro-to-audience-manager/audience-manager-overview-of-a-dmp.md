@@ -23,6 +23,6 @@ ht-degree: 0%
 
 Découvrez les principaux défis liés à la personnalisation cross-canal et comment Adobe Audience Manager alimente le parcours client. Identifiez également les types de données qui peuvent être intégrés dans Audience Manager et identifiez les partenaires d’éco-système ad-tech intégrés à Audience Manager.
 
->[!VIDEO](https://video.tv.adobe.com/v/33894/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/37082/?quality=12&captions=fre_fr)
 
 Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/aam-overview.html?lang=fr).

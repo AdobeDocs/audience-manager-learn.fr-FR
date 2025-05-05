@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Outre le transfert de données en temps réel d’Adobe Analytics vers l’Audience Manager, vous pouvez également importer des segments qui incluent des données post-traitées d’Analytics vers l’Audience Manager via l’Experience Cloud. Il s’agit d’une puissante fonctionnalité qu’aucun autre DMP ne peut se vanter.
 
->[!VIDEO](https://video.tv.adobe.com/v/330804/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344721/?quality=12&learn=on&captions=fre_fr)

@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Lorsque vous passez d’Audience Manager à Real-time Customer Data Platform (plateforme de données clients en temps réel), il est impératif de connaître les destinations afin de savoir comment activer vos segments d’audience vers les partenaires de destination. Cette vidéo traite des différents types de destinations et de leur emplacement dans la plateforme de données clients en temps réel.
 
->[!VIDEO](https://video.tv.adobe.com/v/332203/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410884/?quality=12&learn=on&captions=fre_fr)

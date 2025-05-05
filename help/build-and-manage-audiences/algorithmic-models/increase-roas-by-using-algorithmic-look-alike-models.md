@@ -28,7 +28,7 @@ Pour utiliser des données de deuxième et de troisième niveau dans un modèle 
 
 En outre, pour vous aider à rechercher et à décider quel fournisseur de données utiliser, une ressource exceptionnelle est [[!DNL Adobe Audience Finder]](https://www.adobe-audience-finder.com/).
 
->[!VIDEO](https://video.tv.adobe.com/v/25188/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/29437/?quality=12&captions=fre_fr)
 
 ## Identification ou création d’une caractéristique ou d’un segment utilisateur (conversion) idéal {#identify-create-an-ideal-user-conversion-trait-or-segment}
 
@@ -38,7 +38,7 @@ Dans la vidéo ci-dessous, je vous montrerai comment créer une caractéristique
 
 En outre, lorsque vous utilisez des événements Adobe Analytics pour créer des caractéristiques, vous devez garder à l’esprit un piège majeur afin de ne pas collecter plus d’utilisateurs que vous ne devriez dans la caractéristique. Regardez la vidéo suivante pour la grande révélation. :)
 
->[!VIDEO](https://video.tv.adobe.com/v/23431/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/328076/?quality=12&captions=fre_fr)
 
 **REMARQUE :** Dans la vidéo ci-dessus, l’exemple que je vous montre suppose que vous disposez d’Adobe Analytics. Ce n&#39;est évidemment pas le cas. Si vous disposez de Google Analytics (GA), nous disposons d’un module que vous pouvez utiliser pour envoyer des données dans AAM (voir la [documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-modules.html?lang=fr)). Si votre activité de conversion sur votre site est envoyée à AAM par GA, vous pouvez créer votre caractéristique de conversion à partir de celui-ci. Si vous disposez d’une solution d’analyse différente (ou d’aucune solution d’analyse), vous pouvez toujours envoyer des données à AAM par l’intermédiaire de notre code de DIL et de la fonction `submit`, etc. (voir la [documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-overview.html?lang=fr)). Créez ensuite la caractéristique de conversion en fonction des données envoyées lorsque l’activité de conversion est exécutée sur le site.
 
@@ -46,7 +46,7 @@ En outre, lorsque vous utilisez des événements Adobe Analytics pour créer des
 
 Après avoir suivi les étapes ci-dessus, nous sommes maintenant prêts à créer un modèle algorithmique (analogue). À mesure que nous configurons le modèle, nous utiliserons la caractéristique de conversion comme caractéristique de base (visiteurs clés que nous voulons dupliquer) et nous utiliserons le flux de données tiers activé comme groupe de personnes à partir duquel nous pouvons extraire.
 
->[!VIDEO](https://video.tv.adobe.com/v/25190/?quality-12)
+>[!VIDEO](https://video.tv.adobe.com/v/29438/?quality-12&captions=fre_fr)
 
 ## Une bonne pratique importante {#an-important-best-practice}
 
@@ -56,7 +56,7 @@ Lors de la création du modèle algorithmique en Audience Manager, nous voulons 
 
 Ensuite, nous devrons créer un [!UICONTROL Algorithmic Trait], afin que les résultats du modèle puissent être utilisés. Sans créer de caractéristique, le modèle est inutile. Ainsi, une fois le modèle exécuté, veillez à accéder à la boîte de dialogue de caractéristiques et à créer un [!UICONTROL Algorithmic Trait]. La vidéo suivante vous guide et vous montre quelques conseils.
 
->[!VIDEO](https://video.tv.adobe.com/v/25191/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/29439/?quality=12&captions=fre_fr)
 
 ## Créez un segment à partir des données de modèle et envoyez-le à DSP {#creating-a-segment-from-the-model-data-and-sending-it-to-dsps}
 

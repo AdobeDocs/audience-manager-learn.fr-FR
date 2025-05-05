@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Cette vidéo vous donne d’abord des informations sur les conditions préalables à la création de votre destination basée sur les personnes, puis elle vous montre également comment configurer un compte intégré (lien vers le partenaire, par exemple [!DNL Facebook]). Il vous guide tout au long de la configuration intégrée au produit de la destination elle-même.
 
->[!VIDEO](https://video.tv.adobe.com/v/28955/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/32072/?quality=12&captions=fre_fr)

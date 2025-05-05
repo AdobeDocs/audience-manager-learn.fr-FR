@@ -22,7 +22,7 @@ ht-degree: 0%
 
 En utilisant des tables intégrées et personnalisées sur le [!UICONTROL Signals Dashboard] dans [!DNL Data Explorer], vous pouvez rapidement voir les dernières données qui entrent dans l’Audience Manager et même cliquer pour créer les caractéristiques selon vos besoins. Bienvenue dans votre nouveau workflow plus efficace !
 
->[!VIDEO](https://video.tv.adobe.com/v/25151/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/327521/?quality=12&captions=fre_fr)
 
 Lorsque vous cliquez sur [!UICONTROL Data Explorer], AKA l’application [!UICONTROL Signals], un tableau de bord par défaut des principaux signaux s’affiche, ainsi que de nouveaux signaux. Outre ces deux valeurs par défaut, vous pouvez enregistrer les recherches et les ajouter au tableau de bord afin d’afficher très rapidement vos données les plus importantes directement sur la page d’accueil de la fonctionnalité.
 

@@ -20,7 +20,7 @@ ht-degree: 1%
 
 Lorsque vous passez d’Audience Manager à Real-time Customer Data Platform, vous souhaitez savoir où les autorisations d’utilisateur et de groupe sont définies. Cette vidéo montre comment le contrôle d’accès se trouve désormais dans Adobe Admin Console.
 
->[!VIDEO](https://video.tv.adobe.com/v/332091/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410904/?quality=12&learn=on&captions=fre_fr)
 
 ## Ressources supplémentaires
 

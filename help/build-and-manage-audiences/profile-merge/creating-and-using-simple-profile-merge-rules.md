@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Découvrez [!UICONTROL Profile Merge Rules] et comment les affecter aux segments. Découvrez le profil par défaut [!UICONTROL Current Device] et quand il peut et doit être utilisé.
 
->[!VIDEO](https://video.tv.adobe.com/v/35937/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40014/?quality=12&learn=on&captions=fre_fr)

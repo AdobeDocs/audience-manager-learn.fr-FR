@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Lorsque vous signalez l’utilisation de données de deuxième et de troisième niveau dans [!UICONTROL Audience Marketplace], il se peut que vous disposiez de suffisamment d’entrées pour éviter de le faire à la main. Dans cette vidéo, découvrez comment utiliser l’outil de transfert en masse des rapports d’utilisation des données. Cet outil vous permet de signaler facilement l’utilisation des données, même si vous avez de nombreux éléments à mettre à jour.
 
->[!VIDEO](https://video.tv.adobe.com/v/25521/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/33867/?quality=12&captions=fre_fr)
 
 Outre l’outil de chargement en masse qui simplifie et permet de gagner du temps en créant des rapports sur l’utilisation des données, les clients qui achètent des données tierces ou de deuxième niveau à partir de [!UICONTROL Audience Marketplace] bénéficient d’une politique d’attribution de coûts améliorée. Cette nouvelle stratégie attribue des coûts aux fournisseurs de données en fonction du nombre d’utilisateurs uniques des caractéristiques dans un segment basé sur des règles, ce qui se traduit par une plus grande transparence et une facturation de l’utilisation équitable.
 Vous trouverez plus d’informations sur l’algorithme de facturation dans la documentation du produit [Attribution des coûts pour les flux de données CPM](https://experiencecloud.adobe.com/resources/help/fr_FR/aam/marketplace_cpm_billing.html).

@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Cette vidéo vous guide tout au long des détails et des cas d’utilisation de la destination basée sur les personnes de la correspondance client Google. Elle comprend une présentation de la création d’un segment et de son mappage à une destination. Il affiche également l’entrée de l’audience dans la console d’annonces Google.
 
->[!VIDEO](https://video.tv.adobe.com/v/38552/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/326460/?quality=12&learn=on&captions=fre_fr)

@@ -22,6 +22,6 @@ ht-degree: 0%
 
 Dans cette vidéo, vous découvrez pourquoi et comment utiliser la méthode Service d’ID Experience Cloud `setCustomerIDs()` pour ingérer et hacher une adresse électronique et l’utiliser comme ID déclaré. Cela permet non seulement d’associer l’identifiant CRM à l’adresse électronique, mais également de les synchroniser avec l’UUID Adobe Audience Manager, par exemple, l’identifiant d’appareil anonyme. Ces adresses électroniques hachées peuvent ensuite être envoyées vers des destinations basées sur les personnes.
 
->[!VIDEO](https://video.tv.adobe.com/v/29136/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/30096/?quality=12&captions=fre_fr)
 
 Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/docs/id-service/using/reference/hashing-support.html?lang=fr).

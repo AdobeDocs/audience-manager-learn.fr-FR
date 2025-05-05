@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Découvrez comment utiliser l’affichage du code pour définir des segments, ce qui vous permet de créer des combinaisons de caractéristiques complexes, notamment en utilisant la récence et la fréquence.
 
->[!VIDEO](https://video.tv.adobe.com/v/38035/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/326793/?quality=12&learn=on&captions=fre_fr)

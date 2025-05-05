@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Lors de l’introduction de votre propriétaire dans l’Audience Manager afin de mieux comprendre et cibler votre client, certaines exigences de mise en forme s’appliquent aux données. Cette vidéo passe en revue certaines des principales options et vous montre où obtenir plus d’informations.
 
->[!VIDEO](https://video.tv.adobe.com/v/331007/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346204/?quality=12&learn=on&captions=fre_fr)
 
 Pour visionner une vidéo sur l&#39;attribution de noms et l&#39;importation de fichiers, cliquez sur [HERE](steps-for-ingesting-file-based-data.md).
 

@@ -20,7 +20,7 @@ ht-degree: 1%
 
 Cette vidéo présente aux utilisateurs d’Audiences Manager la fonctionnalité de gouvernance des données dans Real-time Customer Data Platform, en la comparant à ce qui était disponible dans Audience Manager. Il aborde la structure DULE (Data Usage and Labeling Enforcement) et l’emplacement dans Platform où elle peut être appliquée.
 
->[!VIDEO](https://video.tv.adobe.com/v/332123/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410872/?quality=12&learn=on&captions=fre_fr)
 
 ## Ressources supplémentaires
 

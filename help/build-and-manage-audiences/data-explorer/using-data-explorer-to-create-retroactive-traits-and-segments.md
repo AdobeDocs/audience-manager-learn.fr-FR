@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Cette vidéo montre comment créer des caractéristiques rétroactives, telles que les caractéristiques qui renvoient des données dans la caractéristique avant sa création. C’est une grande avancée dans la création de votre caractéristique.
 
->[!VIDEO](https://video.tv.adobe.com/v/25169/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/327526/?quality=12&captions=fre_fr)
 
 Jusqu’à présent, lorsque vous créiez des caractéristiques, elles ne collectaient des données que lors de l’avancement. Cela signifie que vous deviez créer beaucoup de caractéristiques au cas où ils recevraient du trafic ou des données. Vous pouvez maintenant attendre de voir quelles paires clé/valeur reçoivent des données, puis créer une caractéristique et renvoyer les données dans cette caractéristique. Cela vous permet de gagner du temps et de l’énergie, et de maintenir votre taxonomie des caractéristiques étroites, au lieu d’avoir plusieurs caractéristiques qui n’ont pas de données.
 

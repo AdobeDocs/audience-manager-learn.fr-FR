@@ -20,7 +20,7 @@ ht-degree: 1%
 
 Lorsque vous passez d’Audience Manager à Real-time Customer Data Platform (la plateforme de données clients en temps réel), vous découvrirez quelques nouveaux concepts et pratiques. Les schémas et XDM appartiennent à cette catégorie. Cette vidéo explique ces concepts.
 
->[!VIDEO](https://video.tv.adobe.com/v/332023/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410354/?quality=12&learn=on&captions=fre_fr)
 
 ## Ressources supplémentaires
 

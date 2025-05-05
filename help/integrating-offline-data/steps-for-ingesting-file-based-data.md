@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Dans cette vidéo, vous découvrirez les étapes à suivre lorsque vous intégrez des données hors ligne dans Audience Manager, y compris les exigences en matière de nom de fichier pour le fichier de données.
 
->[!VIDEO](https://video.tv.adobe.com/v/331008/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346197/?quality=12&learn=on&captions=fre_fr)
 
 Pour une vidéo concernant le formatage des données pour les fichiers entrants, cliquez sur [HERE](formatting-and-ingesting-file-based-data.md).
 

@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Dans cette vidéo, apprenez à mettre en forme une synchronisation des identifiants basée sur un fichier, afin d’associer vos identifiants client (identifiants CRM) à des adresses électroniques hachées. Vous pourrez ainsi envoyer les adresses électroniques hachées aux destinations basées sur les personnes, telles que [!DNL Facebook].
 
->[!VIDEO](https://video.tv.adobe.com/v/29122/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/31640/?quality=12&captions=fre_fr)

@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Lors de la création de campagnes marketing, en particulier pour atteindre des campagnes d’extension/d’extension d’audience, vous souhaiterez peut-être exclure vos clients actuels, afin de pouvoir leur proposer une solution différente. Cette vidéo présente les options de création de segments afin d’exclure les personnes qui ont déjà été converties au statut de client.
 
->[!VIDEO](https://video.tv.adobe.com/v/36494/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/41311/?quality=12&learn=on&captions=fre_fr)

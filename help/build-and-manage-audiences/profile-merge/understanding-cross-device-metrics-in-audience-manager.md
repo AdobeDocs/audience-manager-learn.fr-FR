@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Dans cette vidéo, vous découvrez la différence entre les profils de l’appareil et les profils multi-appareils, ainsi que l’endroit où les nombres de l’interface correspondent à ces différents types de profils.
 
->[!VIDEO](https://video.tv.adobe.com/v/33445/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/36727/?quality=12&captions=fre_fr)

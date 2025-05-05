@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Dans le cadre d’un travail quotidien en Audience Manager, vous devrez peut-être déterminer rapidement si une caractéristique a été créée à partir d’une paire clé/valeur spécifique. Cette vidéo vous montre comment découvrir avec [!UICONTROL Data Explorer].
 
->[!VIDEO](https://video.tv.adobe.com/v/25148/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/330362/?quality=12&captions=fre_fr)
 
 Pour savoir si un signal a été créé dans une caractéristique, vous n’avez plus besoin de télécharger un fichier BAAAM ainsi que le rapport [!UICONTROL Unused Signals]. Désormais, vous pouvez simplement rechercher cette paire clé/valeur dans [!DNL Data Explorer], AKA l’application [!UICONTROL Signals], dans AAM, et rechercher les paires clé/valeur qui se trouvent dans les caractéristiques et celles qui ne le sont pas, toutes dans la même liste. Génial gain de temps !
 

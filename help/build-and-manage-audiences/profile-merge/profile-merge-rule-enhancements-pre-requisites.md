@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Présentation de la meilleure préparation pour la publication des améliorations [!UICONTROL Profile Merge Rule].
 
->[!VIDEO](https://video.tv.adobe.com/v/28971/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/32189/?quality=12&captions=fre_fr)

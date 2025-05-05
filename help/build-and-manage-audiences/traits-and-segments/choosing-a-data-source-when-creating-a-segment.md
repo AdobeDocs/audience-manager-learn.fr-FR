@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Découvrez quelques conseils sur le choix de la source de données appropriée lorsque vous créez un segment dans Audience Manager.
 
->[!VIDEO](https://video.tv.adobe.com/v/39293/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327394/?quality=12&learn=on&captions=fre_fr)

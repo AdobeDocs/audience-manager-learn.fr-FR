@@ -21,7 +21,7 @@ ht-degree: 0%
 Cette vidéo traite de l’ingestion de données hors ligne propriétaires dans Real-time Customer Data Platform (plateforme de données clients en temps réel) pour les utilisateurs de Adobe Audience Manager. Nous examinons quelques-unes des principales différences entre les deux produits concernant l’ingestion de données et montrons comment le connecteur de données d’Audience Manager peut être utilisé comme un espace d’arrêt jusqu’à ce que les processus aient été transférés vers la plateforme de données clients en temps réel.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/331276/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346990/?quality=12&learn=on&captions=fre_fr)
 
 ## Ressources supplémentaires
 

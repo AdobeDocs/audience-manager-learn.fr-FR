@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Découvrez des conseils et astuces pour vous aider lorsque vous envisagez d’utiliser des données Adobe Analytics dans vos caractéristiques dans Audience Manager.
 
->[!VIDEO](https://video.tv.adobe.com/v/326780/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/330121/?quality=12&learn=on&captions=fre_fr)

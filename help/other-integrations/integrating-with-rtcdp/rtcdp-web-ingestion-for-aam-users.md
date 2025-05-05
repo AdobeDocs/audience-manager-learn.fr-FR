@@ -20,7 +20,7 @@ ht-degree: 1%
 
 Cette vidéo présente aux utilisateurs d’Audience Manager les concepts liés à l’introduction de données de site Web dans Real-time Customer Data Platform (plateforme de données clients en temps réel). Elle comprend un aperçu général de l’emplacement du connecteur de données d’Audience Manager, ainsi que la manière dont les données peuvent passer du site Web directement via le SDK Web à la plateforme de données clients en temps réel.
 
->[!VIDEO](https://video.tv.adobe.com/v/331752/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346978/?quality=12&learn=on&captions=fre_fr)
 
 ## Ressources supplémentaires
 

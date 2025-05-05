@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Un penny épargné est un penny gagné, n&#39;est-ce pas ? Découvrez comment utiliser quelques formules pour déterminer les économies de coût de votre campagne en supprimant les publicités destinées aux clients existants.
 
->[!VIDEO](https://video.tv.adobe.com/v/36654/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/41297/?quality=12&learn=on&captions=fre_fr)

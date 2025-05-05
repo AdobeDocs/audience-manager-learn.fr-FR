@@ -22,6 +22,6 @@ ht-degree: 0%
 
 Les rapports de chevauchement vous permettent de voir comment les audiences de caractéristiques et de segments se chevauchent (le même visiteur dans plusieurs caractéristiques ou segments), afin que vous sachiez où vous pouvez agir avec vos données pour augmenter la conversion ou vous concentrer sur une portée plus large.
 
->[!VIDEO](https://video.tv.adobe.com/v/330432/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345082/?quality=12&learn=on&captions=fre_fr)
 
 Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/interactive-and-overlap-reports/dynamic-reports.html?lang=fr#reporting).

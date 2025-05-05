@@ -19,6 +19,6 @@ ht-degree: 0%
 
 Cette vidéo vous guide tout au long de l’interface [!UICONTROL Destination], en présentant et en expliquant les nombres associés aux taux de correspondance et aux audiences adressables.
 
->[!VIDEO](https://video.tv.adobe.com/v/29831/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/342850/?quality=12&captions=fre_fr)
 
 Pour plus d’informations, voir [Audiences adressables](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html?lang=fr) dans la documentation du produit.
