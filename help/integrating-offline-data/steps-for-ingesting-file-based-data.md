@@ -26,4 +26,4 @@ Dans cette vidéo, découvrez les étapes à suivre lors de l’intégration des
 
 Pour regarder une vidéo concernant la mise en forme des données pour les fichiers entrants, cliquez [ICI](formatting-and-ingesting-file-based-data.md).
 
-Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-s3-filenames.html).
+Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-s3-filenames.html?lang=fr).

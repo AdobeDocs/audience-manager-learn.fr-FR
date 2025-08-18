@@ -22,7 +22,7 @@ Lors de la création, de la modification ou de la suppression de caractéristiqu
 
 >[!VIDEO](https://video.tv.adobe.com/v/330749/?quality=12&learn=on)
 
-Pour plus d’informations, notamment pour télécharger la feuille de calcul BAAAM, consultez la [documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/bulk-management-tools/bulk-management-intro.html?lang=en#reference).
+Pour plus d’informations, notamment pour télécharger la feuille de calcul BAAAM, consultez la [documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/bulk-management-tools/bulk-management-intro.html?lang=fr#reference).
 
 >[!IMPORTANT]
 >

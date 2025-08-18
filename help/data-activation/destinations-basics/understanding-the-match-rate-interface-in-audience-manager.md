@@ -21,4 +21,4 @@ Cette vidéo vous guide à travers l’interface [!UICONTROL Destination], affic
 
 >[!VIDEO](https://video.tv.adobe.com/v/29831/?quality=12)
 
-Pour plus d’informations, consultez [Audiences adressables](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html) dans la documentation du produit.
+Pour plus d’informations, consultez [Audiences adressables](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html?lang=fr) dans la documentation du produit.

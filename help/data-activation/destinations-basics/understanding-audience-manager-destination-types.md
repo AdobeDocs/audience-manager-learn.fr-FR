@@ -21,6 +21,6 @@ Cette vidéo vous présente les différents types de destinations dans Adobe Aud
 
 >[!VIDEO](https://video.tv.adobe.com/v/29839/?quality=12)
 
-Vous pouvez consulter une liste des partenaires de destination serveur à serveur disponibles dans la documentation des [destinations basées sur des appareils Audience Manager](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/device-based/device-based-destinations-list.html).
+Vous pouvez consulter une liste des partenaires de destination serveur à serveur disponibles dans la documentation des [destinations basées sur des appareils Audience Manager](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/device-based/device-based-destinations-list.html?lang=fr).
 
-Pour plus d’informations sur les destinations, consultez [Destinations](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations.html) dans la documentation du produit.
+Pour plus d’informations sur les destinations, consultez [Destinations](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations.html?lang=fr) dans la documentation du produit.

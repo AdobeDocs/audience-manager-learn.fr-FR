@@ -23,4 +23,4 @@ Dans cette vidéo, vous apprendrez à utiliser les recommandations de caractéri
 
 >[!VIDEO](https://video.tv.adobe.com/v/29363/?quality=12)
 
-Pour plus d’informations, consultez la [ documentation ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/trait-recommendations.html).
+Pour plus d’informations, consultez la [ documentation ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/trait-recommendations.html?lang=fr).

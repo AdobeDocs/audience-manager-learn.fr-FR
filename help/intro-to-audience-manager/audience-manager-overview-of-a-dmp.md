@@ -25,4 +25,4 @@ Découvrez les principaux défis liés à la personnalisation cross-canal et com
 
 >[!VIDEO](https://video.tv.adobe.com/v/33894/?quality=12)
 
-Pour plus d’informations, consultez la [ documentation ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/aam-overview.html).
+Pour plus d’informations, consultez la [ documentation ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/aam-overview.html?lang=fr).

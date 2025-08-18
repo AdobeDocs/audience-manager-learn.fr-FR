@@ -26,4 +26,4 @@ Lorsque vous intégrez votre solution propriétaire à Audience Manager pour mie
 
 Pour visionner une vidéo sur l’attribution de noms aux fichiers et l’importation, cliquez [ICI](steps-for-ingesting-file-based-data.md).
 
-Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-file-contents.html?).
+Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-file-contents.html?lang=fr&).

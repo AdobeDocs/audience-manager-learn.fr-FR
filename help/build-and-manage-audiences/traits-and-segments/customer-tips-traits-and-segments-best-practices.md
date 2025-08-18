@@ -28,4 +28,4 @@ Matt Vittorioso est spécialiste principal en marketing au sein de l&#39;équipe
 * Utilisation de fonctionnalités prêtes à l’emploi
 * Vérifier régulièrement les caractéristiques et les segments
 
-[Lisez les conseils de Matt dans la communauté Experience League.](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager-blogs/traits-and-segments-best-practices/ba-p/367729)
+[Lisez les conseils de Matt dans la communauté Experience League.](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager-blogs/traits-and-segments-best-practices/ba-p/367729?profile.language=fr)
