@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Le rapport d’identité d’audience permet aux clients de créer des rapports sur la population totale d’une caractéristique ou d’un segment par définition d’identité par personne/ménage. Regardez cette vidéo pour découvrir comment elle se manifeste dans les rapports Audience Manager.
 
->[!VIDEO](https://video.tv.adobe.com/v/28973/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/35888/?quality=12&captions=fre_fr)

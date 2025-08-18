@@ -23,6 +23,6 @@ ht-degree: 0%
 
 Dans cette vidéo, découvrez comment configurer une recherche dans [!DNL Data Explorer], l’exécuter, puis l’enregistrer pour la réutiliser ultérieurement. Vous pouvez également placer la recherche enregistrée dans le tableau de bord afin qu’elle soit immédiatement disponible lorsque vous accédez à l’application [!UICONTROL Signals].
 
->[!VIDEO](https://video.tv.adobe.com/v/25147/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/30145/?quality=12&captions=fre_fr)
 
 Pour plus d’informations sur [!UICONTROL Data Explorer], consultez [Data Explorer - Présentation, Avantages et Cas d’utilisation](https://experiencecloud.adobe.com/resources/help/fr_FR/aam/data-explorer.html).

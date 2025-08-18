@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Cette vidéo montre comment travailler en [!UICONTROL Data Explorer] pour découvrir et utiliser vos données Adobe Analytics, y compris la recherche de [!UICONTROL signals] utilisés et inutilisés, la création de caractéristiques [!DNL Analytics] et la compréhension des données.
 
->[!VIDEO](https://video.tv.adobe.com/v/25150/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/330361/?quality=12&captions=fre_fr)
 
 Il est probable que l’une de vos principales sources de données entrant dans Audience Manager soit une solution d’analyse, et bien sûr nous espérons qu’il s’agit d’Adobe Analytics.
 

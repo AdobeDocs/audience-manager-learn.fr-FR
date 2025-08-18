@@ -22,6 +22,6 @@ ht-degree: 0%
 
 Découvrez comment utiliser les rapports Audience Optimization pour améliorer vos campagnes, savoir où investir vos dollars marketing et où arrêter d’investir. Découvrez également comment déterminer le capping de fréquence optimal et trouver d’autres gemmes dans ces rapports.
 
->[!VIDEO](https://video.tv.adobe.com/v/330401/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345088/?quality=12&learn=on&captions=fre_fr)
 
 Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/audience-optimization-reports/audience-optimization-reports.html?lang=fr#reporting).

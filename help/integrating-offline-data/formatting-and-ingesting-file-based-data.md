@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Lorsque vous intégrez votre solution propriétaire à Audience Manager pour mieux comprendre et cibler votre client, certaines exigences de mise en forme s’appliquent aux données. Cette vidéo présente certaines des principales options et vous indique où obtenir plus d’informations.
 
->[!VIDEO](https://video.tv.adobe.com/v/331007/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346204/?quality=12&learn=on&captions=fre_fr)
 
 Pour visionner une vidéo sur l’attribution de noms aux fichiers et l’importation, cliquez [ICI](steps-for-ingesting-file-based-data.md).
 

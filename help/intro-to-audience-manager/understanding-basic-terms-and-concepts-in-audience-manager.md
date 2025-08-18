@@ -24,4 +24,4 @@ ht-degree: 85%
 
 Dans cette vidéo, nous allons passer en revue certains des termes et concepts de base, tels que les signaux, les caractéristiques et les segments, pour vous familiariser avec Audience Manager.
 
->[!VIDEO](https://video.tv.adobe.com/v/33887/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/37084/?quality=12&captions=fre_fr)

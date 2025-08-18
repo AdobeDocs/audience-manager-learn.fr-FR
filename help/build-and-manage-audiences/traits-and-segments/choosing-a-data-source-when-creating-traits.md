@@ -22,4 +22,4 @@ ht-degree: 0%
 
 L’un des champs importants à remplir lors de la création de caractéristiques est le champ [!UICONTROL Data Source]. Obtenez des conseils sur le choix de la bonne source de données pour les caractéristiques basées sur des règles et intégrées.
 
->[!VIDEO](https://video.tv.adobe.com/v/326660/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/330129/?quality=12&learn=on&captions=fre_fr)

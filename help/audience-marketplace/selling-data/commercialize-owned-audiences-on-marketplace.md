@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Dans cette vidéo, découvrez comment configurer vos données en tant que flux de données privé ou public sur Audience Marketplace, ce qui fait de vous un fournisseur de données de deuxième niveau ou de troisième niveau.
 
->[!VIDEO](https://video.tv.adobe.com/v/331721/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410860/?quality=12&learn=on&captions=fre_fr)

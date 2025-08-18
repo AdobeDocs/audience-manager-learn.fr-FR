@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Pour envoyer un segment ciblé à un DSP ou à un autre partenaire, vous devez mapper le segment à une destination dans Audience Manager. Cette vidéo décrit le mappage des segments vers une destination basée sur un appareil, également appelée destination _serveur à serveur_.
 
->[!VIDEO](https://video.tv.adobe.com/v/36495/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/41304/?quality=12&learn=on&captions=fre_fr)

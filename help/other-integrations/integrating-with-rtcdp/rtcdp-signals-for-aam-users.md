@@ -20,7 +20,7 @@ ht-degree: 1%
 
 Cette vidéo est destinée aux utilisateurs d’Audience Manager qui passent à Real-time Customer Data Platform (Real-time CDP) et explique comment les signaux (paires clé-valeur) que vous utilisez dans Audience Manager pour créer des caractéristiques sont utilisés dans Platform.
 
->[!VIDEO](https://video.tv.adobe.com/v/332092/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410878/?quality=12&learn=on&captions=fre_fr)
 
 ## Ressources supplémentaires
 

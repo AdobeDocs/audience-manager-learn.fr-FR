@@ -21,7 +21,7 @@ ht-degree: 0%
 Cette vidéo présente l’ingestion des données hors ligne propriétaires dans Real-time Customer Data Platform (Real-time CDP) pour les personnes qui utilisent Adobe Audience Manager. Nous examinons certaines des principales différences entre les deux produits en ce qui concerne l’ingestion des données et montrons comment le connecteur de données d’Audience Manager peut être utilisé comme solution provisoire jusqu’à ce que les processus soient transférés vers Real-Time CDP.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/331276/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346990/?quality=12&learn=on&captions=fre_fr)
 
 ## Ressources supplémentaires
 

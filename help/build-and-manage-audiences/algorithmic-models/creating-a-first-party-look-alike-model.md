@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Dans cette vidéo, vous apprendrez à créer un modèle similaire propriétaire, afin de pouvoir trouver davantage de vos propres visiteurs qui ressemblent à vos convertisseurs.
 
->[!VIDEO](https://video.tv.adobe.com/v/23504/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/328091/?quality=12&captions=fre_fr)
 
 Voici quelques cas d’utilisation :
 

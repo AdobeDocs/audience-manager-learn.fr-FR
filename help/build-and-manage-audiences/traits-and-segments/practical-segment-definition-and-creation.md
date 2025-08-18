@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Cette vidéo vous guide tout au long d’un processus de définition de vos segments, puis de répartition en fonction des caractéristiques/signaux dont vous aurez besoin pour les créer.
 
->[!VIDEO](https://video.tv.adobe.com/v/37391/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/326716/?quality=12&learn=on&captions=fre_fr)

@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Certaines de vos caractéristiques sont basées sur des conversions sur votre site. Dans cette vidéo, apprenez à les désigner comme tels et apprenez-en plus sur un conseil/un moyen très important.
 
->[!VIDEO](https://video.tv.adobe.com/v/23431/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/328076/?quality=12&captions=fre_fr)
 
 Qu&#39;est-ce que vous essayez de faire faire aux gens sur votre site ? Quel est votre événement de conversion ? Bien sûr, il existe de nombreuses réponses différentes à cette question, selon le type de site/le secteur vertical et les objectifs organisationnels. Dans tous les cas, il est courant dans AAM de créer des caractéristiques pour les visiteurs qui répondent à ces critères.
 

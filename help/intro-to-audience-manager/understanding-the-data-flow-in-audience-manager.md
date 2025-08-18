@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Cette vidéo vous aide à mieux comprendre Adobe Audience Manager en décrivant le flux de données qui entre dans l’application, entre en flux et en sort.
 
->[!VIDEO](https://video.tv.adobe.com/v/33888/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/37083/?quality=12&captions=fre_fr)

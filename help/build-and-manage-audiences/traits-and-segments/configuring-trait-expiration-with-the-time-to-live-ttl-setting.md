@@ -22,4 +22,4 @@ ht-degree: 0%
 
 L’un des paramètres lors de la création des caractéristiques est le paramètre de [!UICONTROL Time to Live] (TTL), qui correspond à l’expiration de l’appartenance à la caractéristique si vous n’êtes pas requalifié dans la période spécifiée. Cette vidéo montre comment voir et définir cette fonctionnalité.
 
->[!VIDEO](https://video.tv.adobe.com/v/329381/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/341335/?quality=12&learn=on&captions=fre_fr)

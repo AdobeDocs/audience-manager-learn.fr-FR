@@ -28,4 +28,4 @@ Les cas d’utilisation suivants sont mis en surbrillance :
 * Implémentation via un gestionnaire de balises non Adobe lors de l’utilisation d’Adobe Analytics
 * Implémentation via un gestionnaire de balises autre qu’Adobe lorsque vous n’utilisez pas Adobe Analytics
 
->[!VIDEO](https://video.tv.adobe.com/v/29964/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/33582/?quality=12&captions=fre_fr)

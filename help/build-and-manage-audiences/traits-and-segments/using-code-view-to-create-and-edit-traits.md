@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Découvrez comment utiliser l’affichage du code lors de la création de caractéristiques ou de la modification de caractéristiques existantes. L’affichage du code est une alternative au Générateur d’expression lors de la définition de l’expression de caractéristique.
 
->[!VIDEO](https://video.tv.adobe.com/v/326613/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/330137/?quality=12&learn=on&captions=fre_fr)

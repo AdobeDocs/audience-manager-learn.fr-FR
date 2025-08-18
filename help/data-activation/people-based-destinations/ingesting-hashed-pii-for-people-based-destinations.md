@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Dans cette vidéo, découvrez comment formater une synchronisation d’identifiants basée sur des fichiers, afin de connecter vos identifiants de client (identifiants CRM) à des adresses e-mail hachées. Vous pourrez ainsi envoyer les adresses e-mail hachées vers des destinations basées sur les personnes, comme [!DNL Facebook].
 
->[!VIDEO](https://video.tv.adobe.com/v/29122/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/31640/?quality=12&captions=fre_fr)

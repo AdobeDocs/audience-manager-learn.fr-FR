@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Un sou épargné est un sou gagné, non ? Découvrez comment utiliser deux formules pour déterminer les économies de coûts de votre campagne en supprimant les publicités destinées aux clients existants.
 
->[!VIDEO](https://video.tv.adobe.com/v/36654/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/41297/?quality=12&learn=on&captions=fre_fr)
