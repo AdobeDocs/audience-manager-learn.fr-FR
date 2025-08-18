@@ -1,6 +1,6 @@
 ---
-title: Vidéos et tutoriels de fusion de profils
-description: Visionnez les vidéos et les tutoriels pour les fonctionnalités de fusion de profils, y compris les stratégies de fusion de profils. Contrôlez les jeux de données utilisés pour la segmentation et ciblez précisément une personne sur plusieurs périphériques.
+title: Vidéos et tutoriels sur la fusion de profils
+description: Affichez les vidéos et les tutoriels relatifs aux fonctionnalités de fusion de profils, y compris les règles de fusion de profils. Contrôlez les jeux de données utilisés pour la segmentation et ciblez avec précision une personne sur plusieurs appareils.
 feature: Profile Merge
 topics: null
 activity: understand
@@ -17,19 +17,19 @@ ht-degree: 0%
 
 ---
 
-# [!UICONTROL Profile Merge] - Vidéos et tutoriels
+# [!UICONTROL Profile Merge] - vidéos et tutoriels
 
-Visionnez les vidéos et les tutoriels pour les fonctionnalités de fusion de profils, y compris les stratégies de fusion de profils. Contrôlez les jeux de données utilisés pour la segmentation et ciblez précisément une personne sur plusieurs périphériques.
+Affichez les vidéos et les tutoriels relatifs aux fonctionnalités de fusion de profils, y compris les règles de fusion de profils. Contrôlez les jeux de données utilisés pour la segmentation et ciblez avec précision une personne sur plusieurs appareils.
 
-* [Présentation des stratégies de fusion de profils](overview-of-profile-merge-rules.md)
-* [Exemples de règles de fusion de profils et cas d’utilisation](profile-merge-rule-examples-and-use-cases.md)
-* [Présentation des améliorations des règles de fusion de profils](overview-of-profile-merge-rule-enhancements.md)
-* [Création et utilisation de stratégies de fusion de profils simples](creating-and-using-simple-profile-merge-rules.md)
-* [Utilisation de stratégies de fusion de profils pour personnaliser un état authentifié](using-profile-merge-rules-to-personalize-in-an-authenticated-state.md)
-* [Utilisation de stratégies de fusion de profils pour l’extension d’appareil et une portée accrue](using-profile-merge-rules-for-device-extension-and-increased-reach.md)
-* [Améliorations des règles de fusion de profils - conditions préalables](profile-merge-rule-enhancements-pre-requisites.md)
+* [Présentation des règles de fusion de profil](overview-of-profile-merge-rules.md)
+* [Exemples de règles de fusion de profil et cas d’utilisation](profile-merge-rule-examples-and-use-cases.md)
+* [Présentation des améliorations apportées aux règles de fusion de profils](overview-of-profile-merge-rule-enhancements.md)
+* [Créer et utiliser des règles de fusion de profil simples](creating-and-using-simple-profile-merge-rules.md)
+* [Utilisation des règles de fusion de profil pour la personnalisation dans un état authentifié](using-profile-merge-rules-to-personalize-in-an-authenticated-state.md)
+* [Utilisation des règles de fusion de profil pour l’extension d’appareil et une portée accrue](using-profile-merge-rules-for-device-extension-and-increased-reach.md)
+* [Améliorations des règles de fusion de profils - Conditions préalables](profile-merge-rule-enhancements-pre-requisites.md)
 * [Impact des améliorations apportées aux règles de fusion de profils sur la segmentation, l’activation et la création de rapports](how-profile-merge-rule-enhancements-impact-segmentation-activation-and-reporting.md)
 * [Interprétation des rapports d’identité d’audience](interpret-audience-identity-reporting.md)
-* [Présentation des mesures sur plusieurs appareils en Audience Manager](understanding-cross-device-metrics-in-audience-manager.md)
+* [Présentation des mesures inter-appareils dans Audience Manager](understanding-cross-device-metrics-in-audience-manager.md)
 
-Ces vidéos peuvent être utilisées avec la [documentation sur les stratégies de fusion de profils](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html?lang=fr)
+Ces vidéos peuvent être utilisées conjointement avec la documentation [Règles de fusion de profil](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html)

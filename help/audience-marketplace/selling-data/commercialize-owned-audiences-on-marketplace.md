@@ -1,6 +1,6 @@
 ---
-title: Commercialisation des audiences détenues sur Marketplace
-description: Dans cette vidéo, vous apprendrez comment configurer vos données en tant que flux de données privé ou public sur l’Audience Marketplace, ce qui fait de vous un fournisseur de données de deuxième ou de troisième niveau.
+title: Commercialiser les audiences détenues sur Marketplace
+description: Dans cette vidéo, vous apprendrez à configurer vos données en tant que flux de données privé ou public sur Audience Marketplace, ce qui fait de vous un fournisseur de données de 2e ou 3e niveau.
 feature: Audience Marketplace
 topics: null
 activity: use
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Commercialisation des audiences détenues sur Marketplace
+# Commercialiser les audiences détenues sur Marketplace
 
-Dans cette vidéo, découvrez comment configurer vos données sous la forme d’un flux de données privé ou public sur l’Audience Marketplace, ce qui fait de vous un fournisseur de données de deuxième ou de troisième niveau.
+Dans cette vidéo, découvrez comment configurer vos données en tant que flux de données privé ou public sur Audience Marketplace, ce qui fait de vous un fournisseur de données de deuxième niveau ou de troisième niveau.
 
->[!VIDEO](https://video.tv.adobe.com/v/3410860/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/331721/?quality=12&learn=on)

@@ -1,5 +1,5 @@
 ---
-title: Comprendre les chiffres dans le graphique de segments
+title: Comprendre les nombres dans le graphique de segment
 description: Découvrez les nombres qui s’affichent dans le graphique de l’écran d’informations sur les segments.
 feature: Segments
 topics: null
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Comprendre les chiffres dans le graphique de segments
+# Comprendre les nombres dans le graphique de segment
 
 Découvrez les nombres qui s’affichent dans le graphique de l’écran d’informations sur les segments.
 
->[!VIDEO](https://video.tv.adobe.com/v/326850/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/38041/?quality=12&learn=on)

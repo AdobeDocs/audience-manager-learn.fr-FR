@@ -1,6 +1,6 @@
 ---
-title: Présentation de l’interface Taux de correspondance
-description: Découvrez l’interface de destination, en affichant et en expliquant les nombres associés aux taux de correspondance et aux audiences adressables.
+title: Comprendre l’interface Taux de correspondance
+description: Découvrez l’interface de destination, affichant et expliquant les nombres associés aux taux de correspondance et aux audiences adressables.
 feature: Match Rates
 doc-type: feature video
 thumbnail: 29831.jpg
@@ -15,10 +15,10 @@ ht-degree: 0%
 
 ---
 
-# Présentation de l’interface Taux de correspondance en Audience Manager
+# Comprendre l’interface Taux de correspondance dans Audience Manager
 
-Cette vidéo vous guide tout au long de l’interface [!UICONTROL Destination], en présentant et en expliquant les nombres associés aux taux de correspondance et aux audiences adressables.
+Cette vidéo vous guide à travers l’interface [!UICONTROL Destination], affichant et expliquant les nombres associés aux taux de correspondance et aux audiences adressables.
 
->[!VIDEO](https://video.tv.adobe.com/v/342850/?quality=12&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/29831/?quality=12)
 
-Pour plus d’informations, voir [Audiences adressables](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html?lang=fr) dans la documentation du produit.
+Pour plus d’informations, consultez [Audiences adressables](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html) dans la documentation du produit.

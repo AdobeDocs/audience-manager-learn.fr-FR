@@ -1,6 +1,6 @@
 ---
-title: Présentation du contrôle d’accès dans la plateforme des données clients en temps réel pour les utilisateurs d’Audience Manager
-description: Lorsque vous passez d’Audience Manager à Real-time Customer Data Platform, vous souhaitez savoir où les autorisations d’utilisateur et de groupe sont définies. Cette vidéo montre comment le contrôle d’accès se trouve désormais dans Adobe Admin Console.
+title: Comprendre le contrôle d’accès dans Real-time CDP pour les utilisateurs Audience Manager
+description: Lorsque vous passez d’Audience Manager à Real-time Customer Data Platform, vous souhaitez savoir où les autorisations d’utilisateur et de groupe sont définies. Cette vidéo montre comment sera désormais le contrôle d’accès dans le Adobe Admin Console.
 feature: Experience Platform Integration
 topic: Integrations
 role: User, Architect, Admin, Leader
@@ -16,15 +16,15 @@ ht-degree: 1%
 
 ---
 
-# Présentation du contrôle d’accès dans la plateforme des données clients en temps réel pour les utilisateurs d’Audience Manager
+# Comprendre le contrôle d’accès dans Real-time CDP pour les utilisateurs Audience Manager
 
-Lorsque vous passez d’Audience Manager à Real-time Customer Data Platform, vous souhaitez savoir où les autorisations d’utilisateur et de groupe sont définies. Cette vidéo montre comment le contrôle d’accès se trouve désormais dans Adobe Admin Console.
+Lorsque vous passez d’Audience Manager à Real-time Customer Data Platform, vous souhaitez savoir où les autorisations d’utilisateur et de groupe sont définies. Cette vidéo montre comment sera désormais le contrôle d’accès dans le Adobe Admin Console.
 
->[!VIDEO](https://video.tv.adobe.com/v/3410904/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/332091/?quality=12&learn=on)
 
 ## Ressources supplémentaires
 
 Vous trouverez ci-dessous des ressources existantes qui peuvent vous aider à en savoir plus sur Real-time Customer Data Platform.
 
-* [Présentation du contrôle d’accès](https://experienceleague.adobe.com/docs/experience-platform/access-control/home.html?lang=fr#access-control-hierarchy-and-workflow)
-* [Configurer les autorisations](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/configure-permissions.html?lang=fr)
+* [Présentation du contrôle d’accès](https://experienceleague.adobe.com/docs/experience-platform/access-control/home.html?lang=en#access-control-hierarchy-and-workflow)
+* [Configuration des autorisations](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/configure-permissions.html?lang=en)

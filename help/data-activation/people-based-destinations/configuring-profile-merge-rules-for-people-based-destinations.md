@@ -1,6 +1,6 @@
 ---
-title: Configuration des règles de fusion de profils pour les destinations basées sur les personnes
-description: Dans cette vidéo, découvrez comment configurer une règle de fusion de profils à utiliser pour les destinations basées sur les personnes, y compris quand utiliser une nouvelle option multi-appareils.
+title: Configurer des règles de fusion de profils pour les destinations basées sur les personnes
+description: Dans cette vidéo, découvrez comment configurer une règle de fusion de profils à utiliser pour les destinations basées sur les personnes, y compris quand utiliser une toute nouvelle option sur plusieurs appareils.
 feature: People-based Destinations
 topics: null
 activity: setup
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Configuration de [!UICONTROL Profile Merge Rules] pour les destinations basées sur les personnes
+# Configurer des [!UICONTROL Profile Merge Rules] pour les destinations basées sur les personnes
 
-Dans cette vidéo, découvrez comment configurer un [!UICONTROL Profile Merge Rule] à utiliser pour les destinations basées sur les personnes, y compris quand utiliser une nouvelle option multi-appareils.
+Dans cette vidéo, découvrez comment configurer un [!UICONTROL Profile Merge Rule] à utiliser pour les destinations basées sur les personnes, y compris quand utiliser une toute nouvelle option sur plusieurs appareils.
 
->[!VIDEO](https://video.tv.adobe.com/v/31634/?quality=12&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/29076/?quality=12)

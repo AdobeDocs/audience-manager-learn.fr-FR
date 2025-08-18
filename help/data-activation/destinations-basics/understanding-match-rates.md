@@ -1,6 +1,6 @@
 ---
-title: Présentation des taux de correspondance
-description: Découvrez les taux de correspondance dans Adobe Audience Manager, ce qu’ils sont et comment ils sont calculés. Découvrez également les bonnes pratiques, ainsi que ce qui peut entraîner un faible taux de correspondance.
+title: Comprendre les taux de correspondance
+description: Découvrez les taux de correspondance dans Adobe Audience Manager, ce qu’ils sont et comment ils sont calculés. Découvrez également les bonnes pratiques ainsi que les causes possibles d’un faible taux de correspondance.
 feature: Match Rates
 doc-type: presentation
 thumbnail: 29830.jpg
@@ -15,10 +15,10 @@ ht-degree: 0%
 
 ---
 
-# Présentation des taux de correspondance
+# Comprendre les taux de correspondance
 
-Cette vidéo vous aide à comprendre les taux de correspondance dans Adobe Audience Manager, ce qu’ils sont et comment ils sont calculés. Vous découvrirez également quelques bonnes pratiques, ainsi que ce qui peut provoquer un faible taux de correspondance.
+Cette vidéo vous aide à comprendre les taux de correspondance dans Adobe Audience Manager, ce qu’ils sont et comment ils sont calculés. Vous découvrirez également quelques bonnes pratiques, ainsi que ce qui peut entraîner un faible taux de correspondance.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29830/?quality=12)
 
-Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html?lang=fr).
+Pour plus d’informations, consultez la [ documentation ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html).

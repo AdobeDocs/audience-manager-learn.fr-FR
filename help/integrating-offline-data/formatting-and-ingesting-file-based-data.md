@@ -1,6 +1,6 @@
 ---
-title: Mise en forme et ingestion de données basées sur des fichiers
-description: Découvrez certaines des principales options pour obtenir plus d’informations lors de l’introduction de votre propriétaire dans l’Audience Manager afin de mieux comprendre et cibler votre client. Découvrez certaines exigences de mise en forme pour les données.
+title: Formater et ingérer des données basées sur des fichiers
+description: Découvrez quelques-unes des principales options permettant d’obtenir plus d’informations lorsque vous intégrez votre solution propriétaire à Audience Manager afin de mieux comprendre et cibler votre client. Découvrez certaines exigences de formatage des données.
 feature: Onboarding Offline Data
 topics: null
 activity: use
@@ -18,12 +18,12 @@ ht-degree: 0%
 
 ---
 
-# Mise en forme et ingestion de données basées sur des fichiers
+# Formater et ingérer des données basées sur des fichiers
 
-Lors de l’introduction de votre propriétaire dans l’Audience Manager afin de mieux comprendre et cibler votre client, certaines exigences de mise en forme s’appliquent aux données. Cette vidéo passe en revue certaines des principales options et vous montre où obtenir plus d’informations.
+Lorsque vous intégrez votre solution propriétaire à Audience Manager pour mieux comprendre et cibler votre client, certaines exigences de mise en forme s’appliquent aux données. Cette vidéo présente certaines des principales options et vous indique où obtenir plus d’informations.
 
->[!VIDEO](https://video.tv.adobe.com/v/346204/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/331007/?quality=12&learn=on)
 
-Pour visionner une vidéo sur l&#39;attribution de noms et l&#39;importation de fichiers, cliquez sur [HERE](steps-for-ingesting-file-based-data.md).
+Pour visionner une vidéo sur l’attribution de noms aux fichiers et l’importation, cliquez [ICI](steps-for-ingesting-file-based-data.md).
 
-Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-file-contents.html?lang=fr&).
+Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-file-contents.html?).

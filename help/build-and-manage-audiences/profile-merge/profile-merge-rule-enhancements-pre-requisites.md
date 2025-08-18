@@ -1,6 +1,6 @@
 ---
-title: Améliorations des règles de fusion de profils - conditions préalables
-description: Présentation de la meilleure préparation à la publication des améliorations des règles de fusion de profils.
+title: Améliorations des règles de fusion de profils - Conditions préalables
+description: Présentation de la meilleure façon de se préparer à la publication des améliorations des règles de fusion de profils.
 feature: Profile Merge
 topics: null
 activity: understand
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# [!UICONTROL Profile Merge Rule] améliorations - Conditions préalables
+# Améliorations de la [!UICONTROL Profile Merge Rule] - conditions préalables
 
-Présentation de la meilleure préparation pour la publication des améliorations [!UICONTROL Profile Merge Rule].
+Présentation de la meilleure façon de se préparer à la publication des améliorations d’[!UICONTROL Profile Merge Rule].
 
->[!VIDEO](https://video.tv.adobe.com/v/32189/?quality=12&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/28971/?quality=12)

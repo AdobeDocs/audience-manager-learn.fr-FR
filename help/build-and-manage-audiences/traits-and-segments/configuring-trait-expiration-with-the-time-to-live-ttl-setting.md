@@ -1,6 +1,6 @@
 ---
 title: Configuration de l’expiration des caractéristiques avec [!UICONTROL Time-to-Live] (TTL)
-description: Découvrez comment rechercher et définir [!UICONTROL Time to Live] (TTL) en Audience Manager. Utilisez ce paramètre lors de la création de caractéristiques, qui définit une expiration de l’appartenance à la caractéristique si un utilisateur ne se qualifie pas à nouveau au cours de la période spécifiée.
+description: Découvrez comment rechercher et définir des [!UICONTROL Time to Live] (TTL) dans Audience Manager. Utilisez ce paramètre lors de la création de caractéristiques, ce qui définit une expiration de l’appartenance à la caractéristique si un utilisateur n’est pas requalifié dans la période spécifiée.
 feature: Traits
 topics: null
 activity: use
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Configuration de l’expiration des caractéristiques avec [!UICONTROL Time-to-Live] (TTL)
 
-L’un des paramètres lors de la création des caractéristiques est le paramètre [!UICONTROL Time to Live] (TTL), qui correspond à une expiration de l’appartenance à la caractéristique si vous ne vous qualifiez pas de nouveau dans la période spécifiée. Cette vidéo montre comment afficher et définir cette fonctionnalité.
+L’un des paramètres lors de la création des caractéristiques est le paramètre de [!UICONTROL Time to Live] (TTL), qui correspond à l’expiration de l’appartenance à la caractéristique si vous n’êtes pas requalifié dans la période spécifiée. Cette vidéo montre comment voir et définir cette fonctionnalité.
 
->[!VIDEO](https://video.tv.adobe.com/v/341335/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/329381/?quality=12&learn=on)

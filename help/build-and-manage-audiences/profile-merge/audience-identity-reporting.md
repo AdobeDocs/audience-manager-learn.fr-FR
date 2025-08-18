@@ -1,6 +1,6 @@
 ---
-title: Rapports d’identité d’audience
-description: Découvrez les rapports d’identité d’audience. Ce type de reporting en Audience Manager vous permet de générer des rapports sur la population totale d’une caractéristique ou d’un segment par personne ou par définition de l’identité au sein d’un foyer.
+title: Compte rendu des performances d’identité d’audience
+description: Découvrez les rapports d’identité d’audience. Ce type de création de rapports dans Audience Manager vous permet de créer des rapports sur la population totale d’une caractéristique ou d’un segment par définition d’identité de personne ou de ménage.
 feature: profile merge
 topics: null
 audience: marketer
@@ -17,8 +17,8 @@ ht-degree: 0%
 ---
 
 
-# Rapports d’identité d’audience
+# Compte rendu des performances d’identité d’audience
 
-Les rapports d’identité d’audience permettent aux clients de créer des rapports sur la population totale d’une caractéristique ou d’un segment par personne/foyer de définitions d’identité. Regardez cette vidéo pour voir comment elle se manifeste dans les rapports d’Audience Manager.
+Le rapport d’identité d’audience permet aux clients de créer des rapports sur la population totale d’une caractéristique ou d’un segment par définition d’identité par personne/ménage. Regardez cette vidéo pour découvrir comment elle se manifeste dans les rapports Audience Manager.
 
->[!VIDEO](https://video.tv.adobe.com/v/32077/?quality=12&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/27977/?quality=12)

@@ -1,6 +1,6 @@
 ---
-title: Création d’une source de données multi-appareils pour l’authentification
-description: Découvrez comment créer une source de données multi-appareils pour l’authentification. Découvrez comment importer vos données de gestion de la relation client propriétaires dans Audience Manager pour mieux cibler vos clients et configurer la méthode setCustomerIDs() dans les balises Platform pour les connexions.
+title: Créer une source de données entre appareils pour l’authentification
+description: Découvrez comment créer une source de données entre appareils pour l’authentification. Découvrez comment importer vos données CRM propriétaires dans Audience Manager pour mieux cibler vos clients et comment configurer la méthode setCustomerIDs() dans les balises Platform pour les connexions.
 feature: Data Sources
 topics: null
 activity: use
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Création d’une source de données multi-appareils et authentification
+# Création d’une source de données entre appareils et authentification
 
-Lorsque vous souhaitez importer vos données CRM propriétaires dans l’Audience Manager afin de mieux cibler vos clients, vous devez d’abord créer une source de données multi-appareils pour stocker les identifiants et données CRM. Cela vous explique comment procéder et comment configurer la méthode `setCustomerIDs()` dans les balises Experience Platform pour les connexions.
+Lorsque vous souhaitez importer vos données CRM propriétaires dans Audience Manager pour mieux cibler vos clients, vous devez d’abord créer une source de données sur plusieurs appareils pour stocker les identifiants et les données CRM. Cette section vous explique comment procéder et configurer la méthode `setCustomerIDs()` dans les balises Experience Platform pour les connexions.
 
->[!VIDEO](https://video.tv.adobe.com/v/346211/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/331006/?quality=12&learn=on)

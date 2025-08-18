@@ -1,6 +1,6 @@
 ---
-title: Amélioration de vos segments avec Trait Recommendations
-description: Avec Trait Recommendations, lorsque vous créez ou modifiez un segment, vous obtenez des recommandations sur les caractéristiques supplémentaires que vous pouvez inclure et qui sont similaires aux caractéristiques de la règle de segment.
+title: Améliorez vos segments avec les recommandations de caractéristiques .
+description: Avec les recommandations de caractéristiques, lorsque vous créez ou modifiez un segment, vous obtenez des recommandations sur les caractéristiques supplémentaires que vous pouvez inclure et qui sont similaires aux caractéristiques de la règle de segment.
 feature: Segments
 topics: null
 activity: use
@@ -18,12 +18,12 @@ ht-degree: 0%
 
 ---
 
-# Amélioration de vos segments avec [!UICONTROL Trait Recommendations] {#enhancing-your-aam-segments-with-trait-recommendations}
+# Améliorez vos segments avec [!UICONTROL Trait Recommendations] {#enhancing-your-aam-segments-with-trait-recommendations}
 
 Avec [!UICONTROL Trait Recommendations], lorsque vous créez ou modifiez un segment dans [!UICONTROL Segments], vous obtenez des recommandations sur les caractéristiques supplémentaires que vous pouvez inclure et qui sont similaires aux caractéristiques de la règle de segment.
 
->[!VIDEO](https://video.tv.adobe.com/v/40839/?quality=12&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/26228/?quality=12)
 
-[!UICONTROL Trait Recommendations] fonctionne sur les données propriétaires et tierces, de sorte que vous puissiez inclure des [!UICONTROL Traits] supplémentaires recommandés et augmenter votre audience cible.
+[!UICONTROL Trait Recommendations] travaille sur des données propriétaires et tierces, afin que vous puissiez inclure des [!UICONTROL Traits] recommandées supplémentaires et augmenter votre audience cible.
 
-Pour plus d’informations sur cette fonctionnalité, consultez la [documentation](https://experiencecloud.adobe.com/resources/help/fr_FR/aam/trait-recommendations.html).
+Pour plus d’informations sur cette fonctionnalité, consultez la [ documentation ](https://experiencecloud.adobe.com/resources/help/en_US/aam/trait-recommendations.html).

@@ -1,5 +1,5 @@
 ---
-title: Utilisation des gestionnaires de balises pour implémenter l’Audience Manager
+title: Utilisation des gestionnaires de balises pour implémenter Audience Manager
 description: Découvrez les principes de base de l’implémentation de Adobe Audience Manager lors de l’utilisation d’une solution de gestion des balises.
 feature: Implementation Basics
 topics: null
@@ -17,15 +17,15 @@ ht-degree: 0%
 
 ---
 
-# Utilisation des gestionnaires de balises pour implémenter l’Audience Manager
+# Utilisation des gestionnaires de balises pour implémenter Audience Manager
 
 Dans cette vidéo, découvrez les principes de base de l’implémentation de Adobe Audience Manager lors de l’utilisation d’une solution de gestion des balises.
 
 Les cas d’utilisation suivants sont mis en surbrillance :
 
-* Mise en oeuvre par le biais de balises Adobe Experience Platform (anciennement Launch) lors de l’utilisation d’Adobe Analytics
-* Mise en oeuvre via des balises Adobe Experience Platform lorsque vous n’utilisez pas Adobe Analytics
-* Mise en oeuvre par le biais d’un gestionnaire de balises non Adobe lors de l’utilisation d’Adobe Analytics
-* Mise en oeuvre par le biais d’un gestionnaire de balises non Adobe lorsque vous n’utilisez pas Adobe Analytics
+* Implémentation via les balises Adobe Experience Platform (anciennement Launch) lors de l’utilisation d’Adobe Analytics
+* Implémentation via les balises Adobe Experience Platform lorsque vous n’utilisez pas Adobe Analytics
+* Implémentation via un gestionnaire de balises non Adobe lors de l’utilisation d’Adobe Analytics
+* Implémentation via un gestionnaire de balises autre qu’Adobe lorsque vous n’utilisez pas Adobe Analytics
 
->[!VIDEO](https://video.tv.adobe.com/v/33582/?quality=12&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/29964/?quality=12)

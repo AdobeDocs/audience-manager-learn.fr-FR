@@ -1,6 +1,6 @@
 ---
-title: Présentation des stratégies de fusion de profils
-description: Comprendre les règles de fusion de profils, leur fonctionnement et leur valeur pour le marketeur.
+title: Présentation des règles de fusion de profil
+description: Découvrez ce que sont les règles de fusion de profils, leur fonctionnement et leur valeur pour le professionnel du marketing.
 feature: Profile Merge
 topics: null
 activity: understand
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Présentation de [!UICONTROL Profile Merge Rules]
 
-Comprendre ce que sont [!UICONTROL Profile Merge Rules], comment ils fonctionnent et leur valeur pour le marketeur.
+comprendre ce que sont les [!UICONTROL Profile Merge Rules], leur fonctionnement et leur valeur pour le professionnel du marketing ;
 
->[!VIDEO](https://video.tv.adobe.com/v/32184/?quality=12&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/28974/?quality=12)

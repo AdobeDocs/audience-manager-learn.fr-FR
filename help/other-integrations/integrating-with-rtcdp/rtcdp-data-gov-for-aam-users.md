@@ -1,6 +1,6 @@
 ---
-title: Présentation de la gouvernance des données dans la plateforme des données clients en temps réel pour les utilisateurs d’Audience Manager
-description: Cette vidéo présente aux utilisateurs d’Audiences Manager la fonctionnalité de gouvernance des données dans Real-time Customer Data Platform, en la comparant à ce qui était disponible dans Audience Manager. Il aborde la structure DULE (Data Usage and Labeling Enforcement) et l’emplacement dans Platform où elle peut être appliquée.
+title: Comprendre la gouvernance des données dans Real-time CDP pour les utilisateurs Audience Manager
+description: Cette vidéo explique aux utilisateurs Audience Manager la fonctionnalité de gouvernance des données dans Real-time Customer Data Platform, en la comparant à ce qui était disponible dans Audience Manager. Il décrit le cadre DULE (Data Usage and Labeling Enforcement) et l’endroit dans Platform où il peut être appliqué.
 feature: Experience Platform Integration
 topic: Integrations
 role: User, Architect, Admin, Leader
@@ -16,17 +16,17 @@ ht-degree: 1%
 
 ---
 
-# Présentation de la gouvernance des données dans la plateforme des données clients en temps réel pour les utilisateurs d’Audience Manager
+# Comprendre la gouvernance des données dans Real-time CDP pour les utilisateurs Audience Manager
 
-Cette vidéo présente aux utilisateurs d’Audiences Manager la fonctionnalité de gouvernance des données dans Real-time Customer Data Platform, en la comparant à ce qui était disponible dans Audience Manager. Il aborde la structure DULE (Data Usage and Labeling Enforcement) et l’emplacement dans Platform où elle peut être appliquée.
+Cette vidéo explique aux utilisateurs Audience Manager la fonctionnalité de gouvernance des données dans Real-time Customer Data Platform, en la comparant à ce qui était disponible dans Audience Manager. Il décrit le cadre DULE (Data Usage and Labeling Enforcement) et l’endroit dans Platform où il peut être appliqué.
 
->[!VIDEO](https://video.tv.adobe.com/v/3410872/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/332123/?quality=12&learn=on)
 
 ## Ressources supplémentaires
 
-Vous trouverez ci-dessous quelques vidéos et tutoriels existants qui peuvent vous aider à en savoir plus sur Real-time Customer Data Platform. N’hésitez pas à explorer d’autres vidéos et tutoriels sur ces plateformes pour en savoir plus.
+Vous trouverez ci-dessous quelques vidéos et tutoriels existants qui peuvent vous aider à en savoir plus sur Real-time Customer Data Platform. N’hésitez pas à explorer d’autres vidéos et tutoriels à ce sujet pour en savoir plus sur Platform.
 
-* [Présentation de la gouvernance des données](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/understanding-data-governance.html?lang=fr#data-governance)
-* [Classification des données à l’aide des étiquettes de gouvernance](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/classify-data-using-governance-labels.html?lang=fr#data-governance)
-* [ Créer des stratégies d’utilisation des données ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/create-data-usage-policies.html?lang=fr#data-governance)
-* [Application des stratégies d’utilisation des données dans Real-time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/enforce-data-usage-policies-in-real-time-cdp.html?lang=fr#data-governance)
+* [Présentation de la gouvernance des données](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/understanding-data-governance.html?lang=en#data-governance)
+* [Classer les données à l’aide de libellés de gouvernance](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/classify-data-using-governance-labels.html?lang=en#data-governance)
+* [Créer des politiques d’utilisation des données](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/create-data-usage-policies.html?lang=en#data-governance)
+* [Application des politiques d’utilisation des données dans Real-time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/enforce-data-usage-policies-in-real-time-cdp.html?lang=en#data-governance)

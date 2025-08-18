@@ -1,6 +1,6 @@
 ---
-title: Présentation des mesures sur plusieurs appareils en Audience Manager
-description: Découvrez la différence entre les profils d’appareils et les profils multi-appareils, ainsi que l’endroit où les nombres de l’interface correspondent à ces différents types de profils.
+title: Comprendre les mesures inter-appareils dans Audience Manager
+description: Découvrez la différence entre les profils d’appareil et les profils inter-appareils, et où les nombres dans l’interface correspondent à ces différents types de profils.
 feature: Profile Merge
 topics: null
 activity: use
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Présentation des mesures sur plusieurs appareils en Audience Manager
+# Comprendre les mesures inter-appareils dans Audience Manager
 
-Dans cette vidéo, vous découvrez la différence entre les profils de l’appareil et les profils multi-appareils, ainsi que l’endroit où les nombres de l’interface correspondent à ces différents types de profils.
+Dans cette vidéo, vous découvrirez la différence entre les profils d’appareil et les profils inter-appareils, ainsi que la correspondance entre les nombres de l’interface et ces différents types de profils.
 
->[!VIDEO](https://video.tv.adobe.com/v/36727/?quality=12&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/33445/?quality=12)

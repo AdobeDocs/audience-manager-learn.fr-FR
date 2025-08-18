@@ -1,6 +1,6 @@
 ---
-title: Choix d’une source de données lors de la création d’un segment
-description: Découvrez quelques conseils sur le choix de la source de données appropriée lorsque vous créez un segment dans Audience Manager.
+title: Choisir une source de données lors de la création d’un segment
+description: Découvrez quelques conseils sur le choix de la bonne source de données lorsque vous créez un segment dans Audience Manager.
 feature: Segments
 topics: null
 activity: use
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Choix d’une source de données lors de la création d’un segment
+# Choisir une source de données lors de la création d’un segment
 
-Découvrez quelques conseils sur le choix de la source de données appropriée lorsque vous créez un segment dans Audience Manager.
+Découvrez quelques conseils sur le choix de la bonne source de données lorsque vous créez un segment dans Audience Manager.
 
->[!VIDEO](https://video.tv.adobe.com/v/327394/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/39293/?quality=12&learn=on)

@@ -1,6 +1,6 @@
 ---
-title: Création d’une taxonomie des caractéristiques
-description: Découvrez des conseils sur la création de structures de dossiers contenant vos caractéristiques en Audience Manager.
+title: Création d’une taxonomie de caractéristiques
+description: Découvrez des conseils sur la création de structures de dossiers qui contiennent vos caractéristiques dans Audience Manager.
 feature: Traits
 topics: null
 activity: use
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Création d’une taxonomie des caractéristiques
+# Création d’une taxonomie de caractéristiques
 
-Découvrez des conseils sur la création de structures de dossiers contenant vos caractéristiques en Audience Manager.
+Découvrez des conseils sur la création de structures de dossiers qui contiennent vos caractéristiques dans Audience Manager.
 
 >[!VIDEO](https://video.tv.adobe.com/v/40266/?quality=12&learn=on)

@@ -1,6 +1,6 @@
 ---
-title: Définition et création pratiques de segments
-description: Découvrez comment définir vos segments, puis ventilez-les selon les caractéristiques ou les signaux dont vous avez besoin pour les créer.
+title: Définition et création de segments pratiques
+description: Découvrez le processus de définition de vos segments, puis ventilez-les en fonction des caractéristiques ou des signaux dont vous avez besoin pour les créer.
 feature: Segments
 topics: null
 activity: understand
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Définition et création pratiques de segments
+# Définition et création de segments pratiques
 
-Cette vidéo vous guide tout au long du processus de définition de vos segments, puis de leur ventilation en fonction des caractéristiques/signaux dont vous aurez besoin pour les créer.
+Cette vidéo vous guide tout au long d’un processus de définition de vos segments, puis de répartition en fonction des caractéristiques/signaux dont vous aurez besoin pour les créer.
 
->[!VIDEO](https://video.tv.adobe.com/v/326716/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/37391/?quality=12&learn=on)

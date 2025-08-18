@@ -1,6 +1,6 @@
 ---
-title: Mise en correspondance des segments d’Audience Manager avec les destinations
-description: Découvrez les différents types de destinations en Audience Manager et les détails du mappage de segments à chaque type de destination.
+title: Mapper des segments Audience Manager aux destinations
+description: Découvrez les différents types de destinations dans Audience Manager et les détails du mappage de segments à chaque type de destination.
 feature: Segments
 topics: null
 activity: use
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Mise en correspondance des segments d’Audience Manager avec les destinations
+# Mapper des segments Audience Manager aux destinations
 
-Découvrez les différents types de destinations en Audience Manager et les détails du mappage de segments à chaque type de destination.
+Découvrez les différents types de destinations dans Audience Manager et les détails du mappage de segments à chaque type de destination.
 
->[!VIDEO](https://video.tv.adobe.com/v/327386/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/39158/?quality=12&learn=on)

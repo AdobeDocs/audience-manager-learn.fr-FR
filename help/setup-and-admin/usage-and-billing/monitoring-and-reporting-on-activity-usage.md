@@ -1,6 +1,6 @@
 ---
 title: Surveiller et générer des rapports sur l’utilisation des activités
-description: Dans cette vidéo, découvrez comment utiliser le rapport Utilisation de l’activité, y compris les options d’affichage et de téléchargement.
+description: Dans cette vidéo, découvrez comment utiliser le rapport d’utilisation des activités, y compris les options d’affichage et de téléchargement.
 feature: Usage and Billing
 topics: null
 activity: use
@@ -20,8 +20,8 @@ ht-degree: 0%
 
 # Surveiller et générer des rapports sur l’utilisation des activités
 
-Dans cette vidéo, nous allons découvrir comment utiliser [!UICONTROL Activity Usage Report], y compris les options d’affichage et de téléchargement.
+Dans cette vidéo, nous allons découvrir comment utiliser le [!UICONTROL Activity Usage Report], y compris les options d’affichage et de téléchargement.
 
->[!VIDEO](https://video.tv.adobe.com/v/33645/?quality=12&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/31443/?quality=12)
 
-Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/administration/activity-usage-reporting.html?lang=fr).
+Pour plus d’informations, consultez la [ documentation ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/administration/activity-usage-reporting.html).

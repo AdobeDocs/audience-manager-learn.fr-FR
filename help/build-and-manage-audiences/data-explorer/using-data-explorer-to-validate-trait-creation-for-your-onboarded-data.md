@@ -1,6 +1,6 @@
 ---
-title: Utiliser Data Explorer pour valider la création de caractéristiques pour les données intégrées
-description: L’une des fonctionnalités les plus puissantes de l’Audience Manager est la possibilité d’embarquer des données hors ligne et de les associer à vos données en ligne. Dans cette vidéo, découvrez comment utiliser Data Explorer pour vérifier que vous avez créé toutes les caractéristiques nécessaires pour exploiter ces données intégrées.
+title: Utilisation de Data Explorer pour valider la création de caractéristiques pour les données intégrées
+description: L’une des fonctionnalités les plus puissantes d’Audience Manager est la possibilité d’intégrer des données hors ligne et de les lier à vos données en ligne. Dans cette vidéo, découvrez comment utiliser Data Explorer pour vérifier que vous avez créé toutes les caractéristiques nécessaires pour exploiter ces données intégrées.
 feature: Data Explorer
 topics: null
 activity: use
@@ -18,12 +18,12 @@ ht-degree: 0%
 
 ---
 
-# Utiliser Data Explorer pour valider la création de caractéristiques pour les données intégrées {#using-data-explorer-to-validate-trait-creation-for-your-onboarded-data}
+# Utilisation de Data Explorer pour valider la création de caractéristiques pour les données intégrées {#using-data-explorer-to-validate-trait-creation-for-your-onboarded-data}
 
-L’une des fonctionnalités les plus puissantes de l’Audience Manager est la possibilité d’embarquer des données hors ligne et de les associer à vos données en ligne. Dans cette vidéo, découvrez comment utiliser [!DNL Data Explorer] pour vérifier que vous avez créé toutes les caractéristiques nécessaires pour exploiter ces données intégrées.
+L’une des fonctionnalités les plus puissantes d’Audience Manager est la possibilité d’intégrer des données hors ligne et de les lier à vos données en ligne. Dans cette vidéo, découvrez comment utiliser [!DNL Data Explorer] pour vérifier que vous avez créé toutes les caractéristiques nécessaires pour exploiter ces données intégrées.
 
->[!VIDEO](https://video.tv.adobe.com/v/330363/?quality=12&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/25149/?quality=12)
 
-Dans de nombreux cas, vous créez des caractéristiques pour les données intégrées avant d’intégrer réellement les données. Cependant, il est possible que de nouvelles clés et valeurs soient ajoutées en cours de route, et il se peut que vous n’ayez plus toutes les caractéristiques créées dont vous avez besoin pour exploiter ces données de grande qualité. Avec [!UICONTROL Data Explorer], vous pouvez effectuer une recherche rapide pour afficher toutes vos données intégrées et les filtrer selon des [!UICONTROL Data Source] spécifiques, ou même les filtrer selon la clé et/ou la valeur. Cette recherche vous permet de valider efficacement vos données.
+Dans de nombreux cas, vous créez des caractéristiques pour les données intégrées avant de les intégrer réellement. Cependant, il est possible que de nouvelles clés et valeurs soient ajoutées en cours de route et que vous n’ayez plus toutes les caractéristiques créées dont vous avez besoin pour exploiter ces excellentes données. Avec [!UICONTROL Data Explorer], vous pouvez effectuer une recherche rapide pour afficher toutes les données intégrées et les filtrer par [!UICONTROL Data Source] spécifique, ou même les filtrer selon la clé et/ou la valeur. Cette recherche vous permet de valider efficacement vos données.
 
-Pour plus d&#39;informations sur [!DNL Data Explorer], consultez le site [https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=fr](https://experiencecloud.adobe.com/resources/help/fr_FR/aam/data-explorer.html).
+Pour plus d’informations sur [!DNL Data Explorer], consultez le site [https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=en](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html).

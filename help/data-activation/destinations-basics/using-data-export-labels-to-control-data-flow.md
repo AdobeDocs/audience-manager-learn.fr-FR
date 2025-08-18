@@ -1,6 +1,6 @@
 ---
-title: Utiliser des étiquettes d’exportation de données pour contrôler le flux de données
-description: Découvrez les étiquettes d’exportation de données dans Audience Manager. Vous disposez ainsi d’un mécanisme en Audience Manager pour contrôler le flux de différents types/sources de données, afin que vous puissiez répondre à vos besoins en matière de confidentialité. Découvrez comment et où définir les contrôles des exportations de données et les étiquettes d’exportation de données pour travailler en tandem à cette fin.
+title: Utiliser des libellés d’exportation de données pour contrôler le flux de données
+description: Découvrez les libellés d’exportation de données dans Audience Manager. Ils vous offrent un mécanisme dans Audience Manager pour contrôler le flux de différents types/sources de données, afin que vous puissiez répondre à vos exigences en matière de confidentialité. Découvrez comment et où définir les contrôles d’exportation de données et les étiquettes d’exportation de données, afin de travailler en tandem à cette fin.
 feature: Data Export Controls
 topics: null
 activity: setup
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Utiliser [!UICONTROL Data Export Labels] pour contrôler le flux de données
+# Utilisation de [!UICONTROL Data Export Labels] pour contrôler le flux de données
 
-[!UICONTROL Data Export Labels] offre un mécanisme en Audience Manager pour contrôler le flux de différents types/sources de données, afin que vous puissiez répondre à vos besoins en matière de confidentialité. Découvrez comment et où définir [!UICONTROL Data Export Controls] et [!UICONTROL Data Export Labels] pour travailler en tandem à cette fin.
+[!UICONTROL Data Export Labels] un mécanisme dans Audience Manager pour contrôler le flux des différents types/sources de données, afin que vous puissiez répondre à vos exigences en matière de confidentialité. Découvrez comment et où définir des [!UICONTROL Data Export Controls] et des [!UICONTROL Data Export Labels], afin de travailler en tandem à cette fin.
 
->[!VIDEO](https://video.tv.adobe.com/v/345094/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/330322/?quality=12&learn=on)

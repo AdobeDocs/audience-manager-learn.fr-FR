@@ -1,5 +1,5 @@
 ---
-title: Présentation des améliorations des règles de fusion de profils
+title: Présentation des améliorations apportées aux règles de fusion de profils
 description: Cette vidéo explique les améliorations apportées aux règles de fusion de profils, publiées en octobre 2019.
 feature: Profile Merge
 topics: null
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Présentation des améliorations [!UICONTROL Profile Merge Rule]
+# Présentation des améliorations apportées à [!UICONTROL Profile Merge Rule]
 
-Cette vidéo explique les améliorations apportées à [!UICONTROL Profile Merge Rules], publiées en octobre 2019.
+Cette vidéo explique les améliorations apportées à [!UICONTROL Profile Merge Rules], publiée en octobre 2019.
 
->[!VIDEO](https://video.tv.adobe.com/v/32182/?quality=12&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/28976/?quality=12)

@@ -1,6 +1,6 @@
 ---
 title: Interprétation des rapports d’identité d’audience
-description: Les rapports d’identité d’audience permettent aux clients de créer des rapports sur la population totale d’une caractéristique ou d’un segment par personne/foyer de définitions de l’identité. Regardez cette vidéo pour voir comment elle se manifeste dans les rapports d’Audience Manager.
+description: Le compte rendu des performances d’identité d’audience permet aux clients de créer des rapports sur la population totale d’une caractéristique ou d’un segment par définition d’identité par personne/ménage. Regardez cette vidéo pour découvrir comment elle se manifeste dans les rapports Audience Manager.
 feature: Profile Merge
 topics: null
 activity: use
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Interprétation des rapports d’identité d’audience
 
-Les rapports d’identité d’audience permettent aux clients de créer des rapports sur la population totale d’une caractéristique ou d’un segment par personne/foyer de définitions d’identité. Regardez cette vidéo pour voir comment elle se manifeste dans les rapports d’Audience Manager.
+Le rapport d’identité d’audience permet aux clients de créer des rapports sur la population totale d’une caractéristique ou d’un segment par définition d’identité par personne/ménage. Regardez cette vidéo pour découvrir comment elle se manifeste dans les rapports Audience Manager.
 
->[!VIDEO](https://video.tv.adobe.com/v/35888/?quality=12&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/28973/?quality=12)

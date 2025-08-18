@@ -1,6 +1,6 @@
 ---
-title: Choix d’une source de données lors de la création de caractéristiques
-description: Le champ Source de données est l’un des champs importants à remplir lors de la création de caractéristiques. Obtenez des conseils sur le choix de la source de données appropriée pour les caractéristiques basées sur des règles et intégrées.
+title: Choisir une source de données lors de la création de caractéristiques
+description: L’un des champs importants à remplir lors de la création de caractéristiques est le champ Source de données . Obtenez des conseils sur le choix de la bonne source de données pour les caractéristiques basées sur des règles et intégrées.
 feature: Traits
 topics: null
 activity: use
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Choix d’une source de données lors de la création de caractéristiques
+# Choisir une source de données lors de la création de caractéristiques
 
-L’un des champs importants à remplir lors de la création de caractéristiques est le champ [!UICONTROL Data Source]. Obtenez des conseils sur le choix de la source de données appropriée pour les caractéristiques basées sur des règles et intégrées.
+L’un des champs importants à remplir lors de la création de caractéristiques est le champ [!UICONTROL Data Source]. Obtenez des conseils sur le choix de la bonne source de données pour les caractéristiques basées sur des règles et intégrées.
 
->[!VIDEO](https://video.tv.adobe.com/v/330129/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/326660/?quality=12&learn=on)

@@ -1,6 +1,6 @@
 ---
-title: Configurer et créer des rapports sur [!UICONTROL Predictive Audiences]
-description: Dans cette vidéo, parcourez la configuration [!UICONTROL Predictive Audiences] dans l’interface d’Audience Manager. Consultez les rapports qui présentent les résultats du modèle.
+title: Configuration d’et création de rapports sur les [!UICONTROL Predictive Audiences]
+description: Dans cette vidéo, découvrez [!UICONTROL Predictive Audiences] configuration de l’interface d’Audience Manager. Voir les rapports qui affichent les résultats du modèle.
 feature: Algorithmic Models
 topics: null
 activity: use
@@ -18,10 +18,10 @@ ht-degree: 0%
 
 ---
 
-# Configuration et création de rapports sur [!UICONTROL Predictive Audiences] en Audience Manager
+# Configuration et création de rapports sur les [!UICONTROL Predictive Audiences] dans Audience Manager
 
-Dans cette vidéo, nous allons parcourir la configuration [!UICONTROL Predictive Audiences] dans l’interface d’Audience Manager. Nous verrons également les rapports qui montrent les résultats du modèle.
+Cette vidéo décrit [!UICONTROL Predictive Audiences] configuration de l’interface d’Audience Manager. Nous verrons également les rapports qui présentent les résultats du modèle.
 
->[!VIDEO](https://video.tv.adobe.com/v/36924/?quality=12&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/33630/?quality=12)
 
-Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/algorithmic-models/predictive-audiences/predictive-audiences.html?lang=fr).
+Pour plus d’informations, consultez la [ documentation ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/algorithmic-models/predictive-audiences/predictive-audiences.html).

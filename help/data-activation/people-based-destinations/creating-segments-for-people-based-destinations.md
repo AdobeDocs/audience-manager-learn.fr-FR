@@ -1,6 +1,6 @@
 ---
-title: Création de segments pour les destinations basées sur les personnes
-description: Cette vidéo vous guide tout au long de la création d’un segment dans l’Audience Manager à utiliser pour les destinations basées sur les personnes.
+title: Créer des segments pour les destinations basées sur les personnes
+description: Cette vidéo vous guide tout au long de la création d’un segment dans Audience Manager à utiliser pour les destinations basées sur les personnes.
 feature: People-based Destinations
 activity: setup
 doc-type: feature video
@@ -17,8 +17,8 @@ ht-degree: 0%
 
 ---
 
-# Création de segments pour les destinations basées sur les personnes
+# Créer des segments pour les destinations basées sur les personnes
 
-Cette vidéo vous guide tout au long de la création d’un segment dans l’Audience Manager à utiliser pour les destinations basées sur les personnes.
+Cette vidéo vous guide tout au long de la création d’un segment dans Audience Manager à utiliser pour les destinations basées sur les personnes.
 
->[!VIDEO](https://video.tv.adobe.com/v/31633/?quality=12&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/29236/?quality=12)

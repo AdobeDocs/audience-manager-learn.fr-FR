@@ -1,5 +1,5 @@
 ---
-title: Flux de données de destinations basées sur les personnes
+title: Flux de données des destinations basées sur les personnes
 description: Cette vidéo donne un aperçu des destinations basées sur les personnes et montre le flux de données tout au long du processus.
 feature: People-based Destinations
 topics: null
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Flux de données de destinations basées sur les personnes
+# Flux de données des destinations basées sur les personnes
 
 Cette vidéo donne un aperçu des destinations basées sur les personnes et montre le flux de données tout au long du processus.
 
->[!VIDEO](https://video.tv.adobe.com/v/32190/?quality=12&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/28968/?quality=12)

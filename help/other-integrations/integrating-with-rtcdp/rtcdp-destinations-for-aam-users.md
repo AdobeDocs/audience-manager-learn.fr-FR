@@ -1,6 +1,6 @@
 ---
-title: Présentation des destinations dans la plateforme des données clients en temps réel pour les utilisateurs d’Audience Manager
-description: Lorsque vous passez d’Audience Manager à Real-time Customer Data Platform (plateforme de données clients en temps réel), il est impératif de connaître les destinations afin de savoir comment activer vos segments d’audience vers les partenaires de destination. Cette vidéo traite des différents types de destinations et de leur emplacement dans la plateforme de données clients en temps réel.
+title: Comprendre les destinations dans Real-time CDP pour les utilisateurs Audience Manager
+description: Lorsque vous passez d’Audience Manager à Real-time Customer Data Platform (Real-time CDP), il est impératif de connaître les destinations afin de savoir comment activer vos segments d’audience vers les partenaires de destination. Cette vidéo présente les différents types de destinations et leur emplacement dans Real-Time CDP.
 feature: Experience Platform Integration
 topic: Integrations
 role: User, Architect, Admin, Leader
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# Présentation des destinations dans la plateforme des données clients en temps réel pour les utilisateurs d’Audience Manager
+# Comprendre les destinations dans Real-time CDP pour les utilisateurs Audience Manager
 
-Lorsque vous passez d’Audience Manager à Real-time Customer Data Platform (plateforme de données clients en temps réel), il est impératif de connaître les destinations afin de savoir comment activer vos segments d’audience vers les partenaires de destination. Cette vidéo traite des différents types de destinations et de leur emplacement dans la plateforme de données clients en temps réel.
+Lorsque vous passez d’Audience Manager à Real-time Customer Data Platform (Real-time CDP), il est impératif de connaître les destinations afin de savoir comment activer vos segments d’audience vers les partenaires de destination. Cette vidéo présente les différents types de destinations et leur emplacement dans Real-Time CDP.
 
->[!VIDEO](https://video.tv.adobe.com/v/3410884/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/332203/?quality=12&learn=on)

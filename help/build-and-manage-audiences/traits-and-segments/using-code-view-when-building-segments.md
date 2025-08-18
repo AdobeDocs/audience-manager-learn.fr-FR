@@ -1,6 +1,6 @@
 ---
-title: Utilisation de l’affichage du code lors de la création de segments
-description: Découvrez comment utiliser l’affichage du code pour définir des segments, ce qui vous permet de créer des combinaisons de caractéristiques complexes, notamment en utilisant la récence et la fréquence.
+title: Utiliser l’affichage du code lors de la création de segments
+description: Découvrez comment utiliser l’affichage du code pour définir des segments, ce qui vous permet de créer des combinaisons de caractéristiques complexes, y compris l’utilisation de la récence et de la fréquence.
 feature: Segments
 topics: null
 activity: use
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Utilisation de l’affichage du code lors de la création de segments
+# Utiliser l’affichage du code lors de la création de segments
 
-Découvrez comment utiliser l’affichage du code pour définir des segments, ce qui vous permet de créer des combinaisons de caractéristiques complexes, notamment en utilisant la récence et la fréquence.
+Découvrez comment utiliser l’affichage du code pour définir des segments, ce qui vous permet de créer des combinaisons de caractéristiques complexes, y compris l’utilisation de la récence et de la fréquence.
 
->[!VIDEO](https://video.tv.adobe.com/v/326793/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/38035/?quality=12&learn=on)

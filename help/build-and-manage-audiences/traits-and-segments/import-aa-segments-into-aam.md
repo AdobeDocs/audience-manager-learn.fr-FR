@@ -1,6 +1,6 @@
 ---
 title: Comment importer des segments d’Adobe Analytics dans Audience Manager
-description: Outre le transfert de données en temps réel d’Adobe Analytics vers l’Audience Manager, vous pouvez également importer des segments qui incluent des données post-traitées d’Analytics vers l’Audience Manager via l’Experience Cloud. Il s’agit d’une puissante fonctionnalité qu’aucun autre DMP ne peut se vanter.
+description: Outre le transfert de données en temps réel d’Adobe Analytics vers Audience Manager, vous pouvez également importer des segments qui incluent des données post-traitées d’Analytics vers Audience Manager via Experience Cloud. Il s’agit d’une fonctionnalité puissante dont aucun autre DMP ne peut se vanter.
 feature: Segments
 topics: null
 activity: use
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Importation de segments d’Adobe Analytics dans Audience Manager
+# Importer des segments d’Adobe Analytics dans Audience Manager
 
-Outre le transfert de données en temps réel d’Adobe Analytics vers l’Audience Manager, vous pouvez également importer des segments qui incluent des données post-traitées d’Analytics vers l’Audience Manager via l’Experience Cloud. Il s’agit d’une puissante fonctionnalité qu’aucun autre DMP ne peut se vanter.
+Outre le transfert de données en temps réel d’Adobe Analytics vers Audience Manager, vous pouvez également importer des segments qui incluent des données post-traitées d’Analytics vers Audience Manager via Experience Cloud. Il s’agit d’une fonctionnalité puissante dont aucun autre DMP ne peut se vanter.
 
->[!VIDEO](https://video.tv.adobe.com/v/344721/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/330804/?quality=12&learn=on)

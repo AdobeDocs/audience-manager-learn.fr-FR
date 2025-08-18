@@ -1,6 +1,6 @@
 ---
 title: Comment ingérer des données basées sur des fichiers
-description: Dans cette vidéo, vous découvrirez les étapes à suivre lorsque vous intégrez des données hors ligne dans Audience Manager, y compris les exigences en matière de nom de fichier pour le fichier de données.
+description: Dans cette vidéo, découvrez les étapes à suivre lors de l’intégration des données hors ligne dans Audience Manager, y compris les exigences en matière de nom de fichier pour le fichier de données.
 feature: Onboarding Offline Data
 topics: null
 activity: use
@@ -18,12 +18,12 @@ ht-degree: 0%
 
 ---
 
-# Procédure d’ingestion de données basées sur un fichier
+# Étapes d’ingestion de données basées sur des fichiers
 
-Dans cette vidéo, vous découvrirez les étapes à suivre lorsque vous intégrez des données hors ligne dans Audience Manager, y compris les exigences en matière de nom de fichier pour le fichier de données.
+Dans cette vidéo, découvrez les étapes à suivre lors de l’intégration des données hors ligne dans Audience Manager, y compris les exigences en matière de nom de fichier pour le fichier de données.
 
->[!VIDEO](https://video.tv.adobe.com/v/346197/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/331008/?quality=12&learn=on)
 
-Pour une vidéo concernant le formatage des données pour les fichiers entrants, cliquez sur [HERE](formatting-and-ingesting-file-based-data.md).
+Pour regarder une vidéo concernant la mise en forme des données pour les fichiers entrants, cliquez [ICI](formatting-and-ingesting-file-based-data.md).
 
-Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-s3-filenames.html?lang=fr).
+Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-s3-filenames.html).

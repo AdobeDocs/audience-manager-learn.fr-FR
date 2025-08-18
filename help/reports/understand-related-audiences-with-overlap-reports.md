@@ -1,6 +1,6 @@
 ---
-title: Présentation des audiences connexes avec les rapports de chevauchement
-description: Les rapports de chevauchement vous permettent de voir comment les audiences de caractéristiques et de segments se chevauchent (le même visiteur dans plusieurs caractéristiques ou segments), afin que vous sachiez où vous pouvez agir avec vos données pour augmenter la conversion ou vous concentrer sur une portée plus large.
+title: Comprendre les audiences associées avec les rapports de chevauchement
+description: Les rapports de chevauchement vous permettent de voir comment les audiences de caractéristiques et de segments se chevauchent (un même visiteur dans plusieurs caractéristiques ou segments), de sorte que vous sachiez où vous pouvez agir avec vos données pour augmenter la conversion ou vous concentrer sur l’extension de la portée.
 feature: Overlap Reports
 topics: null
 activity: use
@@ -18,10 +18,10 @@ ht-degree: 0%
 
 ---
 
-# Présentation des audiences connexes avec les rapports de chevauchement
+# Comprendre les audiences associées avec les rapports de chevauchement
 
-Les rapports de chevauchement vous permettent de voir comment les audiences de caractéristiques et de segments se chevauchent (le même visiteur dans plusieurs caractéristiques ou segments), afin que vous sachiez où vous pouvez agir avec vos données pour augmenter la conversion ou vous concentrer sur une portée plus large.
+Les rapports de chevauchement vous permettent de voir comment les audiences de caractéristiques et de segments se chevauchent (un même visiteur dans plusieurs caractéristiques ou segments), de sorte que vous sachiez où vous pouvez agir avec vos données pour augmenter la conversion ou vous concentrer sur l’extension de la portée.
 
->[!VIDEO](https://video.tv.adobe.com/v/345082/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/330432/?quality=12&learn=on)
 
-Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/interactive-and-overlap-reports/dynamic-reports.html?lang=fr#reporting).
+Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/interactive-and-overlap-reports/dynamic-reports.html#reporting).

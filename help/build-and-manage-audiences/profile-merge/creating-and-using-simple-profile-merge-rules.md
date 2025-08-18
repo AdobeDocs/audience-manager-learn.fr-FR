@@ -1,6 +1,6 @@
 ---
-title: Création et utilisation de stratégies de fusion de profils simples
-description: Découvrez les règles de fusion de profils et comment les affecter aux segments. Découvrez le profil par défaut "Appareil actuel" et quand il peut/doit être utilisé.
+title: Créer et utiliser des règles de fusion de profil simples
+description: Découvrez les règles de fusion de profils et comment les affecter à des segments. Découvrez le profil par défaut « Appareil actuel » et quand il peut/doit être utilisé.
 feature: Profile Merge
 topics: null
 activity: setup
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Créer et utiliser simple [!UICONTROL Profile Merge Rules]
+# Créer et utiliser des [!UICONTROL Profile Merge Rules] simples
 
-Découvrez [!UICONTROL Profile Merge Rules] et comment les affecter aux segments. Découvrez le profil par défaut [!UICONTROL Current Device] et quand il peut et doit être utilisé.
+Découvrez les [!UICONTROL Profile Merge Rules] et comment les affecter à des segments. Découvrez le profil de [!UICONTROL Current Device] par défaut et quand il peut et doit être utilisé.
 
->[!VIDEO](https://video.tv.adobe.com/v/40014/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/35937/?quality=12&learn=on)

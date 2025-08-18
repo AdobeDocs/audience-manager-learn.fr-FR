@@ -1,6 +1,6 @@
 ---
-title: Présentation et configuration de la destination basée sur les personnes de la correspondance client Google
-description: Cette vidéo vous guide tout au long des détails et des cas d’utilisation de la destination basée sur les personnes de la correspondance client Google. Elle comprend une présentation de la création d’un segment et de son mappage à une destination. Il affiche également l’entrée de l’audience dans la console d’annonces Google.
+title: Comprendre et configurer la destination basée sur les personnes de Google Customer Match
+description: Cette vidéo vous guide à travers les détails et le cas d’utilisation de la destination basée sur les personnes de correspondance client Google. Elle comprend une présentation détaillée de la création d’un segment et de son mappage à une destination. Elle affiche également l’audience qui arrive dans la console Google Ad Console.
 feature: People-based Destinations
 topics: null
 activity: use
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Présentation et configuration de la destination basée sur les personnes de la correspondance client Google
+# Comprendre et configurer la destination basée sur les personnes de Google Customer Match
 
-Cette vidéo vous guide tout au long des détails et des cas d’utilisation de la destination basée sur les personnes de la correspondance client Google. Elle comprend une présentation de la création d’un segment et de son mappage à une destination. Il affiche également l’entrée de l’audience dans la console d’annonces Google.
+Cette vidéo vous guide à travers les détails et le cas d’utilisation de la destination basée sur la correspondance client Google. Elle comprend une présentation détaillée de la création d’un segment et de son mappage à une destination. Elle affiche également l’audience qui arrive dans la console Google Ad Console.
 
->[!VIDEO](https://video.tv.adobe.com/v/326460/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/38552/?quality=12&learn=on)

@@ -1,6 +1,6 @@
 ---
-title: Utilisation de stratégies de fusion de profils pour l’extension de périphérique et une portée accrue
-description: Utilisez les règles de fusion de profils pour étendre la portée à tous les appareils d’un utilisateur, de sorte que vous puissiez commercialiser des personnes au lieu de périphériques.
+title: Utilisation des règles de fusion de profil pour l’extension d’appareil et une portée accrue
+description: Utilisez les règles de fusion de profil pour étendre la portée à tous les appareils d’un utilisateur, de sorte que vous puissiez vous adresser aux personnes plutôt qu’aux appareils.
 feature: Profile Merge
 topics: null
 activity: setup
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Utiliser [!UICONTROL Profile Merge Rules] pour l’extension de l’appareil et une portée accrue
+# Utilisation de [!UICONTROL Profile Merge Rules] pour l’extension d’appareil et une portée accrue
 
-Utilisez [!UICONTROL Profile Merge Rules] pour étendre la portée à tous les appareils d’un utilisateur, de sorte que vous puissiez commercialiser les personnes au lieu des appareils.
+Utilisez [!UICONTROL Profile Merge Rules] pour étendre la portée à tous les appareils d’un utilisateur, de sorte que vous puissiez vous adresser aux personnes plutôt qu’aux appareils.
 
->[!VIDEO](https://video.tv.adobe.com/v/40022/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/35939/?quality=12&learn=on)

@@ -1,6 +1,6 @@
 ---
-title: Utilisation de Data Explorer pour créer des caractéristiques et des segments rétroactifs
-description: Découvrez comment créer des caractéristiques rétroactives, telles que les caractéristiques qui renvoient des données dans la caractéristique avant sa création. C’est une grande avancée dans la création de votre caractéristique.
+title: Utiliser Data Explorer pour créer des caractéristiques et des segments rétroactifs
+description: Découvrez comment créer des caractéristiques rétroactives, telles que les caractéristiques qui renvoient des données dans la caractéristique avant sa création. C'est une grande percée dans la création de vos caractéristiques !
 feature: Data Explorer
 topics: null
 activity: use
@@ -18,12 +18,12 @@ ht-degree: 0%
 
 ---
 
-# Utilisation de [!UICONTROL Data Explorer] pour créer des caractéristiques et des segments rétroactifs {#using-data-explorer-to-create-retroactive-traits-and-segments}
+# Utiliser [!UICONTROL Data Explorer] pour créer des caractéristiques et des segments rétroactifs {#using-data-explorer-to-create-retroactive-traits-and-segments}
 
-Cette vidéo montre comment créer des caractéristiques rétroactives, telles que les caractéristiques qui renvoient des données dans la caractéristique avant sa création. C’est une grande avancée dans la création de votre caractéristique.
+Cette vidéo montre comment créer des caractéristiques rétroactives, telles que les caractéristiques qui renvoient des données dans la caractéristique avant sa création. C&#39;est une grande percée dans la création de vos caractéristiques !
 
->[!VIDEO](https://video.tv.adobe.com/v/327526/?quality=12&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/25169/?quality=12)
 
-Jusqu’à présent, lorsque vous créiez des caractéristiques, elles ne collectaient des données que lors de l’avancement. Cela signifie que vous deviez créer beaucoup de caractéristiques au cas où ils recevraient du trafic ou des données. Vous pouvez maintenant attendre de voir quelles paires clé/valeur reçoivent des données, puis créer une caractéristique et renvoyer les données dans cette caractéristique. Cela vous permet de gagner du temps et de l’énergie, et de maintenir votre taxonomie des caractéristiques étroites, au lieu d’avoir plusieurs caractéristiques qui n’ont pas de données.
+Jusqu’à présent, lorsque vous créiez des caractéristiques, ils collectaient uniquement les données pour aller de l’avant. Cela signifiait que vous deviez créer de nombreuses caractéristiques au cas où elles recevraient du trafic ou des données. Maintenant, vous pouvez attendre de voir quelles paires clé/valeur reçoivent des données, puis créer une caractéristique et renvoyer les données dans cette caractéristique. Cela vous permet de gagner du temps et de l’énergie, et vous aide également à resserrer votre taxonomie des caractéristiques, au lieu d’avoir plusieurs caractéristiques qui n’ont pas de données.
 
-Pour plus d’informations sur [!DNL Data Explorer], consultez la page [Data Explorer - Aperçu, avantages et cas d’utilisation](https://experiencecloud.adobe.com/resources/help/fr_FR/aam/data-explorer.html).
+Pour plus d’informations sur [!DNL Data Explorer], consultez [Data Explorer - Présentation, Avantages et Cas d’utilisation](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html).

@@ -1,6 +1,6 @@
 ---
-title: Mesurer le ROI dans un cas d’utilisation de suppression de clients
-description: Un penny épargné est un penny gagné, n'est-ce pas ? Découvrez comment utiliser quelques formules pour déterminer les économies de coût de votre campagne en supprimant les publicités destinées aux clients existants.
+title: Mesure du retour sur investissement dans un cas d’utilisation de suppression de clients
+description: Un sou épargné est un sou gagné, non ? Découvrez comment utiliser deux formules pour déterminer les économies de coûts de votre campagne en supprimant les publicités destinées aux clients existants.
 feature: Overview
 topics: null
 activity: understand
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Mesurer le ROI dans un cas d’utilisation de suppression de clients
+# Mesure du retour sur investissement dans un cas d’utilisation de suppression de clients
 
-Un penny épargné est un penny gagné, n&#39;est-ce pas ? Découvrez comment utiliser quelques formules pour déterminer les économies de coût de votre campagne en supprimant les publicités destinées aux clients existants.
+Un sou épargné est un sou gagné, non ? Découvrez comment utiliser deux formules pour déterminer les économies de coûts de votre campagne en supprimant les publicités destinées aux clients existants.
 
->[!VIDEO](https://video.tv.adobe.com/v/41297/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/36654/?quality=12&learn=on)

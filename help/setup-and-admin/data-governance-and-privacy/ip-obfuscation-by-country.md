@@ -1,6 +1,6 @@
 ---
-title: Obscurcissement des adresses IP par pays
-description: Découvrez l’obscurcissement des adresses IP par pays en Audience Manager. Cette application offre des fonctionnalités en libre-service dans l’interface utilisateur pour permettre aux clients d’activer l’obscurcissement des adresses IP globalement ou par pays. Cette vidéo vous guide dans la configuration.
+title: Obfuscation des adresses IP par pays
+description: Découvrez l’obscurcissement des adresses IP par pays dans Audience Manager. Cette application fournit une fonctionnalité de libre-service dans l’interface utilisateur pour permettre aux clients d’activer l’obscurcissement des adresses IP au niveau mondial ou par pays. Cette vidéo vous guide tout au long de la configuration.
 feature: Data Governance & Privacy
 topics: null
 activity: use
@@ -17,10 +17,10 @@ ht-degree: 0%
 
 ---
 
-# Obscurcissement d’IP par pays en Audience Manager {#ip-obfuscation-by-country-in-audience-manager}
+# Obscurcissement des adresses IP par pays dans Audience Manager {#ip-obfuscation-by-country-in-audience-manager}
 
-Audience Manager offre des fonctionnalités en libre-service dans l’interface utilisateur pour permettre aux clients d’activer l’obscurcissement des adresses IP globalement ou par pays. Cette vidéo vous guide dans la configuration.
+Audience Manager fournit une fonctionnalité de libre-service dans l’interface utilisateur pour permettre aux clients d’activer l’obscurcissement des adresses IP au niveau mondial ou par pays. Cette vidéo vous guide tout au long de la configuration.
 
->[!VIDEO](https://video.tv.adobe.com/v/34978/?quality=9&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/27218/?quality=9)
 
-Pour plus d’informations sur cette fonctionnalité, consultez la [documentation](https://experiencecloud.adobe.com/resources/help/fr_FR/aam/ip-obfuscation.html).
+Pour plus d’informations sur cette fonctionnalité, consultez la [ documentation ](https://experiencecloud.adobe.com/resources/help/en_US/aam/ip-obfuscation.html).

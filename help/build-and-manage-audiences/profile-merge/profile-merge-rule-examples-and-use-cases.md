@@ -1,6 +1,6 @@
 ---
-title: Exemples de règles de fusion de profils et cas d’utilisation
-description: Découvrez des exemples de stratégies de fusion de profils et ce qu’elles signifient, ainsi que les cas pratiques résolus par les stratégies de fusion de profils.
+title: Exemples de règles de fusion de profil et cas d’utilisation
+description: Découvrez des exemples de règles de fusion de profils et ce qu’elles signifient, ainsi que les cas d’utilisation que les règles de fusion de profils résolvent.
 feature: Profile Merge
 topics: null
 activity: understand
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# [!UICONTROL Profile Merge Rule] Exemples et cas d’utilisation
+# Exemples [!UICONTROL Profile Merge Rule] cas d’utilisation
 
-Dans cette vidéo, vous verrez des exemples de [!UICONTROL Profile Merge Rules] et de leur signification, ainsi que des cas d’utilisation résolus par [!UICONTROL Profile Merge Rules].
+Dans cette vidéo, vous trouverez des exemples de [!UICONTROL Profile Merge Rules] et ce qu’ils signifient, ainsi que les cas d’utilisation que [!UICONTROL Profile Merge Rules] résolvez.
 
->[!VIDEO](https://video.tv.adobe.com/v/32183/?quality=12&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/28975/?quality=12)

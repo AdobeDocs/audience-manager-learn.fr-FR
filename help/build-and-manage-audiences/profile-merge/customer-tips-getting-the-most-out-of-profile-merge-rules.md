@@ -1,6 +1,6 @@
 ---
-title: Conseils aux clients - Tirer le meilleur parti des stratégies de fusion de profils
-description: Varun Kalra, consultant multi-solutions chez Accent, donne des conseils sur le choix et l’utilisation des stratégies de fusion de profils (PMR).
+title: Astuces clients - Tirer le meilleur parti des règles de fusion de profil
+description: Varun Kalra, consultant multi-solution chez Accordant, donne des conseils sur le choix et l'utilisation des règles de fusion de profil (PMR).
 feature: Profile Merge
 topics: null
 activity: use
@@ -18,14 +18,14 @@ ht-degree: 0%
 
 ---
 
-# Conseils aux clients - Tirer le meilleur parti des stratégies de fusion de profils
+# Astuces clients - Tirer le meilleur parti des règles de fusion de profil
 
-**Varun Kalra**, consultant multi-solutions à l’adresse **&#x200B;**, donne des conseils sur le choix et l’utilisation des règles de fusion de profils (PMR).
+**Varun Kalra**, consultant multi-solutions chez **Accordant**, donne des conseils sur le choix et l&#39;utilisation des règles de fusion de profil (PMR).
 
-Varun Kalra est consultant multi-solutions et travaille pour un partenaire en solutions Adobes basé à Sydney. Varun travaille principalement sur des projets Audience Manager, Adobe Analytics et AEP qui impliquent la découverte, la mise en oeuvre, le support et l’activation de données. Les conseils incluent des sujets tels que :
+Varun Kalra est un consultant multi-solutions travaillant au sein d&#39;Adobe Solution Partner à Sydney - Accordant. Varun travaille principalement sur des projets Audience Manager, Adobe Analytics et AEP qui impliquent la découverte, la mise en œuvre, le support et l&#39;activation des données. Les conseils incluent des sujets tels que :
 
 * Identification des objectifs de campagne pour la configuration PMR
-* Détail des cas pratiques de ciblage
-* Cas d’utilisation de divers paramètres de gestion des performances (PMR)
+* Séance d’immersion dans un cas pratique de ciblage
+* Cas d’utilisation de divers paramètres PMR
 
-[Lisez les conseils de Varun dans la communauté Experience League.](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager-blogs/getting-the-most-out-of-profile-merge-rules-tips-tricks-and/ba-p/372248?profile.language=fr)
+[Lisez les conseils de Varun dans la communauté Experience League.](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager-blogs/getting-the-most-out-of-profile-merge-rules-tips-tricks-and/ba-p/372248)

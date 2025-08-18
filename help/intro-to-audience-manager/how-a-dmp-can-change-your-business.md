@@ -1,6 +1,6 @@
 ---
-title: Comment une plateforme de gestion des données peut changer votre activité
-description: Les plateformes de gestion des données sont actuellement le sujet de conversation du monde technologique, mais qu’est-ce qu’elles et surtout, comment peuvent-elles vous aider à réaliser vos objectifs avec les marketeurs ? Au cours de cette session, nous expliquerons ce qu’est une plateforme de gestion des données et nous montrerons quelques études de cas concrètes dans lesquelles les clients ont vu des rendements incroyables sur leur investissement, depuis les achats de médias plus efficaces jusqu’à des conversions significativement plus élevées.
+title: Comment un DMP peut changer votre entreprise
+description: Les plateformes de gestion des données sont en vogue dans le monde technologique en ce moment. Mais quelles sont-elles et, plus important encore, comment peuvent-elles vous aider, en tant que spécialistes du marketing, à atteindre vos objectifs ? Au cours de cette session, nous expliquerons ce qu’est un DMP et présenterons quelques études de cas réels dans lesquelles les clients ont vu des retours sur investissement incroyables, allant d’achats de médias plus efficaces à des conversions considérablement accrues.
 feature: Overview
 topics: null
 activity: understand
@@ -17,10 +17,10 @@ ht-degree: 0%
 
 ---
 
-# Comment une plateforme de gestion des données peut changer votre activité
+# Comment un DMP peut changer votre entreprise
 
-[!DNL Data Management Platforms] est le sujet de conversation du monde technologique en ce moment, mais que sont-ils et surtout, comment peuvent-ils vous aider, alors que les marketeurs atteignent vos objectifs ?
+[!DNL Data Management Platforms] sont les discours du monde de la technologie en ce moment, mais quels sont-ils et, plus important encore, comment peuvent-ils vous aider en tant que professionnels du marketing à atteindre vos objectifs ?
 
-Au cours de cette session, nous expliquerons ce qu’est une plateforme de gestion des données et nous montrerons quelques études de cas concrètes dans lesquelles les clients ont vu des rendements incroyables sur leur investissement, depuis les achats de médias plus efficaces jusqu’à des conversions significativement plus élevées.
+Au cours de cette session, nous expliquerons ce qu’est un DMP et présenterons quelques études de cas réels dans lesquelles les clients ont vu des retours sur investissement incroyables, allant d’achats de médias plus efficaces à des conversions considérablement accrues.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29770/?quality=12)

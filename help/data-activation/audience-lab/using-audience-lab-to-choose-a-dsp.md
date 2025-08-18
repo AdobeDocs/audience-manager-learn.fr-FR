@@ -1,6 +1,6 @@
 ---
 title: Utilisation d’Audience Lab pour choisir un DSP
-description: Dans cette vidéo, nous examinons la création d’un test d’Audience Lab, de sorte que vous puissiez DSP de test A/B ou d’autres destinations AAM pour déterminer celle qui générera le meilleur retour sur dépenses publicitaires.
+description: Dans cette vidéo, nous examinons la création d’un test Audience Lab, afin que vous puissiez effectuer des tests A/B sur les DSP ou d’autres destinations AAM pour déterminer laquelle générera le meilleur retour sur investissement publicitaire.
 feature: Audience Lab
 doc-type: feature video
 thumbnail: 24923.jpg
@@ -15,21 +15,21 @@ ht-degree: 0%
 
 ---
 
-# Utilisez [!UICONTROL Audience Lab] pour choisir un DSP {#using-audience-lab-to-choose-a-dsp}
+# Utilisation de [!UICONTROL Audience Lab] pour choisir un DSP {#using-audience-lab-to-choose-a-dsp}
 
-Dans cette vidéo, nous examinons la création d’un test [!UICONTROL Audience Lab], de sorte que vous puissiez DSP de test A/B ou d’autres destinations AAM pour déterminer celle qui génère le meilleur retour sur dépenses publicitaires.
+Dans cette vidéo, nous examinons la création d’un test [!UICONTROL Audience Lab], afin que vous puissiez tester A/B les DSP ou d’autres destinations AAM pour identifier celle qui génère le meilleur retour sur dépenses publicitaires.
 
->[!VIDEO](https://video.tv.adobe.com/v/328355/?quality=12&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/24923/?quality=12)
 
-La création d’un test [!UICONTROL Audience Lab] est facile et peut être effectuée en seulement quelques minutes, comme le montre la vidéo ci-dessus. Lorsque vous parcourrez les étapes de l’interface, vous configurez les éléments suivants :
+La création d’un test [!UICONTROL Audience Lab] est simple et ne peut se faire que quelques minutes, comme le montre la vidéo ci-dessus. En suivant les étapes de l’interface d’, vous allez configurer les éléments suivants :
 
-1. Créez et nommez votre test [!UICONTROL Audience Lab]
-1. Sélectionnez l’un de vos [!UICONTROL segments] comme &quot;[!UICONTROL base segment]&quot;, c’est-à-dire le segment d’audience qui sera divisé entre vos DSP.
-1. Sélectionnez le nombre de tests [!UICONTROL segments] à créer (combien de DSP allez-vous tester ?)
-   * Définissez l’un des tests [!UICONTROL segments] comme segment de contrôle, qui ne sera envoyé à aucun DSP, afin que vous puissiez comparer vos DSP d’audiences par rapport à lui.
-1. Choisissez une caractéristique de conversion, qui est celle qui mesurera votre succès et choisira votre gagnant.
-1. Sélectionnez [!UICONTROL Destinations] (c’est-à-dire DSP) et affectez le test [!UICONTROL segments]
-1. Vérifier la synthèse du test et activer le test
-1. Une fois le test terminé, accédez aux résultats sur l’écran d’accueil principal de [!UICONTROL Audience Lab].
+1. Création et attribution d’un nom à votre test [!UICONTROL Audience Lab]
+1. Choisissez l’un de vos [!UICONTROL segments] comme « [!UICONTROL base segment] », c’est-à-dire le segment d’audience qui sera divisé entre vos DSP
+1. Choisissez le nombre de [!UICONTROL segments] de test à créer (combien de DSP allez-vous tester ?)
+   * Définissez l’un des [!UICONTROL segments] de test comme segment de contrôle, qui ne sera envoyé à aucun DSP, afin que vous puissiez le comparer à vos audiences DSP
+1. Choisissez une caractéristique de conversion, qui est la caractéristique qui mesurera votre succès et choisira votre gagnant
+1. Sélectionnez [!UICONTROL Destinations] (c’est-à-dire DSP) et attribuez les [!UICONTROL segments] de test
+1. Vérifier le résumé du test et activer le test
+1. Une fois le test terminé, accédez aux résultats sur l’écran d’accueil principal de [!UICONTROL Audience Lab]
 
-Pour plus d’informations, consultez la [documentation sur les fonctionnalités](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-lab/audience-lab.html?lang=fr).
+Pour plus d’informations, consultez la [documentation des fonctionnalités](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-lab/audience-lab.html).

@@ -1,6 +1,6 @@
 ---
 title: Créer un segment pour supprimer les publicités destinées aux clients
-description: Découvrez les options disponibles lors de la création d’un segment afin d’exclure les clients qui ont déjà acquis le statut de client. Lors de la création de campagnes marketing, en particulier pour atteindre des campagnes d’extension et d’extension d’audience, vous souhaiterez peut-être exclure vos clients actuels, afin de pouvoir leur proposer des produits différents.
+description: Découvrez les options de lors de la création d’un segment afin d’exclure les clients qui ont déjà converti leur statut en client. Lors de la création de campagnes marketing, en particulier les campagnes d’extension d’audience et d’extension d’audience, vous pouvez exclure vos clients actuels afin de pouvoir les commercialiser différemment.
 feature: Segments
 topics: null
 activity: use
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Créer un segment pour supprimer les publicités destinées aux clients
 
-Lors de la création de campagnes marketing, en particulier pour atteindre des campagnes d’extension/d’extension d’audience, vous souhaiterez peut-être exclure vos clients actuels, afin de pouvoir leur proposer une solution différente. Cette vidéo présente les options de création de segments afin d’exclure les personnes qui ont déjà été converties au statut de client.
+Lors de la création de campagnes marketing, en particulier les campagnes d’extension d’audience/d’extension de portée, vous pouvez exclure vos clients actuels afin de pouvoir les commercialiser différemment. Cette vidéo présente les options de création de segments afin d’exclure ceux qui ont déjà été convertis en statut client.
 
->[!VIDEO](https://video.tv.adobe.com/v/41311/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/36494/?quality=12&learn=on)

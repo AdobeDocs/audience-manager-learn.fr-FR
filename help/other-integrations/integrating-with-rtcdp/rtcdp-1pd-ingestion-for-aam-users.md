@@ -1,6 +1,6 @@
 ---
-title: Présentation de l’ingestion de données propriétaires dans la plateforme de données clients en temps réel pour les utilisateurs d’Audience Manager
-description: Cette vidéo traite de l’ingestion de données hors ligne propriétaires dans Real-time Customer Data Platform (plateforme de données clients en temps réel) pour les utilisateurs de Adobe Audience Manager. Nous examinons quelques-unes des principales différences entre les deux produits concernant l’ingestion de données et montrons comment le connecteur de données d’Audience Manager peut être utilisé comme un espace d’arrêt jusqu’à ce que les processus aient été transférés vers la plateforme de données clients en temps réel.
+title: Comprendre l’ingestion des données propriétaires dans Real-time CDP pour les utilisateurs Audience Manager
+description: Cette vidéo présente l’ingestion des données hors ligne propriétaires dans Real-time Customer Data Platform (Real-time CDP) pour les personnes qui utilisent Adobe Audience Manager. Nous examinons certaines des principales différences entre les deux produits en ce qui concerne l’ingestion des données et montrons comment le connecteur de données d’Audience Manager peut être utilisé comme solution provisoire jusqu’à ce que les processus soient transférés vers Real-Time CDP.
 feature: Experience Platform Integration
 topic: Integrations
 role: User, Architect, Admin, Leader
@@ -16,20 +16,20 @@ ht-degree: 0%
 
 ---
 
-# Présentation de l’ingestion de données propriétaires dans la plateforme de données clients en temps réel pour les utilisateurs d’Audience Manager
+# Comprendre l’ingestion des données propriétaires dans Real-time CDP pour les utilisateurs Audience Manager
 
-Cette vidéo traite de l’ingestion de données hors ligne propriétaires dans Real-time Customer Data Platform (plateforme de données clients en temps réel) pour les utilisateurs de Adobe Audience Manager. Nous examinons quelques-unes des principales différences entre les deux produits concernant l’ingestion de données et montrons comment le connecteur de données d’Audience Manager peut être utilisé comme un espace d’arrêt jusqu’à ce que les processus aient été transférés vers la plateforme de données clients en temps réel.
+Cette vidéo présente l’ingestion des données hors ligne propriétaires dans Real-time Customer Data Platform (Real-time CDP) pour les personnes qui utilisent Adobe Audience Manager. Nous examinons certaines des principales différences entre les deux produits en ce qui concerne l’ingestion des données et montrons comment le connecteur de données d’Audience Manager peut être utilisé comme solution provisoire jusqu’à ce que les processus soient transférés vers Real-Time CDP.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/346990/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/331276/?quality=12&learn=on)
 
 ## Ressources supplémentaires
 
-Vous trouverez ci-dessous quelques vidéos et tutoriels existants qui peuvent vous aider à en savoir plus sur Real-time Customer Data Platform. N’hésitez pas à explorer d’autres vidéos et tutoriels sur ces plateformes pour en savoir plus.
+Vous trouverez ci-dessous quelques vidéos et tutoriels existants qui peuvent vous aider à en savoir plus sur Real-time Customer Data Platform. N’hésitez pas à explorer d’autres vidéos et tutoriels à ce sujet pour en savoir plus sur Platform.
 
-* [Ingestion de données à l’aide du connecteur de données Adobe Audience Manager](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=fr#sources)
-* [Présentation de l’ingestion de données par flux](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/understanding-streaming-ingestion.html?lang=fr#data-ingestion)
-* [Présentation de l’ingestion de données par lots](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/batch-ingestion-overview.html?lang=fr#data-ingestion)
-* [Création d’un schéma à l’aide de l’éditeur de schémas](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=fr#getting-started)
-* [Créer des jeux de données](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/create-datasets.html?lang=fr#permissions-required)
-* [Créer des segments](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-segments.html?lang=fr#segments)
+* [Ingestion de données à l’aide du connecteur de données Adobe Audience Manager](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=en#sources)
+* [Présentation de l’ingestion des données en flux continu](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/understanding-streaming-ingestion.html?lang=en#data-ingestion)
+* [Présentation de l’ingestion des données par lots](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/batch-ingestion-overview.html?lang=en#data-ingestion)
+* [Créer un schéma à l’aide de l’éditeur de schémas](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=en#getting-started)
+* [Créer des jeux de données](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/create-datasets.html?lang=en#permissions-required)
+* [Créer des segments](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-segments.html?lang=en#segments)

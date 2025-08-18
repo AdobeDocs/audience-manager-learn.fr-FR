@@ -1,6 +1,6 @@
 ---
 title: Création d’un modèle analogue propriétaire
-description: Dans cette vidéo, vous apprendrez à créer un modèle analogue propriétaire, de sorte que vous puissiez trouver davantage de vos propres visiteurs qui ressemblent à vos convertisseurs.
+description: Dans cette vidéo, vous apprendrez à créer un modèle similaire propriétaire, afin de pouvoir trouver davantage de vos propres visiteurs qui ressemblent à vos convertisseurs.
 feature: Algorithmic Models
 topics: null
 activity: use
@@ -18,15 +18,15 @@ ht-degree: 0%
 
 ---
 
-# Création d’un modèle analogue propriétaire en Audience Manager {#creating-a-first-party-look-alike-model-in-aam}
+# Création d’un modèle analogue propriétaire dans Audience Manager {#creating-a-first-party-look-alike-model-in-aam}
 
-Dans cette vidéo, vous apprendrez à créer un modèle analogue propriétaire, de sorte que vous puissiez trouver davantage de vos propres visiteurs qui ressemblent à vos convertisseurs.
+Dans cette vidéo, vous apprendrez à créer un modèle similaire propriétaire, afin de pouvoir trouver davantage de vos propres visiteurs qui ressemblent à vos convertisseurs.
 
->[!VIDEO](https://video.tv.adobe.com/v/328091/?quality=12&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/23504/?quality=12)
 
-Cas pratiques pour cela :
+Voici quelques cas d’utilisation :
 
-* En tant qu’éditeur, si votre stock de &quot;convertisseurs&quot; est épuisé, vous pouvez l’étendre en vendant également cette audience analogue.
-* Pour ceux qui ressemblent à vos convertisseurs mais qui ne l’ont pas encore fait, proposez-leur des expériences ou du marketing spécifiques sur le site.
+* En tant qu’éditeur, si votre inventaire de « convertisseurs » est épuisé, vous pouvez l’augmenter en vendant également cette audience semblable.
+* Pour ceux qui ressemblent à vos convertisseurs, mais qui ne l’ont pas encore fait, donnez-leur des expériences ou du marketing spécifiques sur le site.
 
-Un autre avantage ici est que c&#39;est totalement gratuit pour vous, parce que vous n&#39;utilisez que des données que vous possédez. Cela, bien sûr, vous aide à maximiser vos profits.
+Un autre avantage est que cela est totalement gratuit pour vous, parce que vous utilisez uniquement les données que vous possédez. Cela, bien sûr, vous aide à maximiser vos profits.

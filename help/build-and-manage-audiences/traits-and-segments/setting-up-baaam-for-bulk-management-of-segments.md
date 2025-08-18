@@ -1,6 +1,6 @@
 ---
-title: Configuration de BAAAM pour la gestion en bloc des segments
-description: Découvrez BAAAM, l’outil de gestion en bloc pour les caractéristiques et les segments en Audience Manager, y compris comment le configurer pour être prêt à l’emploi.
+title: Configurer BAAM pour la gestion en bloc des segments
+description: Découvrez BAAAM, l’outil de gestion en bloc des caractéristiques et des segments dans Audience Manager, y compris comment le configurer pour qu’il soit prêt à l’emploi.
 feature: baaam
 topics: null
 audience: marketer
@@ -17,8 +17,8 @@ ht-degree: 0%
 ---
 
 
-# Configuration de BAAAM pour la gestion en bloc des segments
+# Configurer le BAAM pour la gestion en bloc des segments
 
-Découvrez BAAAM, l’outil de gestion en bloc pour les caractéristiques et les segments en Audience Manager, y compris comment le configurer pour être prêt à l’emploi.
+Découvrez BAAAM, l’outil de gestion en bloc des caractéristiques et des segments dans Audience Manager, y compris comment le configurer pour qu’il soit prêt à l’emploi.
 
 >[!VIDEO](https://video.tv.adobe.com/v/39141/?quality=12&learn=on)

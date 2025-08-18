@@ -1,6 +1,6 @@
 ---
-title: Création d’une source de données pour les destinations basées sur les personnes
-description: Découvrez comment créer une source de données en Audience Manager à utiliser pour les destinations basées sur les personnes.
+title: Créer une source de données pour les destinations basées sur les personnes
+description: Découvrez comment créer une source de données dans Audience Manager à utiliser pour les destinations basées sur les personnes.
 feature: People-based Destinations
 topics: null
 activity: setup
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Création d’un [!UICONTROL Data Source] pour les destinations basées sur les personnes
 
-Cette vidéo vous guide tout au long de la création d’un [!UICONTROL Data Source] en Audience Manager à utiliser pour les destinations basées sur les personnes.
+Cette vidéo vous guide tout au long de la création d’un [!UICONTROL Data Source] dans Audience Manager à utiliser pour les destinations basées sur les personnes.
 
->[!VIDEO](https://video.tv.adobe.com/v/32186/?quality=12&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/29006/?quality=12)

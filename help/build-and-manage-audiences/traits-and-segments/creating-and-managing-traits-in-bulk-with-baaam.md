@@ -20,9 +20,9 @@ ht-degree: 0%
 
 Lors de la création, de la modification ou de la suppression de caractéristiques, l’utilisation de l’interface utilisateur pour le faire une par une peut s’avérer inefficace et longue. Dans cette vidéo, découvrez comment utiliser BAAAM, l’outil de gestion en bloc d’Audience Manager, pour créer, modifier et supprimer des caractéristiques en bloc, à l’aide d’une simple feuille de calcul Microsoft servant d’interface avec l’API REST.
 
->[!VIDEO](https://video.tv.adobe.com/v/344711/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/330749/?quality=12&learn=on)
 
-Pour plus d’informations, notamment pour télécharger la feuille de calcul BAAAM, consultez la [documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/bulk-management-tools/bulk-management-intro.html?lang=fr#reference).
+Pour plus d’informations, notamment pour télécharger la feuille de calcul BAAAM, consultez la [documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/bulk-management-tools/bulk-management-intro.html?lang=en#reference).
 
 >[!IMPORTANT]
 >

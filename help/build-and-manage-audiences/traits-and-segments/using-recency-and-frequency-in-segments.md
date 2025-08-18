@@ -1,6 +1,6 @@
 ---
 title: Utiliser la récence et la fréquence dans les segments
-description: Utilisez la récence et la fréquence pour indiquer à vos paramètres de segment le nombre de fois où un visiteur doit être admissible pour une caractéristique au cours d’une période donnée. Idéal pour l’affinité du contenu et la limitation de fréquence, ainsi que pour d’autres cas d’utilisation.
+description: Utilisez Récence et Fréquence pour indiquer dans vos paramètres de segment le nombre de fois qu’un visiteur doit être qualifié pour une caractéristique au cours d’une certaine période. Idéal pour les cas d’utilisation d’affinité de contenu et de capping de la fréquence, entre autres.
 feature: Segments
 topics: null
 activity: use
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Utiliser [!UICONTROL Recency] et [!UICONTROL Frequency] dans les segments
+# Utilisation de [!UICONTROL Recency] et [!UICONTROL Frequency] dans les segments
 
-Utilisez [!UICONTROL Recency] et [!UICONTROL Frequency] pour indiquer à vos paramètres de segment le nombre de fois où un visiteur doit être admissible pour une caractéristique au cours d’une période donnée. Idéal pour l’affinité du contenu et la limitation de fréquence, ainsi que pour d’autres cas d’utilisation.
+Utilisez [!UICONTROL Recency] et [!UICONTROL Frequency] pour indiquer les paramètres de segment du nombre de fois où un visiteur doit être qualifié pour une caractéristique au cours d’une certaine période. Idéal pour les cas d’utilisation d’affinité de contenu et de capping de la fréquence, entre autres.
 
->[!VIDEO](https://video.tv.adobe.com/v/327064/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/37698/?quality=12&learn=on)

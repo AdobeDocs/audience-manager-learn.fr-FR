@@ -1,6 +1,6 @@
 ---
 title: Comprendre les nombres dans le graphique des caractéristiques
-description: Obtenez des conseils sur la compréhension des chiffres signalés pour les caractéristiques dans l’écran d’informations sur les caractéristiques.
+description: Obtenez quelques conseils sur la compréhension des nombres signalés pour les caractéristiques dans l’écran d’informations sur les caractéristiques.
 feature: Traits
 topics: null
 activity: use
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Comprendre les nombres dans le graphique des caractéristiques
 
-Obtenez des conseils sur la compréhension des chiffres signalés pour les caractéristiques dans l’écran d’informations sur les caractéristiques.
+Obtenez quelques conseils sur la compréhension des nombres signalés pour les caractéristiques dans l’écran d’informations sur les caractéristiques.
 
->[!VIDEO](https://video.tv.adobe.com/v/340522/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/327171/?quality=12&learn=on)

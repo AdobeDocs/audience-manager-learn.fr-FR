@@ -1,6 +1,6 @@
 ---
 title: Impact des améliorations apportées aux règles de fusion de profils sur la segmentation, l’activation et la création de rapports
-description: Comprendre l’impact des améliorations des règles de fusion de profils sur les populations totales de caractéristiques et de segments dans l’interface utilisateur d’Audience Manager
+description: Comprendre l’impact des améliorations apportées aux règles de fusion de profils sur les populations totales de caractéristiques et de segments dans l’interface utilisateur d’Audience Manager
 feature: Profile Merge
 topics: null
 activity: understand
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Impact des [!UICONTROL Profile Merge Rule] améliorations sur la segmentation, l’activation et la création de rapports
+# Impact [!UICONTROL Profile Merge Rule] améliorations sur la segmentation, l’activation et la création de rapports
 
-Comprendre l&#39;impact des [!UICONTROL Profile Merge Rule] améliorations sur [!UICONTROL Total Trait] et [!UICONTROL Segment Populations] dans l&#39;Audience Manager.
+Comprendre l’impact des améliorations apportées à [!UICONTROL Profile Merge Rule] sur les [!UICONTROL Total Trait] et les [!UICONTROL Segment Populations] dans Audience Manager.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28972/?quality=12)

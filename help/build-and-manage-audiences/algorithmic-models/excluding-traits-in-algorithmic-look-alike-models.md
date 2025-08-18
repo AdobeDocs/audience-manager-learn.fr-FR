@@ -1,6 +1,6 @@
 ---
-title: Exclure des caractéristiques dans les modèles algorithmiques (analogue)
-description: Découvrez comment et pourquoi exclure des caractéristiques (ou groupes de) spécifiques d’un modèle algorithmique (analogue).
+title: Exclusion de caractéristiques dans les modèles algorithmiques (semblables)
+description: Découvrez comment et pourquoi exclure des caractéristiques spécifiques (ou des groupes de caractéristiques) d’un modèle algorithmique (analogue).
 feature: Algorithmic Models
 topics: null
 activity: use
@@ -18,13 +18,13 @@ ht-degree: 0%
 
 ---
 
-# Exclure des caractéristiques dans les modèles algorithmiques (analogue) {#excluding-traits-in-algorithmic-look-alike-models}
+# Exclusion de caractéristiques dans les modèles algorithmiques (semblables) {#excluding-traits-in-algorithmic-look-alike-models}
 
-Dans cette vidéo, découvrez comment et pourquoi exclure des caractéristiques (ou groupes de) spécifiques d’un modèle algorithmique (analogue).
+Dans cette vidéo, découvrez comment et pourquoi exclure des caractéristiques spécifiques (ou des groupes de caractéristiques) d’un modèle algorithmique (analogue).
 
->[!VIDEO](https://video.tv.adobe.com/v/38132/?quality=12&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/25569/?quality=12)
 
-Cas d’utilisation de cette fonctionnalité :
+Les cas d’utilisation de cette fonctionnalité incluent :
 
-* Les caractéristiques extrêmement courantes telles que les caractéristiques du visiteur du site biaisent le modèle, ce qui ne sera pas utile pour trouver une audience analogue de qualité. Les clients n’ont plus besoin de créer une source de données distincte et de stocker les caractéristiques communes dans la nouvelle source de données, mais peuvent désormais simplement les exclure.
-* Il existe désormais un moyen d’utiliser un sous-ensemble de caractéristiques d’un tiers, comme des intérêts comportementaux, plutôt que toutes les informations d’un modèle. Les tiers envoient généralement beaucoup de données qui peuvent ne pas être utiles au client. Dans certains cas, ils ne seront pas autorisés à utiliser toutes les données d’un point de vue juridique dans la modélisation. Vous pouvez désormais exclure des caractéristiques ou des dossiers de caractéristiques que vous ne souhaitez pas inclure dans le modèle.
+* Les caractéristiques extrêmement courantes, telles que les caractéristiques du visiteur du site, biaisent le modèle, ce qui ne sera pas utile pour trouver une audience semblable de qualité. Les clients n’ont plus à créer une source de données distincte et à stocker les caractéristiques communes dans la nouvelle source de données, mais peuvent désormais simplement les exclure.
+* Il existe désormais un moyen d’utiliser un sous-ensemble de caractéristiques d’un tiers, telles que les intérêts comportementaux uniquement, plutôt que toutes les informations d’un modèle. Les tiers envoient généralement beaucoup de données qui peuvent ne pas être utiles pour le client. Dans certains cas, ils ne seront pas autorisés à utiliser toutes les données d&#39;un point de vue juridique dans la modélisation. Vous pouvez maintenant exclure des caractéristiques ou des dossiers de caractéristiques que vous ne souhaitez pas inclure dans le modèle.

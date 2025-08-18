@@ -1,6 +1,6 @@
 ---
-title: Définition d’autorisations avec contrôle d’accès en fonction du rôle
-description: Découvrez le contrôle d’accès en fonction du rôle dans Adobe Audience Manager et comment gérer les autorisations au niveau du groupe. Découvrez comment contrôler qui peut voir et utiliser des ressources, y compris des caractéristiques, des segments, des destinations et des modèles. Découvrez comment configurer les groupes d’autorisations et y ajouter des utilisateurs.
+title: Définir des autorisations avec le contrôle d’accès en fonction du rôle
+description: Découvrez le contrôle d’accès en fonction du rôle dans Adobe Audience Manager et comment gérer les autorisations au niveau d’un groupe. Découvrez comment contrôler qui peut voir et utiliser les ressources, y compris les caractéristiques, les segments, les destinations et les modèles. Découvrez comment configurer les groupes d’autorisations et y ajouter des utilisateurs et utilisatrices.
 feature: Administration
 topics: null
 activity: setup
@@ -19,8 +19,8 @@ ht-degree: 0%
 
 ---
 
-# Définition d’autorisations avec contrôle d’accès en fonction du rôle
+# Définir des autorisations avec le contrôle d’accès en fonction du rôle
 
-Le contrôle d’accès en fonction du rôle dans Adobe Audience Manager vous permet de gérer les autorisations au niveau du groupe, en contrôlant qui peut voir et utiliser des ressources, y compris les caractéristiques, les segments, les destinations et les modèles. Découvrez comment configurer les groupes d’autorisations et y ajouter des utilisateurs.
+Le contrôle d’accès en fonction du rôle dans Adobe Audience Manager vous permet de gérer les autorisations au niveau du groupe, en contrôlant qui peut voir et utiliser les ressources, y compris les caractéristiques, les segments, les destinations et les modèles. Découvrez comment configurer les groupes d’autorisations et y ajouter des utilisateurs et utilisatrices.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329120/?quality=12&learn=on)
