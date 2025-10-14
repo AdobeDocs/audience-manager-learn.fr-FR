@@ -24,6 +24,6 @@ Cette vidéo vous guide à travers les concepts et les étapes de la création d
 
 >[!VIDEO](https://video.tv.adobe.com/v/38424/?quality=12&captions=fre_fr)
 
-Pour plus d’informations, consultez la [ documentation ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html?lang=fr).
+Pour plus d’informations, consultez la [&#x200B; documentation &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html?lang=fr).
 
 Vous pouvez également trouver d’autres vidéos sur les destinations basées sur les personnes [ICI](https://adobe.ly/aamlearnpbd).
