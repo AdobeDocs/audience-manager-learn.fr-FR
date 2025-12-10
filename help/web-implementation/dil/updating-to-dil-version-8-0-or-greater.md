@@ -47,7 +47,7 @@ Si vous avez utilisé l’une de ces anciennes méthodes pour effectuer la synch
 
 **Conseil rapide :** lors de l’utilisation précédente de l’une des méthodes ci-dessus, vous avez référencé l’[!UICONTROL Data Source] AAM avec l’ID de [!UICONTROL Data Source] (ou « DPID »). Lors de la mise à jour vers [!DNL setCustomerIDs], vous devez utiliser le « [!UICONTROL Data Source] » de l’[!UICONTROL Integration Code] AAM à la place. Il pointe toujours vers le même [!UICONTROL Data Source], mais il s’agit simplement d’un identifiant différent. C’est ce que montre la vidéo ci-dessous.
 
->[!VIDEO](https://video.tv.adobe.com/v/23873/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/33868/?captions=fre_fr&quality=12)
 
 Les sections suivantes répertorient les étapes et recommandations de mise à jour vers DIL 8.0 en fonction de votre méthode d’implémentation :
 
@@ -67,7 +67,7 @@ Les sections suivantes répertorient les étapes et recommandations de mise à j
 
 1. Publiez les modifications.
 
->[!VIDEO](https://video.tv.adobe.com/v/23874/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/33869/?captions=fre_fr&quality=12)
 
 ## Mise à jour vers DIL 8.0 dans la gestion dynamique des balises Adobe {#updating-to-dil-in-adobe-dtm}
 

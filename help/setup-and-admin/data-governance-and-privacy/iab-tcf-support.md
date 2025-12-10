@@ -32,7 +32,7 @@ Le module externe Audience Manager pour IAB TCF étend les fonctionnalités d’
 
 L’activation du module externe Audience Manager pour IAB TCF est facile si vous utilisez Adobe Experience Platform Launch, car il s’agit d’une simple case à cocher, comme illustré dans la courte vidéo ci-dessous :
 
->[!VIDEO](https://video.tv.adobe.com/v/26433/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/38258/?captions=fre_fr&quality=12)
 
 Si vous n’utilisez pas Launch, vous pouvez également utiliser `isIabContext=true` pour l’activer lorsque vous instanciez le visiteur Experience Cloud. Cela lance le flux IAB TCF, c’est-à-dire qu’il ajoute une autre étape à la collecte de consentement, en utilisant l’IAB TCF pour interroger la chaîne IAB TC et la renvoie à Opt-in, qui à son tour communique avec les solutions Experience Cloud.
 
@@ -84,6 +84,6 @@ Si l’utilisateur se trouve dans un contexte IAB et ne donne pas son consenteme
 
 Dans la vidéo ci-dessous, découvrez comment les sélections de choix des utilisateurs IAB affectent les cookies et les balises d’ECID et de solutions.
 
->[!VIDEO](https://video.tv.adobe.com/v/26434/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/38241/?captions=fre_fr&quality=12)
 
 Pour plus d’informations sur le module externe Audience Manager pour IAB TCF 2.2, notamment sur la mise en œuvre et le test, les cas d’utilisation et le workflow, consultez la [documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-privacy/consent-management/aam-iab-plugin.html?lang=fr).

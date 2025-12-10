@@ -56,7 +56,7 @@ Si vous accédez au site de démonstration répertorié ci-dessus et consultez l
 * La couche de données se trouve dans l’en-tête de la page, avant l’appel aux balises Platform
 * Le JavaScript dans le lien SPA simulé modifie la [!UICONTROL Data Layer], puis appelle les balises Platform (l’appel `_satellite.track()`). Si vous utilisiez des événements personnalisés JavaScript au lieu de cette [!UICONTROL Direct Call Rule], la leçon est la même. Modifiez d’abord le [!DNL data layer], puis appelez les balises Platform.
 
->[!VIDEO](https://video.tv.adobe.com/v/23322/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/38107/?captions=fre_fr&quality=12)
 
 ## Ressources supplémentaires {#additional-resources}
 

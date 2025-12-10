@@ -22,6 +22,6 @@ ht-degree: 0%
 
 Dans cette vidéo, nous allons découvrir comment utiliser le [!UICONTROL Activity Usage Report], y compris les options d’affichage et de téléchargement.
 
->[!VIDEO](https://video.tv.adobe.com/v/31443/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/33645/?captions=fre_fr&quality=12)
 
 Pour plus d’informations, consultez la [&#x200B; documentation &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/administration/activity-usage-reporting.html?lang=fr).
