@@ -156,7 +156,7 @@ Sur la base de ces détails techniques, voici les recommandations relatives au t
 
    1. Dès que possible, mettez à jour votre code du DIL côté client vers le transfert côté unique (cela peut être dans les balises Platform ou sur la page, comme expliqué dans une autre section ci-dessus).
 
-      1. Vous devriez recevoir une réponse JSON appropriée à votre balise [!DNL Analytics] (voir la section [ Validation et dépannage ](#validation-and-troubleshooting) ci-dessous pour plus de détails).
+      1. Vous devriez recevoir une réponse JSON appropriée à votre balise [!DNL Analytics] (voir la section [&#x200B; Validation et dépannage &#x200B;](#validation-and-troubleshooting) ci-dessous pour plus de détails).
 
 >[!NOTE]
 >
