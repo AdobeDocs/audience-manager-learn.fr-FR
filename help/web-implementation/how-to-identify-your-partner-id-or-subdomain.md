@@ -7,10 +7,10 @@ activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2359
-role: Developer, Data Engineer
+role: Developer
 level: Intermediate
 exl-id: d3f4a12d-acc5-47b7-a38a-a6a14152bf3a
-source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
+source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
 workflow-type: tm+mt
 source-wordcount: '316'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Si vous préférez simplement vous lancer et le trouver sans regarder cette cour
 
 Si vous ne parvenez pas à le trouver rapidement avec ces références rapides, la vidéo est un engagement de courte durée. :)
 
->[!VIDEO](https://video.tv.adobe.com/v/40887/?quality=12&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/25922/?quality=12)
 
 >[!IMPORTANT]
 >

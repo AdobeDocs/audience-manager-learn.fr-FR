@@ -7,10 +7,10 @@ doc-type: feature video
 team: Technical Marketing
 thumbnail: 29363.jpg
 kt: 3937
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner
 exl-id: 4c792492-48f4-4a3d-8e83-f4eccd270629
-source-git-commit: 124f03208f2b4e3b109b3f02a2d3d59210da5cc7
+source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
@@ -21,6 +21,6 @@ ht-degree: 0%
 
 Dans cette vidéo, vous apprendrez à utiliser les recommandations de caractéristiques mises à jour dans [!UICONTROL Segments], qui sont des recommandations [!UICONTROL Audience Marketplace]. Vous accédez ainsi à des données tierces d’insight supplémentaires qui peuvent étendre la portée de vos segments.
 
->[!VIDEO](https://video.tv.adobe.com/v/33197/?quality=12&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/29363/?quality=12)
 
-Pour plus d’informations, consultez la [&#x200B; documentation &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/trait-recommendations.html?lang=fr).
+Pour plus d’informations, consultez la [ documentation ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/trait-recommendations.html).

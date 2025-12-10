@@ -8,10 +8,10 @@ doc-type: feature video
 team: Technical Marketing
 thumbnail: 23523.jpg
 kt: 1688
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Intermediate
 exl-id: 6820528e-3211-4a1d-be05-50f1292179d2
-source-git-commit: 2094d3bcf658913171afa848e4228653c71c41de
+source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
 workflow-type: tm+mt
 source-wordcount: '849'
 ht-degree: 0%
@@ -42,9 +42,9 @@ Dans ce cas d’utilisation, c’est déjà supposé, car vous avez vendu l’in
 
 En outre, lorsque vous utilisez des événements pour créer des caractéristiques, il y a un piège important à garder à l’esprit, afin de ne pas collecter plus d’utilisateurs que vous ne le devriez dans la caractéristique. Regardez la vidéo suivante pour le grand dévoilement. :)
 
->[!VIDEO](https://video.tv.adobe.com/v/328076/?quality=12&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/23431/?quality=12)
 
-**REMARQUE :** dans la vidéo ci-dessus, l’exemple que je montre suppose que vous disposez d’Adobe Analytics. Évidemment, ce n&#39;est peut-être pas le cas. Si vous disposez de Google Analytics (GA), nous disposons d’un module que vous pouvez utiliser pour envoyer des données dans AAM (voir la [documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-overview.html?lang=fr)). Si votre activité de conversion sur votre site est envoyée à AAM par GA, vous pouvez alors créer votre caractéristique de conversion à partir de ce module. Si vous disposez d’une autre solution d’analyse (ou d’aucune solution d’analyse), vous pouvez tout de même envoyer des données à AAM via notre code DIL et la fonction `submit`, etc. (voir la [documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-modules.html?lang=fr)). Ensuite, créez à nouveau la caractéristique de conversion en fonction des données envoyées lorsque l’activité de conversion est effectuée sur le site.
+**REMARQUE :** dans la vidéo ci-dessus, l’exemple que je montre suppose que vous disposez d’Adobe Analytics. Évidemment, ce n&#39;est peut-être pas le cas. Si vous disposez de Google Analytics (GA), nous disposons d’un module que vous pouvez utiliser pour envoyer des données dans AAM (voir la [documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-overview.html)). Si votre activité de conversion sur votre site est envoyée à AAM par GA, vous pouvez alors créer votre caractéristique de conversion à partir de ce module. Si vous disposez d’une autre solution d’analyse (ou d’aucune solution d’analyse), vous pouvez tout de même envoyer des données à AAM via notre code DIL et la fonction `submit`, etc. (voir la [documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-modules.html)). Ensuite, créez à nouveau la caractéristique de conversion en fonction des données envoyées lorsque l’activité de conversion est effectuée sur le site.
 
 ## Créer un modèle similaire à partir de données propriétaires {#creating-a-look-alike-model-from-first-party-data}
 
@@ -52,13 +52,13 @@ Au cours de cette étape, nous allons créer un modèle analogue [!UICONTROL Fir
 
 Dans ce cas d’utilisation, c’est important, car nous essayons de créer un segment d’utilisateurs et d’utilisatrices sur notre site qui ressemblent à des convertisseurs, mais qui ne les ont pas encore convertis, afin de pouvoir vendre ce segment similaire aux annonceurs et annonceuses intéressés.
 
->[!VIDEO](https://video.tv.adobe.com/v/328091/?quality-12&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/23504/?quality-12)
 
 ## Création d’une caractéristique algorithmique {#creating-an-algorithmic-trait}
 
 Ensuite, nous devrons créer un [!UICONTROL Algorithmic Trait], afin que les résultats du modèle puissent être utilisés. Sans créer de caractéristique, le modèle est inutile. Ainsi, une fois le modèle exécuté, veillez à accéder à la boîte de dialogue caractéristique et à créer une [!UICONTROL Algorithmic Trait]. La vidéo suivante le décrit en détail et fournit quelques conseils.
 
->[!VIDEO](https://video.tv.adobe.com/v/29743/?quality=12&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/23523/?quality=12)
 
 ## Offrir le [!UICONTROL Algorithmic Segment] aux annonceurs {#offering-the-algorithmic-segment-to-advertisers}
 

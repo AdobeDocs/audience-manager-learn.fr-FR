@@ -8,10 +8,10 @@ doc-type: feature video
 team: Technical Marketing
 thumbnail: 25569.jpg
 kt: 1759
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Intermediate
 exl-id: 94becb1c-18c3-4fe1-bf24-acae127682da
-source-git-commit: 2094d3bcf658913171afa848e4228653c71c41de
+source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 0%
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Dans cette vidéo, découvrez comment et pourquoi exclure des caractéristiques spécifiques (ou des groupes de caractéristiques) d’un modèle algorithmique (analogue).
 
->[!VIDEO](https://video.tv.adobe.com/v/38132/?quality=12&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/25569/?quality=12)
 
 Les cas d’utilisation de cette fonctionnalité incluent :
 

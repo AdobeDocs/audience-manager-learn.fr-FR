@@ -8,10 +8,10 @@ doc-type: feature video
 team: Technical Marketing
 thumbnail: 28968.jpg
 kt: 3683
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner
 exl-id: bd516fdb-dadc-47f5-b5cd-dda2e1b528a8
-source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
+source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
 workflow-type: tm+mt
 source-wordcount: '40'
 ht-degree: 0%
@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Cette vidéo donne un aperçu des destinations basées sur les personnes et montre le flux de données tout au long du processus.
 
->[!VIDEO](https://video.tv.adobe.com/v/32190/?quality=12&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/28968/?quality=12)

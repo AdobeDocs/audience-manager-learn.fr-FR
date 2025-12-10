@@ -7,10 +7,10 @@ activity: understand
 doc-type: feature video
 team: Technical Marketing
 kt: null
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Intermediate
 exl-id: c3742871-a52c-4de9-9648-bc3afbf19bf5
-source-git-commit: 124f03208f2b4e3b109b3f02a2d3d59210da5cc7
+source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 0%
@@ -32,4 +32,4 @@ Affichez les vidéos et les tutoriels relatifs aux fonctionnalités de fusion de
 * [Interprétation des rapports d’identité d’audience](interpret-audience-identity-reporting.md)
 * [Présentation des mesures inter-appareils dans Audience Manager](understanding-cross-device-metrics-in-audience-manager.md)
 
-Ces vidéos peuvent être utilisées conjointement avec la documentation [Règles de fusion de profil](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html?lang=fr)
+Ces vidéos peuvent être utilisées conjointement avec la documentation [Règles de fusion de profil](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html)

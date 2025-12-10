@@ -9,10 +9,10 @@ team: Technical Marketing
 kt: 5106
 thumbnail: 33894.jpg
 topic: Architecture
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner
 exl-id: cf0dbcb1-0d3c-4afd-b979-1c59a9849720
-source-git-commit: 086071ab04551c512c5415f091a8054123bc6445
+source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
@@ -23,6 +23,6 @@ ht-degree: 0%
 
 Découvrez les principaux défis liés à la personnalisation cross-canal et comment Adobe Audience Manager alimente le parcours client. Découvrez également quels types de données peuvent être intégrés dans Audience Manager et identifiez les partenaires de l’écosystème ad-tech intégrés à Audience Manager.
 
->[!VIDEO](https://video.tv.adobe.com/v/37082/?quality=12&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/33894/?quality=12)
 
-Pour plus d’informations, consultez la [&#x200B; documentation &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/aam-overview.html?lang=fr).
+Pour plus d’informations, consultez la [ documentation ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/aam-overview.html).

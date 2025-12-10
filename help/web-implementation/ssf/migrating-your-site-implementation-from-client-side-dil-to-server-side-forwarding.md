@@ -8,10 +8,10 @@ activity: implement
 doc-type: tutorial
 team: Technical Marketing
 kt: 1778
-role: Developer, Data Engineer
+role: Developer
 level: Intermediate
 exl-id: bcb968fb-4290-4f10-b1bb-e9f41f182115
-source-git-commit: 2094d3bcf658913171afa848e4228653c71c41de
+source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
 workflow-type: tm+mt
 source-wordcount: '2333'
 ht-degree: 0%
@@ -74,7 +74,7 @@ Les étapes suivantes décrivent la mise en œuvre.
 
 La principale condition préalable au transfert côté serveur est de mettre en œuvre le service Experience Cloud ID. Cette opération est plus facile à réaliser si vous utilisez Experience Platform Launch, auquel cas vous installez simplement l’extension ECID, qui fera le reste.
 
-Si vous utilisez un TMS autre qu’Adobe, ou aucun TMS, implémentez ECID pour exécuter **avant** toute autre solution Adobe. Voir la [documentation ECID](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=fr) pour plus d’informations. La seule autre condition préalable concerne les versions de code. Par conséquent, si vous appliquez simplement les versions les plus récentes du code dans les étapes suivantes, tout ira bien.
+Si vous utilisez un TMS autre qu’Adobe, ou aucun TMS, implémentez ECID pour exécuter **avant** toute autre solution Adobe. Voir la [documentation ECID](https://experienceleague.adobe.com/docs/id-service/using/home.html) pour plus d’informations. La seule autre condition préalable concerne les versions de code. Par conséquent, si vous appliquez simplement les versions les plus récentes du code dans les étapes suivantes, tout ira bien.
 
 >[!NOTE]
 >
@@ -156,7 +156,7 @@ Sur la base de ces détails techniques, voici les recommandations relatives au t
 
    1. Dès que possible, mettez à jour votre code du DIL côté client vers le transfert côté unique (cela peut être dans les balises Platform ou sur la page, comme expliqué dans une autre section ci-dessus).
 
-      1. Vous devriez recevoir une réponse JSON appropriée à votre balise [!DNL Analytics] (voir la section [&#x200B; Validation et dépannage &#x200B;](#validation-and-troubleshooting) ci-dessous pour plus de détails).
+      1. Vous devriez recevoir une réponse JSON appropriée à votre balise [!DNL Analytics] (voir la section [ Validation et dépannage ](#validation-and-troubleshooting) ci-dessous pour plus de détails).
 
 >[!NOTE]
 >
@@ -202,4 +202,4 @@ Si vous n’effectuez pas de transfert côté serveur des données de [!DNL Anal
 
 ![faux succès](assets/falsesuccess.png)
 
-Pour plus d’informations sur le transfert côté serveur, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/server-side-forwarding/ssf.html?lang=fr).
+Pour plus d’informations sur le transfert côté serveur, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/server-side-forwarding/ssf.html).

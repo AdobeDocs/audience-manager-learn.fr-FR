@@ -8,10 +8,10 @@ doc-type: feature video
 team: Technical Marketing
 thumbnail: 29006.jpg
 kt: 3700
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner
 exl-id: a9d9f3eb-13bb-41b9-9ee7-6b28fb25e2d3
-source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
+source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
 workflow-type: tm+mt
 source-wordcount: '46'
 ht-degree: 0%
@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Cette vidéo vous guide tout au long de la création d’un [!UICONTROL Data Source] dans Audience Manager à utiliser pour les destinations basées sur les personnes.
 
->[!VIDEO](https://video.tv.adobe.com/v/32186/?quality=12&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/29006/?quality=12)

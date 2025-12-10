@@ -7,10 +7,10 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2866
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Intermediate
 exl-id: 103643ff-c006-4111-b469-901271faaf9d
-source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
+source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%
@@ -21,6 +21,6 @@ ht-degree: 0%
 
 Audience Manager fournit une fonctionnalité de libre-service dans l’interface utilisateur pour permettre aux clients d’activer l’obscurcissement des adresses IP au niveau mondial ou par pays. Cette vidéo vous guide tout au long de la configuration.
 
->[!VIDEO](https://video.tv.adobe.com/v/34978/?quality=9&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/27218/?quality=9)
 
-Pour plus d’informations sur cette fonctionnalité, consultez la [&#x200B; documentation &#x200B;](https://experiencecloud.adobe.com/resources/help/fr_FR/aam/ip-obfuscation.html).
+Pour plus d’informations sur cette fonctionnalité, consultez la [ documentation ](https://experiencecloud.adobe.com/resources/help/en_US/aam/ip-obfuscation.html).
