@@ -24,4 +24,4 @@ Cette vidéo décrit les options de filtres et de recommandations de la [!UICONT
 
 >[!VIDEO](https://video.tv.adobe.com/v/29370/?quality=12)
 
-Pour plus d’informations, consultez la [&#x200B; documentation &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-buyers/marketplace-data-buyers.html).
+Pour plus d’informations, consultez la [&#x200B; documentation &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-buyers/marketplace-data-buyers.html?lang=fr).

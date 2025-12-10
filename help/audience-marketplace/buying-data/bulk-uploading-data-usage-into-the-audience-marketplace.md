@@ -25,6 +25,6 @@ Lorsque vous signalez l’utilisation de vos données secondaires et tierces dan
 >[!VIDEO](https://video.tv.adobe.com/v/25521/?quality=12)
 
 En plus de disposer de cet outil de chargement en masse pour simplifier et gagner du temps dans le compte rendu des performances d’utilisation de vos données, les clients qui achètent des données tierces ou secondaires auprès de [!UICONTROL Audience Marketplace] bénéficient d’une politique d’attribution des coûts améliorée. Cette nouvelle politique attribue des coûts aux fournisseurs de données en fonction du nombre d’utilisateurs uniques de caractéristiques dans un segment basé sur des règles, ce qui se traduit par une plus grande transparence et une facturation plus équitable de l’utilisation.
-Vous trouverez plus d’informations sur l’algorithme de facturation dans la section [Attribution des coûts pour les flux de données CPM](https://experiencecloud.adobe.com/resources/help/en_US/aam/marketplace_cpm_billing.html) de la documentation du produit.
+Vous trouverez plus d’informations sur l’algorithme de facturation dans la section [Attribution des coûts pour les flux de données CPM](https://experiencecloud.adobe.com/resources/help/fr_FR/aam/marketplace_cpm_billing.html) de la documentation du produit.
 
-Pour plus d’informations sur le reporting de l’utilisation de CPM, voir [Comment signaler l’utilisation de CPM](https://experiencecloud.adobe.com/resources/help/en_US/aam/t_marketplace_report_cpm_usage.html) dans la documentation du produit.
+Pour plus d’informations sur le reporting de l’utilisation de CPM, voir [Comment signaler l’utilisation de CPM](https://experiencecloud.adobe.com/resources/help/fr_FR/aam/t_marketplace_report_cpm_usage.html) dans la documentation du produit.

@@ -23,4 +23,4 @@ Audience Manager fournit une fonctionnalité de libre-service dans l’interface
 
 >[!VIDEO](https://video.tv.adobe.com/v/27218/?quality=9)
 
-Pour plus d’informations sur cette fonctionnalité, consultez la [&#x200B; documentation &#x200B;](https://experiencecloud.adobe.com/resources/help/en_US/aam/ip-obfuscation.html).
+Pour plus d’informations sur cette fonctionnalité, consultez la [&#x200B; documentation &#x200B;](https://experiencecloud.adobe.com/resources/help/fr_FR/aam/ip-obfuscation.html).

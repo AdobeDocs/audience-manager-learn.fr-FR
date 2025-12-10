@@ -24,4 +24,4 @@ Dans cette vidéo, découvrez pourquoi et comment utiliser la méthode de `setCu
 
 >[!VIDEO](https://video.tv.adobe.com/v/29136/?quality=12)
 
-Pour plus d’informations, consultez la [&#x200B; documentation &#x200B;](https://experienceleague.adobe.com/docs/id-service/using/reference/hashing-support.html).
+Pour plus d’informations, consultez la [&#x200B; documentation &#x200B;](https://experienceleague.adobe.com/docs/id-service/using/reference/hashing-support.html?lang=fr).

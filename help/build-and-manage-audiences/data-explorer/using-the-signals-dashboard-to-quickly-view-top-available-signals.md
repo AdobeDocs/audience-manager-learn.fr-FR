@@ -26,4 +26,4 @@ En utilisant des tableaux intégrés et personnalisés sur le [!UICONTROL Signal
 
 Lorsque vous cliquez pour [!UICONTROL Data Explorer], ou l&#39;application [!UICONTROL Signals], un tableau de bord par défaut des principaux signaux ainsi que de nouveaux signaux s&#39;affiche. Outre ces deux valeurs par défaut, vous pouvez enregistrer les recherches et les ajouter au tableau de bord, de sorte que vous puissiez afficher très rapidement vos données les plus importantes directement sur la page d&#39;accueil de la fonctionnalité.
 
-Pour plus d’informations sur [!UICONTROL Data Explorer], consultez [Data Explorer - Présentation, Avantages et Cas d’utilisation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=en)).
+Pour plus d’informations sur [!UICONTROL Data Explorer], consultez [Data Explorer - Présentation, Avantages et Cas d’utilisation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=fr)).

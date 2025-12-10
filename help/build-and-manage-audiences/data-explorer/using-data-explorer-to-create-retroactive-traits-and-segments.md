@@ -26,4 +26,4 @@ Cette vidéo montre comment créer des caractéristiques rétroactives, telles q
 
 Jusqu’à présent, lorsque vous créiez des caractéristiques, ils collectaient uniquement les données pour aller de l’avant. Cela signifiait que vous deviez créer de nombreuses caractéristiques au cas où elles recevraient du trafic ou des données. Maintenant, vous pouvez attendre de voir quelles paires clé/valeur reçoivent des données, puis créer une caractéristique et renvoyer les données dans cette caractéristique. Cela vous permet de gagner du temps et de l’énergie, et vous aide également à resserrer votre taxonomie des caractéristiques, au lieu d’avoir plusieurs caractéristiques qui n’ont pas de données.
 
-Pour plus d’informations sur [!DNL Data Explorer], consultez [Data Explorer - Présentation, Avantages et Cas d’utilisation](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html).
+Pour plus d’informations sur [!DNL Data Explorer], consultez [Data Explorer - Présentation, Avantages et Cas d’utilisation](https://experiencecloud.adobe.com/resources/help/fr_FR/aam/data-explorer.html).
