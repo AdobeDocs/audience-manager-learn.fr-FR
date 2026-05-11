@@ -3,10 +3,12 @@ user-guide-title: Tutoriels sur Adobe Audience Manager
 user-guide-description: Ensemble de vidéos et de tutoriels pour Adobe Analytics.
 breadcrumb-title: Tutoriels sur Audience Manager
 solution: Audience Manager
+product_v2:
+  - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
 type: Tutorial
-source-git-commit: f9708e705d95b43084ff11e342dc54ff11d6326c
+source-git-commit: 73d16f8b9fda736f962ca4317d04aa93dcbe216c
 workflow-type: tm+mt
-source-wordcount: '895'
+source-wordcount: 1089
 ht-degree: 2%
 
 ---
@@ -46,7 +48,7 @@ ht-degree: 2%
    + DIL (Data Integration Library) {#dil}
       + [Mise à jour vers DIL version 8.0 (ou ultérieure)](web-implementation/dil/updating-to-dil-version-8-0-or-greater.md)
    + SSF (transfert côté serveur) {#ssf}
-      + [Utiliser les balises Experience Platform à implémenter dans les sites web](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=fr)
+      + [Utilisation des balises Experience Platform à implémenter dans les sites web](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=fr)
       + [Effectuez la migration de l’implémentation AAM de votre site de DIL côté client vers le transfert côté serveur](web-implementation/ssf/migrating-your-site-implementation-from-client-side-dil-to-server-side-forwarding.md)
       + [Migration du serveur de suivi vers le transfert côté serveur au niveau de la suite de rapports](web-implementation/ssf/migrating-from-tracking-server-to-report-suite-level-server-side-forwarding.md)
    + [Utilisation des gestionnaires de balises pour implémenter Audience Manager](web-implementation/using-tag-managers-to-implement-audience-manager.md)
@@ -56,7 +58,7 @@ ht-degree: 2%
    + [Formater et ingérer des données basées sur des fichiers](integrating-offline-data/formatting-and-ingesting-file-based-data.md)
    + [Étapes d’ingestion de données basées sur des fichiers](integrating-offline-data/steps-for-ingesting-file-based-data.md)
 + Implémentation mobile {#mobile-implementation}
-   + [Implémentation dans des applications iOS Swift](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=fr)
+   + [Implémentation dans les applications iOS Swift](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=fr)
    + [Implémentation dans les applications iOS Objective-C](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=fr)
    + [Implémentation dans les applications Android](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=fr)
 + Audience Marketplace {#audience-marketplace}
