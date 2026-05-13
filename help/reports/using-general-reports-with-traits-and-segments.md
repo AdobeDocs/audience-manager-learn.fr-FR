@@ -31,4 +31,4 @@ ht-degree: 0%
 
 Dans cette vidéo, découvrez comment utiliser les rapports généraux dans Audience Manager pour obtenir des chiffres pour les caractéristiques et les segments.
 
->[!VIDEO](https://video.tv.adobe.com/v/328279/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/340804/?captions=fre_fr&quality=12&learn=on)
