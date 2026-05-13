@@ -11,9 +11,16 @@ kt: 5356
 role: User
 level: Beginner
 exl-id: de4910a5-9e89-4b38-9cf3-34c5fe658632
-source-git-commit: 124f03208f2b4e3b109b3f02a2d3d59210da5cc7
+TQID: https://experienceleague.adobe.com/1ZxxflP6KEkulJWrGOgiz1j44shItaZqjwXNVcFCnxU
+product_v2:
+  - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
 workflow-type: tm+mt
-source-wordcount: '59'
+source-wordcount: 59
 ht-degree: 0%
 
 ---
@@ -22,4 +29,4 @@ ht-degree: 0%
 
 Découvrez les [!UICONTROL Profile Merge Rules] et comment les affecter à des segments. Découvrez le profil de [!UICONTROL Current Device] par défaut et quand il peut et doit être utilisé.
 
->[!VIDEO](https://video.tv.adobe.com/v/40014/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/40014/?captions=fre_fr&quality=12&learn=on)

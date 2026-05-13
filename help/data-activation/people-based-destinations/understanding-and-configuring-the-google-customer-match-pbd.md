@@ -11,9 +11,18 @@ kt: 6042
 role: User
 level: Beginner
 exl-id: c333e02e-a585-49aa-b095-f2dcbbd258a8
-source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
+TQID: https://experienceleague.adobe.com/tds40it5-xWTnd4vzIPGusz0scN7DiNXJjblCTnvOBc
+product_v2:
+  - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+feature_v2:
+  - id: c814092e-2730-45e8-a12d-e084529f52cb
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: 107
 ht-degree: 0%
 
 ---
@@ -22,4 +31,4 @@ ht-degree: 0%
 
 Cette vidéo vous guide à travers les détails et le cas d’utilisation de la destination basée sur la correspondance client Google. Elle comprend une présentation détaillée de la création d’un segment et de son mappage à une destination. Elle affiche également l’audience qui arrive dans la console Google Ad Console.
 
->[!VIDEO](https://video.tv.adobe.com/v/326460/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/326460/?captions=fre_fr&quality=12&learn=on)

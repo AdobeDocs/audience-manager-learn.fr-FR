@@ -10,9 +10,25 @@ kt: 2977
 role: Developer
 level: Experienced
 exl-id: 0ff3f123-efb3-4124-bdf9-deac523ef8c9
-source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
+TQID: https://experienceleague.adobe.com/SMG7-LEhxtM1qAis17upYFx-mNUYITf5B-zCYIkHYYs
+product_v2:
+  - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+feature_v2:
+  - id: a8b0238e-1d43-4679-a3b4-5ba1bad83baa
+  - id: baaa0dd2-d27e-4921-aae3-7888623a5fa5
+subfeature_v2:
+  - id: d8f681b8-67cc-42dc-85c5-a0977528a942
+  - id: e8a4c7eb-7254-4984-ac46-e651a57c7e39
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
 workflow-type: tm+mt
-source-wordcount: '616'
+source-wordcount: 788
 ht-degree: 1%
 
 ---
@@ -38,35 +54,35 @@ Vous trouverez ci-dessous les pools d’identifiants Advertising d’appareils g
    <td>20914</td>
    <td>nombres hexadécimaux 32, généralement présentés comme 8-4-4-4-12<em>exemple, 97987bca-ae59-4c7d-94ba-ee4f19ab8c21<br/> </em> </td>
    <td>1352</td>
-   <td>Cet identifiant doit être collecté dans une référence de formulaire brute/non hachée/non modifiée - <a href="https://play.google.com/about/monetization-ads/ads/ad-id/">https://play.google.com/about/monetization-ads/ads/ad-id/</a></td>
+   <td>Cet identifiant doit être collecté dans une référence de formulaire brute/non hachée/non modifiée - <a href="https://play.google.com/about/monetization-ads/ads/ad-id/"></a></td>
   </tr>
   <tr>
    <td>Apple iOS (IDFA)</td>
    <td>20915</td>
    <td>32 nombres hexadécimaux, généralement présentés comme 8-4-4-4-12 <em>exemple, 6D92078A-8246-4BA4-AE5B-76104861E7DC<br /> </em> </td>
    <td>3560</td>
-   <td>Cet identifiant doit être collecté dans une référence de formulaire brute/non hachée/non modifiée - <a href="https://support.apple.com/en-us/HT205223">https://support.apple.com/en-us/HT205223</a></td>
+   <td>Cet identifiant doit être collecté dans une référence de formulaire brute/non hachée/non modifiée - <a href="https://support.apple.com/en-us/HT205223"></a></td>
   </tr>
   <tr>
    <td>Roku (RIDA)</td>
    <td>121963</td>
    <td>32 nombres hexadécimaux, généralement présentés comme 8-4-4-12 <em>exemple,</em> <em>fcb2a29c-315a-5e6b-bcfd-d889ba19aada</em></td>
    <td>11536</td>
-   <td>Cet identifiant doit être collecté dans une référence de formulaire brute/non hachée/non modifiée - <a href="https://sdkdocs.roku.com/display/sdkdoc/Roku+Advertising+Framework">https://sdkdocs.roku.com/display/sdkdoc/Roku+Advertising+Framework</a> </td>
+   <td>Cet identifiant doit être collecté dans une référence de formulaire brute/non hachée/non modifiée - <a href="https://sdkdocs.roku.com/display/sdkdoc/Roku+Advertising+Framework"></a> </td>
   </tr>
   <tr>
    <td>Microsoft Advertising ID (MAID)</td>
    <td>389146</td>
    <td>Chaîne numérique Alpha</td>
    <td>14593</td>
-   <td>Cet identifiant doit être collecté dans une référence de formulaire brute/non hachée/non modifiée - <a href="https://docs.microsoft.com/en-us/uwp/api/windows.system.userprofile.advertisingmanager.advertisingid">https://docs.microsoft.com/en-us/uwp/api/windows.system.userprofile.advertisingmanager.advertisingid</a><br/><a href="https://msdn.microsoft.com/en-us/library/windows/apps/windows.system.userprofile.advertisingmanager.advertisingid.aspx">https://msdn.microsoft.com/en-us/library/windows/apps/windows.system.userprofile.advertisingmanager.advertisingid.aspx</a></td>
+   <td>Cet identifiant doit être collecté dans une référence de formulaire brute/non hachée/non modifiée - <a href="https://docs.microsoft.com/en-us/uwp/api/windows.system.userprofile.advertisingmanager.advertisingid"></a><br/><a href="https://msdn.microsoft.com/en-us/library/windows/apps/windows.system.userprofile.advertisingmanager.advertisingid.aspx">https://msdn.microsoft.com/en-us/library/windows/apps/windows.system.userprofile.advertisingmanager.advertisingid.aspx</a></td>
   </tr>
   <tr>
    <td>Samsung DUID</td>
    <td>404660</td>
    <td>Exemple de chaîne numérique Alpha, 7XCBNROQJQPYW</td>
    <td>15950</td>
-   <td>Cet identifiant doit être collecté dans une référence de formulaire brute/non hachée/non modifiée - <a href="https://developer.samsung.com/tv/develop/api-references/samsung-product-api-references/productinfo-api">https://developer.samsung.com/tv/develop/api-references/samsung-product-api-references/productinfo-api</a> </td>
+   <td>Cet identifiant doit être collecté dans une référence de formulaire brute/non hachée/non modifiée - <a href="https://developer.samsung.com/tv/develop/api-references/samsung-product-api-references/productinfo-api"></a> </td>
   </tr>
 </table>
 

@@ -11,9 +11,14 @@ kt: 5971
 role: Developer
 level: Experienced
 exl-id: d1f4d44d-22c8-46d8-a662-0ded13a8566d
-source-git-commit: 124f03208f2b4e3b109b3f02a2d3d59210da5cc7
+TQID: https://experienceleague.adobe.com/6z3ruW3xzzl5N3kXcswGbKT0QpxZ7UnLG8btmqqv-b8
+product_v2:
+  - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: 72
 ht-degree: 0%
 
 ---
@@ -22,4 +27,4 @@ ht-degree: 0%
 
 Au lieu de contacter Adobe Consulting ou l’assistance clientèle pour obtenir des informations d’identification pour utiliser l’API REST, il vous suffit d’accéder à developer.adobe.com dans un navigateur et de récupérer ou d’enregistrer vos propres informations d’identification.
 
->[!VIDEO](https://video.tv.adobe.com/v/326842/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/326842/?captions=fre_fr&quality=12&learn=on)
