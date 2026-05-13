@@ -11,9 +11,16 @@ kt: 1778
 role: Developer
 level: Intermediate
 exl-id: bcb968fb-4290-4f10-b1bb-e9f41f182115
-source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
+TQID: https://experienceleague.adobe.com/Ot1-VgP7kGzBnYguaSGlH0BVwThc1yyA2GH31gnYnFs
+product_v2: id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+feature_v2: id: a8b0238e-1d43-4679-a3b4-5ba1bad83baa
+subfeature_v2: id: d7e573ad-4eda-46ec-90c4-239e75362af9
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: c1579802-ddd4-4214-8a91-97b2066abe11id: c2be0313-b3ae-45e0-b454-d20bf54b23f2id: d3cdead0-685a-4489-9250-4bb709942f66id: df401a2a-327d-468c-a5e4-b7b7ccd071a0id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
 workflow-type: tm+mt
-source-wordcount: '2333'
+source-wordcount: 2419
 ht-degree: 0%
 
 ---
@@ -52,7 +59,7 @@ Le passage au transfert côté serveur ne présente aucun inconvénient temporel
 Il y a pas mal d&#39;informations sur cette page, et tout est important, bien sûr. Cependant, cela **tout se résume à deux choses principales que vous devez faire** :
 
 1. Remplacez votre code DIL côté client par le code de transfert côté serveur
-1. Appuyez sur l’interrupteur dans le [!DNL Analytics] de [!DNL Admin Console] pour démarrer le transfert réel des données (par [!UICONTROL report suite])
+1. Appuyez sur l’interrupteur dans le [!DNL Admin Console] de [!DNL Analytics] pour démarrer le transfert réel des données (par [!UICONTROL report suite])
 
 Si vous ignorez l’une de ces tâches, le transfert côté serveur ne fonctionnera pas correctement. Des étapes et des données supplémentaires ont été ajoutées à ce document pour vous aider à effectuer correctement ces deux étapes pour votre configuration.
 
@@ -74,7 +81,7 @@ Les étapes suivantes décrivent la mise en œuvre.
 
 La principale condition préalable au transfert côté serveur est de mettre en œuvre le service Experience Cloud ID. Cette opération est plus facile à réaliser si vous utilisez Experience Platform Launch, auquel cas vous installez simplement l’extension ECID, qui fera le reste.
 
-Si vous utilisez un TMS autre qu’Adobe, ou aucun TMS, implémentez ECID pour exécuter **avant** toute autre solution Adobe. Voir la [documentation ECID](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=fr) pour plus d’informations. La seule autre condition préalable concerne les versions de code. Par conséquent, si vous appliquez simplement les versions les plus récentes du code dans les étapes suivantes, tout ira bien.
+Si vous utilisez un TMS autre qu’Adobe, ou aucun TMS, implémentez ECID pour exécuter **avant** toute autre solution Adobe. Voir la [documentation ECID](https://experienceleague.adobe.com/docs/id-service/using/home.html) pour plus d’informations. La seule autre condition préalable concerne les versions de code. Par conséquent, si vous appliquez simplement les versions les plus récentes du code dans les étapes suivantes, tout ira bien.
 
 >[!NOTE]
 >
@@ -119,15 +126,15 @@ Jusqu’à présent dans ce tutoriel, nous avons passé tout notre temps à basc
 Pour rappel, il existe deux tâches principales pour passer de DIL côté client au transfert côté serveur :
 
 1. Mise à jour du code
-1. Appuyer sur l&#39;interrupteur dans le [!DNL Analytics] [!DNL Admin Console]
+1. Appuyer sur l&#39;interrupteur dans le [!DNL Admin Console] [!DNL Analytics]
 
 Mais la question est, lequel faites-vous en premier ? Cela a-t-il de l&#39;importance ? OK, désolé, c&#39;était deux questions. Mais les réponses sont... ça dépend, et oui, ça *peut* important. C&#39;est comment ça ? Faisons une ventilation. Mais d&#39;abord une question supplémentaire qui peut se poser si vous êtes une grande organisation avec de nombreux sites : Dois-je tout faire en même temps ? Celui-là est un peu plus facile. Non. Vous pouvez le faire morceau par morceau.
 
 ### Exploration plus approfondie {#a-little-deeper-dive}
 
-La raison pour laquelle le timing et l’ordre sont importants tient au fonctionnement réel du transfert __ qui peut être résumé dans les quelques faits techniques suivants :
+La raison pour laquelle le timing et l’ordre sont importants tient au fonctionnement réel du transfert _qui peut être résumé dans les quelques faits techniques suivants :_
 
-* Si le service Experience Cloud ID (ECID) est implémenté et que le commutateur dans le [!DNL Analytics] [!DNL Admin Console] (« commutateur ») est activé, les données SERONT transférées de [!DNL Analytics] vers AAM, même si vous n’avez pas encore mis à jour le code.
+* Si le service Experience Cloud ID (ECID) est implémenté et que le commutateur dans le [!DNL Admin Console] [!DNL Analytics] (« commutateur ») est activé, les données SERONT transférées de [!DNL Analytics] vers AAM, même si vous n’avez pas encore mis à jour le code.
 * Si l’ECID n’est pas implémenté, les données ne sont pas transférées, même si l’option est activée et que le code de transfert côté serveur est présent.
 * Le code de transfert côté serveur (que ce soit dans les balises Platform ou sur la page) gère réellement la réponse et est nécessaire pour terminer la migration.
 * N’oubliez pas que le commutateur de transfert côté serveur est activé par le [!UICONTROL report suite] , mais que le code est géré par la propriété dans les balises Platform, ou par le fichier [!DNL AppMeasurement] si vous n’utilisez pas les balises Platform.
@@ -156,7 +163,7 @@ Sur la base de ces détails techniques, voici les recommandations relatives au t
 
    1. Dès que possible, mettez à jour votre code du DIL côté client vers le transfert côté unique (cela peut être dans les balises Platform ou sur la page, comme expliqué dans une autre section ci-dessus).
 
-      1. Vous devriez recevoir une réponse JSON appropriée à votre balise [!DNL Analytics] (voir la section [&#x200B; Validation et dépannage &#x200B;](#validation-and-troubleshooting) ci-dessous pour plus de détails).
+      1. Vous devriez recevoir une réponse JSON appropriée à votre balise [!DNL Analytics] (voir la section [ Validation et dépannage ](#validation-and-troubleshooting) ci-dessous pour plus de détails).
 
 >[!NOTE]
 >
@@ -197,9 +204,9 @@ Si vous n’effectuez pas de transfert côté serveur des données de [!DNL Anal
 >
 >Méfiez-vous du faux « succès ». S’il existe une réponse et que tout semble fonctionner, assurez-vous que vous disposez de l’objet `stuff` dans la réponse. Si ce n’est pas le cas, un message indiquant `"status":"SUCCESS"` peut s’afficher. Aussi fou que cela puisse paraître, c&#39;est en fait la preuve que cela ne fonctionne PAS correctement.
 >
->Si vous le voyez, cela signifie que vous avez terminé la mise à jour du code dans les balises ou [!DNL AppMeasurement] Platform, mais que le transfert dans le [!DNL Analytics] [!DNL Admin Console] n’est pas encore terminé. Dans ce cas, vous devez vérifier que vous avez activé le transfert côté serveur dans le [!DNL Analytics] [!DNL Admin Console] pour votre [!UICONTROL report suite]. Si vous l&#39;avez fait, et que cela n&#39;a pas encore duré 4 heures, soyez patient, car il peut s&#39;écouler beaucoup de temps avant que tous les changements nécessaires soient effectués sur le serveur principal.
+>Si vous le voyez, cela signifie que vous avez terminé la mise à jour du code dans les balises ou [!DNL AppMeasurement] Platform, mais que le transfert dans le [!DNL Admin Console] [!DNL Analytics] n’est pas encore terminé. Dans ce cas, vous devez vérifier que vous avez activé le transfert côté serveur dans le [!DNL Admin Console] [!DNL Analytics] pour votre [!UICONTROL report suite]. Si vous l&#39;avez fait, et que cela n&#39;a pas encore duré 4 heures, soyez patient, car il peut s&#39;écouler beaucoup de temps avant que tous les changements nécessaires soient effectués sur le serveur principal.
 
 
 ![faux succès](assets/falsesuccess.png)
 
-Pour plus d’informations sur le transfert côté serveur, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/server-side-forwarding/ssf.html?lang=fr).
+Pour plus d’informations sur le transfert côté serveur, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/server-side-forwarding/ssf.html).

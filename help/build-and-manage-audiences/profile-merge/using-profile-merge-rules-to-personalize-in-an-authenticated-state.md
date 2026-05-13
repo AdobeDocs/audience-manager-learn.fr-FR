@@ -11,9 +11,13 @@ kt: 5357
 role: User
 level: Intermediate
 exl-id: 189b751f-b71a-4579-8e2d-fc0d24e7e148
-source-git-commit: 124f03208f2b4e3b109b3f02a2d3d59210da5cc7
+TQID: https://experienceleague.adobe.com/4guNFZ0vRMWAvGpu5y4xXfO39X5-9I9u-rfC9sUIuhk
+product_v2: id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
 workflow-type: tm+mt
-source-wordcount: '42'
+source-wordcount: 44
 ht-degree: 0%
 
 ---
@@ -22,4 +26,4 @@ ht-degree: 0%
 
 Offrez à vos clients et clientes connectés une expérience personnalisée en utilisant ces paramètres [!UICONTROL Profile Merge Rule].
 
->[!VIDEO](https://video.tv.adobe.com/v/40006/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/35938/?quality=12&learn=on)

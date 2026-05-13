@@ -10,9 +10,15 @@ kt: 2977
 role: Developer
 level: Experienced
 exl-id: 0ff3f123-efb3-4124-bdf9-deac523ef8c9
-source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
+TQID: https://experienceleague.adobe.com/SMG7-LEhxtM1qAis17upYFx-mNUYITf5B-zCYIkHYYs
+product_v2: id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+feature_v2: id: a8b0238e-1d43-4679-a3b4-5ba1bad83baaid: baaa0dd2-d27e-4921-aae3-7888623a5fa5
+subfeature_v2: id: d8f681b8-67cc-42dc-85c5-a0977528a942id: e8a4c7eb-7254-4984-ac46-e651a57c7e39
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: c7d04a2c-412a-4c9d-9d7a-4456eaa5adebid: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
 workflow-type: tm+mt
-source-wordcount: '616'
+source-wordcount: 788
 ht-degree: 1%
 
 ---
@@ -38,35 +44,35 @@ Vous trouverez ci-dessous les pools d’identifiants Advertising d’appareils g
    <td>20914</td>
    <td>nombres hexadécimaux 32, généralement présentés comme 8-4-4-4-12<em>exemple, 97987bca-ae59-4c7d-94ba-ee4f19ab8c21<br/> </em> </td>
    <td>1352</td>
-   <td>Cet identifiant doit être collecté dans une référence de formulaire brute/non hachée/non modifiée - <a href="https://play.google.com/about/monetization-ads/ads/ad-id/">https://play.google.com/about/monetization-ads/ads/ad-id/</a></td>
+   <td>Cet identifiant doit être collecté dans une référence de formulaire brute/non hachée/non modifiée - <a href="https://play.google.com/about/monetization-ads/ads/ad-id/"></a></td>
   </tr>
   <tr>
    <td>Apple iOS (IDFA)</td>
    <td>20915</td>
    <td>32 nombres hexadécimaux, généralement présentés comme 8-4-4-4-12 <em>exemple, 6D92078A-8246-4BA4-AE5B-76104861E7DC<br /> </em> </td>
    <td>3560</td>
-   <td>Cet identifiant doit être collecté dans une référence de formulaire brute/non hachée/non modifiée - <a href="https://support.apple.com/en-us/HT205223">https://support.apple.com/en-us/HT205223</a></td>
+   <td>Cet identifiant doit être collecté dans une référence de formulaire brute/non hachée/non modifiée - <a href="https://support.apple.com/en-us/HT205223"></a></td>
   </tr>
   <tr>
    <td>Roku (RIDA)</td>
    <td>121963</td>
    <td>32 nombres hexadécimaux, généralement présentés comme 8-4-4-12 <em>exemple,</em> <em>fcb2a29c-315a-5e6b-bcfd-d889ba19aada</em></td>
    <td>11536</td>
-   <td>Cet identifiant doit être collecté dans une référence de formulaire brute/non hachée/non modifiée - <a href="https://sdkdocs.roku.com/display/sdkdoc/Roku+Advertising+Framework">https://sdkdocs.roku.com/display/sdkdoc/Roku+Advertising+Framework</a> </td>
+   <td>Cet identifiant doit être collecté dans une référence de formulaire brute/non hachée/non modifiée - <a href="https://sdkdocs.roku.com/display/sdkdoc/Roku+Advertising+Framework"></a> </td>
   </tr>
   <tr>
    <td>Microsoft Advertising ID (MAID)</td>
    <td>389146</td>
    <td>Chaîne numérique Alpha</td>
    <td>14593</td>
-   <td>Cet identifiant doit être collecté dans une référence de formulaire brute/non hachée/non modifiée - <a href="https://docs.microsoft.com/en-us/uwp/api/windows.system.userprofile.advertisingmanager.advertisingid">https://docs.microsoft.com/en-us/uwp/api/windows.system.userprofile.advertisingmanager.advertisingid</a><br/><a href="https://msdn.microsoft.com/en-us/library/windows/apps/windows.system.userprofile.advertisingmanager.advertisingid.aspx">https://msdn.microsoft.com/en-us/library/windows/apps/windows.system.userprofile.advertisingmanager.advertisingid.aspx</a></td>
+   <td>Cet identifiant doit être collecté dans une référence de formulaire brute/non hachée/non modifiée - <a href="https://docs.microsoft.com/en-us/uwp/api/windows.system.userprofile.advertisingmanager.advertisingid"></a><br/><a href="https://msdn.microsoft.com/en-us/library/windows/apps/windows.system.userprofile.advertisingmanager.advertisingid.aspx">https://msdn.microsoft.com/en-us/library/windows/apps/windows.system.userprofile.advertisingmanager.advertisingid.aspx</a></td>
   </tr>
   <tr>
    <td>Samsung DUID</td>
    <td>404660</td>
    <td>Exemple de chaîne numérique Alpha, 7XCBNROQJQPYW</td>
    <td>15950</td>
-   <td>Cet identifiant doit être collecté dans une référence de formulaire brute/non hachée/non modifiée - <a href="https://developer.samsung.com/tv/develop/api-references/samsung-product-api-references/productinfo-api">https://developer.samsung.com/tv/develop/api-references/samsung-product-api-references/productinfo-api</a> </td>
+   <td>Cet identifiant doit être collecté dans une référence de formulaire brute/non hachée/non modifiée - <a href="https://developer.samsung.com/tv/develop/api-references/samsung-product-api-references/productinfo-api"></a> </td>
   </tr>
 </table>
 
@@ -89,13 +95,13 @@ Lorsqu’un identifiant global d’appareil incorrect (IDFA, GAID, etc.) est env
 
 ![image d’erreur](assets/image_4_.png)
 
-Consultez la [documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/api-and-sdk-code/dcs/dcs-api-reference/dcs-error-codes.html?lang=fr#api-and-sdk-code) pour obtenir la liste des codes d’erreur.
+Consultez la [documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/api-and-sdk-code/dcs/dcs-api-reference/dcs-error-codes.html?lang=en#api-and-sdk-code) pour obtenir la liste des codes d’erreur.
 
 ## Intégration d’identifiants globaux d’appareil {#onboarding-global-device-ids}
 
-Outre l’envoi en temps réel des identifiants globaux d’appareil, vous pouvez également « [!DNL onboard] » (charger) des données par rapport aux identifiants. Ce processus est identique à celui qui s’applique aux données d’intégration par rapport à vos ID client (généralement via des paires clé/valeur), mais vous utiliseriez simplement les ID de Source de données appropriés, de sorte que les données soient affectées à l’ID d’appareil global. Vous trouverez de la documentation sur le processus d’intégration dans la [documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/batch-data-transfer-overview.html?lang=fr#implementation-integration-guides). Pensez simplement à utiliser l’identifiant global de source de données, en fonction de la plateforme que vous utilisez.
+Outre l’envoi en temps réel des identifiants globaux d’appareil, vous pouvez également « [!DNL onboard] » (charger) des données par rapport aux identifiants. Ce processus est identique à celui qui s’applique aux données d’intégration par rapport à vos ID client (généralement via des paires clé/valeur), mais vous utiliseriez simplement les ID de Source de données appropriés, de sorte que les données soient affectées à l’ID d’appareil global. Vous trouverez de la documentation sur le processus d’intégration dans la [documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/batch-data-transfer-overview.html?lang=en#implementation-integration-guides). Pensez simplement à utiliser l’identifiant global de source de données, en fonction de la plateforme que vous utilisez.
 
-Si des identifiants globaux d’appareil incorrects sont envoyés via le processus d’intégration, les erreurs s’affichent dans la [[!DNL Onboarding Status Report]](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/onboarding-status-report.html?lang=fr#reporting).
+Si des identifiants globaux d’appareil incorrects sont envoyés via le processus d’intégration, les erreurs s’affichent dans la [[!DNL Onboarding Status Report]](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/onboarding-status-report.html?lang=en#reporting).
 
 Voici un exemple d’erreur générée par ce rapport :
 
