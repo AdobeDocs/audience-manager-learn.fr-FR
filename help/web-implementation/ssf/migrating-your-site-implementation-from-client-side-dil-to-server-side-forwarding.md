@@ -12,23 +12,12 @@ role: Developer
 level: Intermediate
 exl-id: bcb968fb-4290-4f10-b1bb-e9f41f182115
 TQID: https://experienceleague.adobe.com/Ot1-VgP7kGzBnYguaSGlH0BVwThc1yyA2GH31gnYnFs
-product_v2:
-  - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
-feature_v2:
-  - id: a8b0238e-1d43-4679-a3b4-5ba1bad83baa
-subfeature_v2:
-  - id: d7e573ad-4eda-46ec-90c4-239e75362af9
-role_v2:
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2:
-  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
-  - id: c1579802-ddd4-4214-8a91-97b2066abe11
-  - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
-  - id: d3cdead0-685a-4489-9250-4bb709942f66
-  - id: df401a2a-327d-468c-a5e4-b7b7ccd071a0
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+product_v2: id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+feature_v2: id: a8b0238e-1d43-4679-a3b4-5ba1bad83baa
+subfeature_v2: id: d7e573ad-4eda-46ec-90c4-239e75362af9
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: c1579802-ddd4-4214-8a91-97b2066abe11id: c2be0313-b3ae-45e0-b454-d20bf54b23f2id: d3cdead0-685a-4489-9250-4bb709942f66id: df401a2a-327d-468c-a5e4-b7b7ccd071a0id: e0eb8757-182f-49f3-94a4-1587d16f5094
 source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
 workflow-type: tm+mt
 source-wordcount: 2419
@@ -92,7 +81,7 @@ Les étapes suivantes décrivent la mise en œuvre.
 
 La principale condition préalable au transfert côté serveur est de mettre en œuvre le service Experience Cloud ID. Cette opération est plus facile à réaliser si vous utilisez Experience Platform Launch, auquel cas vous installez simplement l’extension ECID, qui fera le reste.
 
-Si vous utilisez un TMS autre qu’Adobe, ou aucun TMS, implémentez ECID pour exécuter **avant** toute autre solution Adobe. Voir la [documentation ECID](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=fr) pour plus d’informations. La seule autre condition préalable concerne les versions de code. Par conséquent, si vous appliquez simplement les versions les plus récentes du code dans les étapes suivantes, tout ira bien.
+Si vous utilisez un TMS autre qu’Adobe, ou aucun TMS, implémentez ECID pour exécuter **avant** toute autre solution Adobe. Voir la [documentation ECID](https://experienceleague.adobe.com/docs/id-service/using/home.html) pour plus d’informations. La seule autre condition préalable concerne les versions de code. Par conséquent, si vous appliquez simplement les versions les plus récentes du code dans les étapes suivantes, tout ira bien.
 
 >[!NOTE]
 >
@@ -174,7 +163,7 @@ Sur la base de ces détails techniques, voici les recommandations relatives au t
 
    1. Dès que possible, mettez à jour votre code du DIL côté client vers le transfert côté unique (cela peut être dans les balises Platform ou sur la page, comme expliqué dans une autre section ci-dessus).
 
-      1. Vous devriez recevoir une réponse JSON appropriée à votre balise [!DNL Analytics] (voir la section [&#x200B; Validation et dépannage &#x200B;](#validation-and-troubleshooting) ci-dessous pour plus de détails).
+      1. Vous devriez recevoir une réponse JSON appropriée à votre balise [!DNL Analytics] (voir la section [ Validation et dépannage ](#validation-and-troubleshooting) ci-dessous pour plus de détails).
 
 >[!NOTE]
 >
@@ -220,4 +209,4 @@ Si vous n’effectuez pas de transfert côté serveur des données de [!DNL Anal
 
 ![faux succès](assets/falsesuccess.png)
 
-Pour plus d’informations sur le transfert côté serveur, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/server-side-forwarding/ssf.html?lang=fr).
+Pour plus d’informations sur le transfert côté serveur, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/server-side-forwarding/ssf.html).
