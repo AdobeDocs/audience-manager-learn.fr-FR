@@ -29,4 +29,4 @@ ht-degree: 0%
 
 Utilisez [!UICONTROL Profile Merge Rules] pour étendre la portée à tous les appareils d’un utilisateur, de sorte que vous puissiez vous adresser aux personnes plutôt qu’aux appareils.
 
->[!VIDEO](https://video.tv.adobe.com/v/35939/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40022/?captions=fre_fr&quality=12&learn=on)

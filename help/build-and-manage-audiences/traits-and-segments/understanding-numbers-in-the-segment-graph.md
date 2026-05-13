@@ -29,4 +29,4 @@ ht-degree: 0%
 
 Découvrez les nombres qui s’affichent dans le graphique de l’écran d’informations sur les segments.
 
->[!VIDEO](https://video.tv.adobe.com/v/38041/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/326850/?captions=fre_fr&quality=12&learn=on)

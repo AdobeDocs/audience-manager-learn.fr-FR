@@ -27,4 +27,4 @@ ht-degree: 0%
 
 Au lieu de contacter Adobe Consulting ou l’assistance clientèle pour obtenir des informations d’identification pour utiliser l’API REST, il vous suffit d’accéder à developer.adobe.com dans un navigateur et de récupérer ou d’enregistrer vos propres informations d’identification.
 
->[!VIDEO](https://video.tv.adobe.com/v/37889/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/326842/?captions=fre_fr&quality=12&learn=on)

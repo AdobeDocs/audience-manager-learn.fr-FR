@@ -31,4 +31,4 @@ ht-degree: 0%
 
 Découvrez les différents types de destinations dans Audience Manager et les détails du mappage de segments à chaque type de destination.
 
->[!VIDEO](https://video.tv.adobe.com/v/39158/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327386/?captions=fre_fr&quality=12&learn=on)

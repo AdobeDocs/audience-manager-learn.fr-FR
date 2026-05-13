@@ -29,4 +29,4 @@ ht-degree: 0%
 
 Obtenez quelques conseils sur la compréhension des nombres signalés pour les caractéristiques dans l’écran d’informations sur les caractéristiques.
 
->[!VIDEO](https://video.tv.adobe.com/v/327171/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/340522/?captions=fre_fr&quality=12&learn=on)

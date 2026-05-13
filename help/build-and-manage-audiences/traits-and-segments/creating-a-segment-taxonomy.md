@@ -31,4 +31,4 @@ ht-degree: 0%
 
 Lorsque vous créez un segment dans Audience Manager, vous le stockez dans une structure de dossiers, ou une « taxonomie ». Découvrez quelques conseils pour créer et gérer la taxonomie des segments.
 
->[!VIDEO](https://video.tv.adobe.com/v/37909/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/326858/?captions=fre_fr&quality=12&learn=on)

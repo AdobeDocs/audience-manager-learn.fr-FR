@@ -31,4 +31,4 @@ ht-degree: 0%
 
 Dans cette vidéo, vous découvrirez la différence entre les profils d’appareil et les profils inter-appareils, ainsi que la correspondance entre les nombres de l’interface et ces différents types de profils.
 
->[!VIDEO](https://video.tv.adobe.com/v/33445/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/36727/?captions=fre_fr&quality=12)
