@@ -33,4 +33,4 @@ Cette vidéo vous aide à comprendre les taux de correspondance dans Adobe Audie
 
 >[!VIDEO](https://video.tv.adobe.com/v/29830/?quality=12)
 
-Pour plus d’informations, consultez la [&#x200B; documentation &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html).
+Pour plus d’informations, consultez la [&#x200B; documentation &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html?lang=fr).
