@@ -41,7 +41,7 @@ ht-degree: 0%
 ---
 # Prise en charge de l’IAB TCF 2.2 dans Audience Manager {#iab-tcf-support-in-audience-manager}
 
-Adobe vous offre les moyens de gérer et de communiquer les choix de confidentialité de vos utilisateurs par le biais de la fonctionnalité d’accord préalable et par le biais du module externe Audience Manager pour la prise en charge de IAB Transparency and Consent Framework 2.2 (TCF 2.2). Cet article fonctionne avec la documentation pour vous aider à comprendre le module externe Audience Manager pour IAB TCF et comment il fonctionne avec l’objet Opt-in d’Adobe et votre fournisseur de gestion du consentement (CMP). Pour en savoir plus sur l&#39;IAB, veuillez consulter son site Web à l&#39;adresse [](https://www.iabeurope.eu/).
+Adobe vous offre les moyens de gérer et de communiquer les choix de confidentialité de vos utilisateurs par le biais de la fonctionnalité d’accord préalable et par le biais du module externe Audience Manager pour la prise en charge de IAB Transparency and Consent Framework 2.2 (TCF 2.2). Cet article fonctionne avec la documentation pour vous aider à comprendre le module externe Audience Manager pour IAB TCF et comment il fonctionne avec l’objet Opt-in d’Adobe et votre fournisseur de gestion du consentement (CMP). Pour en savoir plus sur l&#39;IAB, veuillez consulter son site Web à l&#39;adresse [&#128279;](https://www.iabeurope.eu/).
 
 ## Première étape : comprendre l’accord préalable Experience Cloud ID {#first-step-understand-ecid-s-opt-in}
 
