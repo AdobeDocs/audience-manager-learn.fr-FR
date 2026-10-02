@@ -3,7 +3,7 @@ title: Migration du serveur de suivi vers le transfert côté serveur au niveau 
 description: Découvrez comment activer le transfert côté serveur des données Adobe Analytics vers Audience Manager au niveau de la suite de rapports plutôt qu’au niveau du serveur de suivi.
 product: audience manager
 feature: Adobe Analytics Integration
-topics: null
+topics:
 activity: implement
 doc-type: technical video
 team: Technical Marketing
@@ -11,25 +11,34 @@ kt: 1776
 role: Developer
 level: Intermediate
 exl-id: 08b81e52-a28a-43e4-a284-df2460a43016
-TQID: https://experienceleague.adobe.com/-fWEu9LWHY-PtIZ-7Phf-ZOHPCD-A67mwb9i3kA7nec
+TQID: 'https://experienceleague.adobe.com/-fWEu9LWHY-PtIZ-7Phf-ZOHPCD-A67mwb9i3kA7nec'
 product_v2:
   - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+    internal-label: Audience Manager
 feature_v2:
   - id: a8b0238e-1d43-4679-a3b4-5ba1bad83baa
+    internal-label: Implementation
+  - id: b82b475d-1e7d-46c6-9172-1f9c73004b11
+    internal-label: Integrations
+subfeature_v2:
+  - id: e5dfa5ae-9082-4711-a658-d981a49c8dea
+    internal-label: Analytics integration
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
-source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
+    internal-label: Measurement
+source-git-commit: 7bd4c343895d4f0718fc9e02cb0d6dd86bbb1883
 workflow-type: tm+mt
-source-wordcount: 608
+source-wordcount: '608'
 ht-degree: 0%
-
 ---
-
 # Migration du serveur de suivi vers le transfert côté serveur au niveau de la suite de rapports {#migrating-from-tracking-server-to-report-suite-level-server-side-forwarding}
 
 Cet article et cette vidéo vous montrent comment activer le transfert côté serveur des données [!DNL Analytics] vers Audience Manager à un niveau [!UICONTROL report suite] plutôt qu’à un niveau [!UICONTROL tracking server].
@@ -52,7 +61,7 @@ Si vous ne savez pas si [!DNL tracking server forwarding] est activé pour vous,
 
 ## Transfert côté serveur au niveau [!UICONTROL Report-suite] {#report-suite-level-server-side-forwarding}
 
-L’un des plus grands avantages du passage au transfert de [!UICONTROL report suite] à partir du transfert de [!UICONTROL tracking server] est que vous pourrez désormais utiliser « Audience Analytics », c’est-à-dire la possibilité de transférer les [!UICONTROL segments] Audience Manager vers Adobe Analytics pour une analyse de segment détaillée. Cette fonctionnalité n’est PAS prise en charge si vous effectuez toujours le transfert de [!UICONTROL tracking server] et non le transfert de [!UICONTROL report suite]. Pour plus d’informations sur Audience Analytics, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=fr).
+L’un des plus grands avantages du passage au transfert de [!UICONTROL report suite] à partir du transfert de [!UICONTROL tracking server] est que vous pourrez désormais utiliser « Audience Analytics », c’est-à-dire la possibilité de transférer les [!UICONTROL segments] Audience Manager vers Adobe Analytics pour une analyse de segment détaillée. Cette fonctionnalité n’est PAS prise en charge si vous effectuez toujours le transfert de [!UICONTROL tracking server] et non le transfert de [!UICONTROL report suite]. Pour plus d’informations sur Audience Analytics, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/23701/?quality=12)
 
