@@ -46,4 +46,4 @@ ht-degree: 0%
 
 Au cours de cette session, nous expliquerons ce qu’est un DMP et présenterons quelques études de cas réels dans lesquelles les clients ont vu des retours sur investissement incroyables, allant d’achats de médias plus efficaces à des conversions considérablement accrues.
 
->[!VIDEO](https://video.tv.adobe.com/v/29770/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/3507551/?captions=fre_fr&quality=12)

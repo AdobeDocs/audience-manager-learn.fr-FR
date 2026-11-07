@@ -35,4 +35,4 @@ ht-degree: 0%
 
 Découvrez des conseils sur la création de structures de dossiers qui contiennent vos caractéristiques dans Audience Manager.
 
->[!VIDEO](https://video.tv.adobe.com/v/40266/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507672/?captions=fre_fr&quality=12&learn=on)

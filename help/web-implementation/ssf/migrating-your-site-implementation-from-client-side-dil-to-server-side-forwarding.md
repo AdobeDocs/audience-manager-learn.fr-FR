@@ -141,7 +141,7 @@ Regardez la vidéo ci-dessous pour en savoir plus sur le déplacement des option
 
 Jusqu’à présent dans ce tutoriel, nous avons passé tout notre temps à basculer le code du code DIL côté client vers le transfert côté serveur. C&#39;est très bien, parce que c&#39;est la partie la plus difficile. Cette section, bien que très simple à lire, est tout aussi importante que la mise à jour du code. Dans cette vidéo, vous allez découvrir comment basculer le bouton qui permet le transfert réel des données d’Analytics vers Audience Manager.
 
->[!VIDEO](https://video.tv.adobe.com/v/26355/?quality-12)
+>[!VIDEO](https://video.tv.adobe.com/v/3507519/?captions=fre_fr&quality-12)
 
 **REMARQUE :** comme indiqué dans la vidéo, n’oubliez pas que l’activation du transfert prendra jusqu’à 4 heures pour être entièrement implémentée sur le serveur principal d’Experience Cloud.
 
@@ -222,7 +222,7 @@ La principale façon de vérifier que le transfert côté serveur est opération
 
 Si vous n’effectuez pas de transfert côté serveur des données de [!DNL Analytics] vers Audience Manager, il n’y a vraiment aucune réponse à la balise [!DNL Analytics] (hormis un pixel 2x2). Cependant, si vous effectuez un transfert côté serveur, vous pouvez vérifier certains éléments dans la requête et la réponse [!DNL Analytics] qui vous permettront de savoir que [!DNL Analytics] communique correctement avec Audience Manager, que vous transférez l’accès et que vous obtenez une réponse.
 
->[!VIDEO](https://video.tv.adobe.com/v/26359/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/3507419/?captions=fre_fr&quality=12)
 
 >[!WARNING]
 >
