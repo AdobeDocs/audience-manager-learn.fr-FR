@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Découvrez BAAAM, l’outil de gestion en bloc des caractéristiques et des segments dans Audience Manager, y compris comment le configurer pour qu’il soit prêt à l’emploi.
 
->[!VIDEO](https://video.tv.adobe.com/v/39141/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507374/?captions=fre_fr&quality=12&learn=on)

@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Utilisez l’outil BAAAM d’Audience Manager pour créer et gérer vos segments en bloc, les placer dans des dossiers, ajouter des caractéristiques à la règle de segment, les mapper à des destinations, etc.
 
->[!VIDEO](https://video.tv.adobe.com/v/39148/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507493/?captions=fre_fr&quality=12&learn=on)
 
 >[!IMPORTANT]
 >

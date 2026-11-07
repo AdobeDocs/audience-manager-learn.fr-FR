@@ -41,6 +41,6 @@ ht-degree: 0%
 
 Cette vidéo vous aide à comprendre les taux de correspondance dans Adobe Audience Manager, ce qu’ils sont et comment ils sont calculés. Vous découvrirez également quelques bonnes pratiques, ainsi que ce qui peut entraîner un faible taux de correspondance.
 
->[!VIDEO](https://video.tv.adobe.com/v/29830/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/3507440/?captions=fre_fr&quality=12)
 
 Pour plus d’informations, consultez la [&#x200B; documentation &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html?lang=fr).
